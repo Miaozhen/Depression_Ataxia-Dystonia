@@ -1,0 +1,3182 @@
+"term_name","CB_163AD","CTX_163AD","BG_163AD","HIP_163AD","CB_497Dep","CTX_497Dep","BG_497Dep","HIP_497Dep"
+"calmodulin binding",1,1,0,0,1,1,0,1
+"cell-cell signaling",1,1,1,1,1,1,1,1
+"nervous system development",1,1,1,1,1,1,1,1
+"anterograde trans-synaptic signaling",1,1,1,1,1,1,1,1
+"chemical synaptic transmission",1,1,1,1,1,1,1,1
+"regulation of developmental process",1,1,0,0,1,1,0,0
+"trans-synaptic signaling",1,1,1,1,1,1,1,1
+"synaptic signaling",1,1,1,1,1,1,1,1
+"modulation of chemical synaptic transmission",1,1,1,1,1,1,1,1
+"regulation of trans-synaptic signaling",1,1,1,1,1,1,1,1
+"regulation of cell differentiation",1,1,0,0,1,1,0,0
+"anion transmembrane transport",1,1,0,0,1,0,0,0
+"regulation of signaling",1,1,0,0,1,1,0,1
+"regulation of cell communication",1,1,0,0,1,1,0,0
+"neurogenesis",1,1,1,1,1,1,1,1
+"regulation of localization",1,1,0,0,1,1,0,1
+"anion transport",1,1,0,0,0,0,0,0
+"regulation of multicellular organismal development",1,1,0,0,1,1,0,0
+"generation of neurons",1,1,1,1,1,1,1,1
+"signaling",1,1,0,0,1,1,0,0
+"ion transport",1,1,0,0,1,1,0,0
+"plasma membrane",1,1,0,0,1,1,0,0
+"cell periphery",1,1,0,0,1,1,0,0
+"synapse",1,1,1,1,1,1,1,1
+"cell junction",1,1,1,1,1,1,1,1
+"plasma membrane part",1,1,0,0,1,1,0,0
+"plasma membrane region",1,1,0,0,1,1,1,1
+"neuron part",1,1,1,1,1,1,1,1
+"membrane",1,1,0,1,1,1,0,1
+"synaptic membrane",1,1,1,1,1,1,1,1
+"synapse part",1,1,1,1,1,1,1,1
+"intrinsic component of plasma membrane",1,1,0,0,1,1,0,0
+"integral component of plasma membrane",1,1,0,0,1,1,0,0
+"Neuronal System",1,1,1,1,1,1,1,1
+"G alpha (12/13) signalling events",1,0,0,0,0,0,0,0
+"Hippo-Merlin Signaling Dysregulation",1,0,0,0,0,0,0,0
+"Factor: HIC1; motif: NSNNNNTGCCCSSNN; match class: 1",1,0,0,0,1,1,1,1
+"Factor: GKLF; motif: NNRRGRRNGNSNNN; match class: 1",1,1,1,1,1,1,1,1
+"protein binding",0,1,1,1,0,1,1,1
+"cytoskeletal protein binding",0,1,1,1,0,1,1,1
+"inorganic molecular entity transmembrane transporter activity",0,1,0,0,1,1,0,0
+"inorganic cation transmembrane transporter activity",0,1,0,0,1,1,0,0
+"ion transmembrane transporter activity",0,1,0,0,1,1,0,0
+"transporter activity",0,1,0,0,1,1,0,0
+"metal ion transmembrane transporter activity",0,1,0,0,1,1,0,0
+"gated channel activity",0,1,0,0,1,1,0,0
+"cation transmembrane transporter activity",0,1,0,0,1,1,0,0
+"ion gated channel activity",0,1,0,0,1,1,0,0
+"transmembrane transporter activity",0,1,0,0,1,1,0,0
+"enzyme binding",0,1,1,1,0,1,1,1
+"anion binding",0,1,1,1,1,1,1,1
+"ion channel activity",0,1,0,0,1,1,0,0
+"monovalent inorganic cation transmembrane transporter activity",0,1,0,0,1,1,0,0
+"voltage-gated ion channel activity",0,1,0,0,1,1,0,0
+"voltage-gated channel activity",0,1,0,0,1,1,0,0
+"channel activity",0,1,0,0,1,1,0,0
+"passive transmembrane transporter activity",0,1,0,0,1,1,0,0
+"purine ribonucleoside triphosphate binding",0,1,1,1,0,1,1,1
+"cation channel activity",0,1,0,0,1,1,0,0
+"purine ribonucleotide binding",0,1,1,1,0,1,1,1
+"tubulin binding",0,1,1,1,0,1,1,1
+"ribonucleotide binding",0,1,1,1,0,1,1,1
+"purine nucleotide binding",0,1,1,1,0,1,1,1
+"voltage-gated cation channel activity",0,1,0,0,1,1,0,0
+"nucleotide binding",0,1,1,1,0,1,1,1
+"nucleoside phosphate binding",0,1,1,1,0,1,1,1
+"GTPase binding",0,1,1,1,0,1,1,1
+"small GTPase binding",0,1,1,1,0,1,1,1
+"pyrophosphatase activity",0,1,1,1,0,1,1,1
+"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0,1,1,1,0,1,1,1
+"hydrolase activity, acting on acid anhydrides",0,1,1,1,0,1,1,1
+"Ras GTPase binding",0,1,1,1,0,1,1,1
+"binding",0,1,1,1,0,1,1,1
+"carbohydrate derivative binding",0,1,1,1,0,1,1,1
+"adenyl ribonucleotide binding",0,1,1,1,0,1,1,1
+"nucleoside-triphosphatase activity",0,1,1,1,0,1,1,1
+"ATP binding",0,1,1,1,0,1,1,1
+"small molecule binding",0,1,1,1,0,1,1,1
+"adenyl nucleotide binding",0,1,1,1,0,1,1,1
+"protein domain specific binding",0,1,1,1,0,1,1,1
+"potassium ion transmembrane transporter activity",0,1,0,0,1,1,0,0
+"ion binding",0,1,1,1,0,1,1,1
+"actin binding",0,1,0,0,0,1,0,0
+"voltage-gated potassium channel activity",0,1,0,0,0,1,0,0
+"microtubule binding",0,1,1,1,0,1,1,1
+"active transmembrane transporter activity",0,1,0,0,0,0,0,0
+"sodium ion transmembrane transporter activity",0,1,0,0,0,0,0,0
+"syntaxin binding",0,1,0,1,0,1,1,1
+"drug binding",0,1,1,1,0,1,1,1
+"lipid binding",0,1,0,0,0,0,0,1
+"kinase binding",0,1,1,0,0,1,1,1
+"protein kinase binding",0,1,0,0,0,1,1,1
+"potassium channel activity",0,1,0,0,1,1,0,0
+"catalytic activity",0,1,1,1,0,1,1,1
+"phospholipid binding",0,1,1,0,0,1,1,1
+"phosphoric ester hydrolase activity",0,1,0,1,0,1,0,1
+"protein kinase A binding",0,1,0,0,0,1,0,1
+"phosphoprotein phosphatase activity",0,1,0,1,0,0,0,1
+"calcium ion transmembrane transporter activity",0,1,0,0,0,1,0,0
+"ATPase activity, coupled to movement of substances",0,1,0,0,0,0,0,0
+"channel regulator activity",0,1,0,0,0,1,0,0
+"clathrin binding",0,1,1,0,0,1,1,1
+"spectrin binding",0,1,0,0,0,1,0,0
+"amino acid:cation symporter activity",0,1,0,0,0,0,0,0
+"cation-transporting ATPase activity",0,1,0,0,0,0,0,0
+"catalytic activity, acting on a protein",0,1,1,1,0,1,1,1
+"ATPase coupled ion transmembrane transporter activity",0,1,0,0,0,0,0,0
+"active ion transmembrane transporter activity",0,1,0,0,0,0,0,0
+"amino acid:sodium symporter activity",0,1,0,0,0,0,0,0
+"phosphatase activity",0,1,0,0,0,0,0,0
+"syntaxin-1 binding",0,1,0,0,0,0,0,1
+"phosphatidylinositol binding",0,1,1,1,0,1,1,1
+"actin filament binding",0,1,0,0,0,0,0,0
+"P-P-bond-hydrolysis-driven transmembrane transporter activity",0,1,0,0,0,0,0,0
+"SNARE binding",0,1,0,1,0,1,1,1
+"ATPase activity, coupled",0,1,1,1,0,1,1,1
+"primary active transmembrane transporter activity",0,1,0,0,0,0,0,0
+"GTPase regulator activity",0,1,0,1,0,1,1,1
+"glutamate receptor activity",0,1,0,0,0,1,0,0
+"nucleoside-triphosphatase regulator activity",0,1,1,1,0,1,1,1
+"ATPase activity, coupled to transmembrane movement of substances",0,1,0,0,0,0,0,0
+"ATPase activity",0,1,1,1,0,1,1,1
+"guanyl-nucleotide exchange factor activity",0,1,0,1,0,1,1,1
+"ligand-gated channel activity",0,1,0,0,0,1,0,0
+"ligand-gated ion channel activity",0,1,0,0,0,1,0,0
+"calcium-dependent phospholipid binding",0,1,0,0,0,0,1,0
+"L-glutamate transmembrane transporter activity",0,1,0,0,0,0,0,0
+"acidic amino acid transmembrane transporter activity",0,1,0,0,0,0,0,0
+"kinase activity",0,1,1,1,1,1,1,1
+"ion channel regulator activity",0,1,0,0,0,1,0,0
+"transferase activity",0,1,1,1,0,1,1,1
+"Rab GTPase binding",0,1,1,0,0,1,1,1
+"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism",0,1,0,0,0,0,0,0
+"sodium channel regulator activity",0,1,0,0,0,0,0,0
+"amyloid-beta binding",0,1,0,0,0,1,0,0
+"protein tyrosine phosphatase activity",0,1,0,1,0,0,0,0
+"ubiquitin-protein transferase activity",0,1,1,1,0,1,1,1
+"Ras guanyl-nucleotide exchange factor activity",0,1,0,0,0,1,0,1
+"GTPase activator activity",0,1,0,1,1,1,1,1
+"hydrolase activity",0,1,1,1,0,0,1,1
+"neuron differentiation",0,1,1,1,1,1,1,1
+"neuron development",0,1,1,1,1,1,1,1
+"neuron projection development",0,1,1,1,1,1,1,1
+"cell projection organization",0,1,1,1,1,1,1,1
+"plasma membrane bounded cell projection organization",0,1,1,1,1,1,1,1
+"neuron projection morphogenesis",0,1,1,1,1,1,1,1
+"plasma membrane bounded cell projection morphogenesis",0,1,1,1,1,1,1,1
+"cell projection morphogenesis",0,1,1,1,1,1,1,1
+"cell part morphogenesis",0,1,1,1,1,1,1,1
+"cell development",0,1,1,1,1,1,1,1
+"ion transmembrane transport",0,1,0,0,1,1,0,1
+"cell morphogenesis",0,1,1,1,1,1,1,1
+"regulation of cell projection organization",0,1,1,1,1,1,1,1
+"axon development",0,1,1,1,1,1,1,1
+"localization",0,1,1,1,0,1,1,1
+"regulation of nervous system development",0,1,1,1,1,1,1,1
+"cellular component morphogenesis",0,1,1,1,1,1,1,1
+"regulation of plasma membrane bounded cell projection organization",0,1,1,1,1,1,1,1
+"cell morphogenesis involved in neuron differentiation",0,1,1,1,1,1,1,1
+"regulation of neuron differentiation",0,1,1,1,1,1,1,1
+"central nervous system development",0,1,1,1,1,1,1,1
+"inorganic ion transmembrane transport",0,1,0,0,1,1,0,0
+"regulation of neurogenesis",0,1,1,1,1,1,1,1
+"transport",0,1,1,1,0,1,1,1
+"cellular component organization",0,1,1,1,0,1,1,1
+"synapse organization",0,1,1,1,1,1,1,1
+"establishment of localization",0,1,1,1,0,1,1,1
+"regulation of neuron projection development",0,1,1,1,1,1,1,1
+"regulation of transport",0,1,0,1,1,1,1,1
+"inorganic cation transmembrane transport",0,1,0,1,1,1,0,1
+"transmembrane transport",0,1,0,0,1,1,0,0
+"cell morphogenesis involved in differentiation",0,1,1,1,1,1,1,1
+"axonogenesis",0,1,1,1,1,1,1,1
+"cation transmembrane transport",0,1,0,0,1,1,0,1
+"brain development",0,1,1,1,0,1,1,1
+"head development",0,1,1,1,0,1,1,1
+"cellular component organization or biogenesis",0,1,1,1,0,1,1,1
+"regulation of cellular component organization",0,1,1,1,0,1,1,1
+"metal ion transport",0,1,0,0,1,1,0,0
+"regulation of cell development",0,1,1,1,1,1,1,1
+"neurotransmitter transport",0,1,1,1,0,1,1,1
+"establishment of vesicle localization",0,1,1,1,0,1,1,1
+"cation transport",0,1,0,0,1,1,0,0
+"regulation of membrane potential",0,1,1,0,1,1,1,1
+"vesicle localization",0,1,1,1,0,1,1,1
+"regulation of ion transmembrane transport",0,1,0,0,1,1,0,1
+"vesicle-mediated transport in synapse",0,1,1,1,0,1,1,1
+"synaptic vesicle cycle",0,1,1,1,0,1,1,1
+"regulation of ion transport",0,1,0,0,1,1,0,0
+"regulation of biological quality",0,1,0,1,1,1,1,1
+"cellular localization",0,1,1,1,0,1,1,1
+"signal release from synapse",0,1,1,1,0,1,1,1
+"neurotransmitter secretion",0,1,1,1,0,1,1,1
+"establishment of synaptic vesicle localization",0,1,1,1,0,1,1,1
+"synaptic vesicle transport",0,1,1,1,0,1,1,1
+"regulation of transmembrane transport",0,1,0,0,1,1,0,1
+"synaptic vesicle localization",0,1,1,1,0,1,1,1
+"organelle localization",0,1,1,1,0,1,1,1
+"positive regulation of nervous system development",0,1,1,1,0,1,1,1
+"behavior",0,1,1,0,1,1,1,0
+"regulation of vesicle-mediated transport",0,1,1,1,0,1,1,1
+"establishment of organelle localization",0,1,1,1,0,1,1,1
+"monovalent inorganic cation transport",0,1,0,0,0,1,0,0
+"system development",0,1,0,0,1,1,0,0
+"regulation of cellular component biogenesis",0,1,1,1,0,1,1,1
+"regulation of cell morphogenesis involved in differentiation",0,1,1,1,1,1,1,1
+"potassium ion transmembrane transport",0,1,0,0,1,1,0,0
+"cellular component assembly",0,1,1,1,0,1,1,1
+"positive regulation of neurogenesis",0,1,1,1,0,1,1,1
+"regulation of synapse structure or activity",0,1,1,0,0,1,1,0
+"myelination",0,1,1,1,0,1,1,1
+"establishment of localization in cell",0,1,1,1,0,1,1,1
+"regulation of cell morphogenesis",0,1,1,1,1,1,1,1
+"synaptic vesicle exocytosis",0,1,1,1,0,1,1,1
+"ensheathment of neurons",0,1,1,1,0,1,1,1
+"axon ensheathment",0,1,1,1,0,1,1,1
+"positive regulation of cell development",0,1,1,1,0,1,1,1
+"regulation of axonogenesis",0,1,1,1,0,1,1,1
+"axon guidance",0,1,0,0,0,1,0,0
+"regulation of synaptic plasticity",0,1,1,1,1,1,1,1
+"neuron projection guidance",0,1,0,0,0,1,0,0
+"calcium ion regulated exocytosis",0,1,1,1,0,1,1,1
+"multicellular organismal signaling",0,1,0,0,0,1,1,0
+"regulation of synapse organization",0,1,1,0,0,1,1,0
+"positive regulation of neuron differentiation",0,1,1,1,0,1,1,1
+"regulation of cation transmembrane transport",0,1,0,0,1,1,0,1
+"potassium ion transport",0,1,0,0,1,1,0,0
+"negative regulation of cell projection organization",0,1,1,1,0,1,1,1
+"positive regulation of cellular component organization",0,1,1,1,0,1,1,1
+"protein localization to cell periphery",0,1,1,1,0,1,1,1
+"cognition",0,1,1,0,1,1,1,1
+"negative regulation of nervous system development",0,1,0,0,0,1,0,1
+"regulation of transporter activity",0,1,0,0,0,1,0,1
+"synaptic transmission, glutamatergic",0,1,1,0,1,1,1,0
+"intracellular signal transduction",0,1,0,0,1,1,1,1
+"multicellular organism development",0,1,0,0,1,1,0,0
+"small GTPase mediated signal transduction",0,1,0,1,0,1,1,1
+"positive regulation of cell projection organization",0,1,1,1,0,1,1,1
+"learning or memory",0,1,1,0,1,1,1,0
+"vesicle-mediated transport",0,1,1,1,0,1,1,1
+"cellular component biogenesis",0,1,1,1,0,1,1,1
+"positive regulation of neuron projection development",0,1,1,1,0,1,1,1
+"regulation of neurotransmitter levels",0,1,0,1,1,1,1,1
+"gliogenesis",0,1,0,0,0,1,0,1
+"positive regulation of synaptic transmission",0,1,1,0,1,1,1,1
+"negative regulation of neurogenesis",0,1,0,0,0,1,0,1
+"forebrain development",0,1,1,0,0,1,0,0
+"anatomical structure morphogenesis",0,1,0,0,1,1,0,0
+"dendrite development",0,1,1,1,1,1,1,1
+"regulation of transmembrane transporter activity",0,1,0,0,0,1,0,1
+"regulation of postsynaptic membrane potential",0,1,1,0,1,1,1,0
+"protein modification process",0,1,1,1,0,1,1,1
+"cellular protein modification process",0,1,1,1,0,1,1,1
+"negative regulation of cellular component organization",0,1,1,1,0,1,1,1
+"protein localization",0,1,1,1,0,1,1,1
+"clathrin-dependent endocytosis",0,1,1,1,0,1,1,1
+"phosphorus metabolic process",0,1,1,1,1,1,1,1
+"regulation of ion transmembrane transporter activity",0,1,0,0,0,1,0,1
+"Ras protein signal transduction",0,1,0,1,0,1,1,1
+"acidic amino acid transport",0,1,0,0,0,1,0,0
+"sodium ion transmembrane transport",0,1,0,0,0,1,0,0
+"intracellular transport",0,1,1,1,0,1,1,1
+"phosphate-containing compound metabolic process",0,1,1,1,1,1,1,1
+"adult behavior",0,1,1,0,0,1,1,0
+"dephosphorylation",0,1,1,1,0,1,1,1
+"anatomical structure development",0,1,0,0,1,1,0,0
+"neuron projection extension",0,1,1,1,0,1,1,1
+"glutamate secretion",0,1,0,0,0,1,0,0
+"membrane depolarization",0,1,0,0,0,1,0,0
+"developmental process",0,1,0,0,1,1,0,0
+"regulation of calcium ion-dependent exocytosis",0,1,1,1,0,1,1,1
+"regulation of exocytosis",0,1,1,1,0,1,1,1
+"negative regulation of neuron differentiation",0,1,0,0,0,1,1,1
+"regulation of metal ion transport",0,1,0,0,0,1,0,0
+"membrane organization",0,1,1,1,0,1,1,1
+"adult locomotory behavior",0,1,1,0,0,1,1,0
+"negative regulation of cell development",0,1,0,0,0,1,0,0
+"protein localization to plasma membrane",0,1,1,1,0,1,1,1
+"developmental growth involved in morphogenesis",0,1,1,0,0,1,1,1
+"macromolecule localization",0,1,1,1,0,1,1,1
+"learning",0,1,1,0,1,1,1,1
+"amino acid transport",0,1,0,0,0,0,0,0
+"developmental cell growth",0,1,1,0,0,1,1,1
+"protein dephosphorylation",0,1,1,1,0,1,1,1
+"cell communication",0,1,0,0,1,1,0,0
+"glial cell differentiation",0,1,0,0,0,1,0,0
+"microtubule polymerization",0,1,1,1,0,0,0,1
+"regulation of dendrite development",0,1,1,1,1,1,1,1
+"glutamate receptor signaling pathway",0,1,0,0,1,1,1,1
+"signal release",0,1,0,0,0,1,1,1
+"regulation of gliogenesis",0,1,0,0,0,0,0,0
+"regulation of protein complex assembly",0,1,1,1,0,1,1,1
+"protein polymerization",0,1,1,1,0,1,1,1
+"import into cell",0,1,0,0,0,1,0,0
+"sodium ion transport",0,1,0,0,0,0,0,0
+"negative regulation of neuron projection development",0,1,0,0,0,1,1,1
+"regulation of neurotransmitter transport",0,1,1,1,0,1,1,1
+"locomotory behavior",0,1,1,0,0,1,1,0
+"regulation of neuronal synaptic plasticity",0,1,1,1,0,1,1,1
+"actin filament-based process",0,1,1,0,0,1,1,1
+"regulation of neurotransmitter secretion",0,1,1,1,0,1,1,1
+"regulation of synaptic transmission, glutamatergic",0,1,0,0,1,1,0,0
+"calcium ion transmembrane transport",0,1,0,0,0,1,0,0
+"movement of cell or subcellular component",0,1,0,0,0,1,0,0
+"macromolecule modification",0,1,1,1,0,1,1,1
+"cellular developmental process",0,1,0,0,1,1,0,0
+"telencephalon development",0,1,1,1,0,1,0,0
+"regulation of short-term neuronal synaptic plasticity",0,1,0,0,0,1,0,0
+"regulation of synaptic vesicle cycle",0,1,1,1,0,1,1,1
+"regulation of cellular localization",0,1,1,1,0,1,1,1
+"developmental maturation",0,1,0,0,0,1,0,0
+"dicarboxylic acid transport",0,1,0,0,0,0,0,0
+"regulation of cellular component size",0,1,1,1,0,1,1,1
+"synaptic vesicle recycling",0,1,1,1,0,1,1,1
+"import across plasma membrane",0,1,0,0,0,0,0,0
+"regulation of sodium ion transmembrane transporter activity",0,1,0,0,0,0,0,1
+"regulation of protein polymerization",0,1,1,1,0,1,1,1
+"cell differentiation",0,1,0,0,1,1,0,0
+"cytoskeleton organization",0,1,1,1,0,1,1,1
+"cardiac conduction",0,1,0,0,0,1,0,0
+"synaptic vesicle endocytosis",0,1,1,1,0,1,1,1
+"presynaptic endocytosis",0,1,1,1,0,1,1,1
+"Rac protein signal transduction",0,1,0,0,0,1,0,0
+"supramolecular fiber organization",0,1,0,0,0,1,0,1
+"neurotransmitter uptake",0,1,0,0,0,0,0,0
+"regulation of potassium ion transmembrane transport",0,1,0,0,0,0,0,0
+"regulation of sodium ion transport",0,1,0,0,0,0,0,0
+"synapse assembly",0,1,0,0,0,1,1,0
+"regulation of sodium ion transmembrane transport",0,1,0,0,0,0,0,0
+"positive regulation of transport",0,1,0,0,0,1,0,1
+"divalent metal ion transport",0,1,0,0,0,1,0,0
+"regulation of small GTPase mediated signal transduction",0,1,0,0,0,1,1,1
+"negative regulation of axonogenesis",0,1,0,0,0,1,1,0
+"localization within membrane",0,1,1,1,0,1,1,1
+"regulation of dendrite morphogenesis",0,1,1,1,0,1,1,1
+"developmental growth",0,1,0,0,0,1,0,0
+"neuron projection organization",0,1,1,1,0,1,1,1
+"chemical synaptic transmission, postsynaptic",0,1,0,0,0,1,1,0
+"regulation of phosphatase activity",0,1,1,0,0,1,1,0
+"L-glutamate import",0,1,0,0,1,0,0,0
+"neuron death",0,1,0,0,0,1,0,1
+"inositol lipid-mediated signaling",0,1,0,0,0,0,0,0
+"protein transport within plasma membrane",0,1,1,0,0,1,1,0
+"neurotransmitter receptor transport",0,1,1,0,0,1,1,0
+"protein transport within lipid bilayer",0,1,1,0,0,0,0,0
+"organic substance transport",0,1,1,1,0,1,1,1
+"protein localization to synapse",0,1,1,0,0,1,1,1
+"microtubule polymerization or depolymerization",0,1,0,1,0,0,0,1
+"divalent inorganic cation transport",0,1,0,0,0,1,0,0
+"organelle transport along microtubule",0,1,0,1,0,1,1,0
+"negative regulation of neuron death",0,1,0,0,0,1,0,0
+"neuron recognition",0,1,0,0,0,0,0,0
+"neuromuscular process",0,1,1,0,0,1,1,0
+"negative regulation of protein complex assembly",0,1,0,0,0,0,0,0
+"organelle organization",0,1,1,1,0,1,1,1
+"cellular response to metal ion",0,1,0,0,0,1,0,0
+"ion homeostasis",0,1,0,0,0,1,0,0
+"Golgi vesicle transport",0,1,1,1,0,0,1,1
+"cytosolic transport",0,1,1,1,0,0,1,1
+"regulation of neuron death",0,1,0,0,0,1,0,0
+"excitatory postsynaptic potential",0,1,0,0,0,1,1,0
+"endomembrane system organization",0,1,1,1,0,1,1,1
+"regulation of catabolic process",0,1,1,1,0,1,1,1
+"regulation of synapse assembly",0,1,0,0,0,1,0,0
+"regulation of organelle organization",0,1,1,1,0,1,1,1
+"regulation of protein catabolic process",0,1,1,1,0,0,1,1
+"peripheral nervous system development",0,1,0,0,0,1,0,0
+"regulation of supramolecular fiber organization",0,1,1,1,0,1,1,1
+"regulation of microtubule polymerization",0,1,0,1,0,0,0,0
+"cytoskeleton-dependent intracellular transport",0,1,1,1,0,0,1,1
+"regulation of GTPase activity",0,1,0,1,1,1,1,1
+"cellular response to calcium ion",0,1,0,0,0,1,1,0
+"dendrite morphogenesis",0,1,1,1,1,1,1,1
+"cardiac muscle cell action potential",0,1,0,0,0,1,0,0
+"nitrogen compound transport",0,1,1,1,0,1,1,1
+"cellular protein localization",0,1,1,1,0,1,1,1
+"protein-containing complex assembly",0,1,1,1,0,1,1,1
+"regulation of catalytic activity",0,1,0,0,0,1,1,1
+"exocytosis",0,1,0,1,0,1,1,1
+"regulation of endocytosis",0,1,0,1,0,1,1,0
+"regulation of potassium ion transport",0,1,0,0,0,0,0,0
+"phosphorylation",0,1,1,1,0,1,1,1
+"phosphatidylinositol-mediated signaling",0,1,0,0,0,0,0,0
+"microtubule-based transport",0,1,1,1,0,1,1,1
+"transport along microtubule",0,1,1,1,0,1,1,1
+"cellular macromolecule localization",0,1,1,1,0,1,1,1
+"regulation of regulated secretory pathway",0,1,0,1,0,1,1,1
+"cellular protein metabolic process",0,1,1,1,0,1,1,1
+"protein localization to axon",0,1,0,0,0,1,0,0
+"regulation of amine transport",0,1,0,0,0,0,0,0
+"negative regulation of cell morphogenesis involved in differentiation",0,1,0,0,0,1,0,0
+"neuron cell-cell adhesion",0,1,0,0,0,0,0,0
+"cell projection assembly",0,1,0,1,0,0,1,1
+"calcium ion transport",0,1,0,0,0,1,0,0
+"L-glutamate transmembrane transport",0,1,0,0,0,0,0,0
+"L-glutamate import across plasma membrane",0,1,0,0,1,0,0,0
+"positive regulation of cell morphogenesis involved in differentiation",0,1,1,1,0,1,1,1
+"secretion by cell",0,1,0,1,0,1,1,1
+"cellular ion homeostasis",0,1,0,0,0,0,0,0
+"dendritic spine development",0,1,1,1,1,1,1,1
+"regulation of autophagy",0,1,1,1,0,1,1,1
+"cellular cation homeostasis",0,1,0,0,0,0,0,0
+"cellular response to inorganic substance",0,1,0,0,0,1,0,0
+"regulation of synaptic vesicle transport",0,1,1,1,0,1,1,1
+"amyloid-beta metabolic process",0,1,0,0,0,0,0,0
+"regulation of cytoskeleton organization",0,1,1,1,0,1,1,1
+"establishment or maintenance of cell polarity",0,1,0,0,0,1,1,1
+"cellular homeostasis",0,1,0,0,0,0,0,0
+"action potential",0,1,0,0,0,1,0,0
+"cellular chemical homeostasis",0,1,0,0,0,1,0,0
+"cation homeostasis",0,1,0,0,0,1,0,0
+"regulation of synaptic vesicle exocytosis",0,1,1,1,0,1,1,1
+"regulation of postsynapse organization",0,1,1,0,0,0,1,0
+"neuron migration",0,1,0,0,0,0,0,0
+"adult walking behavior",0,1,0,0,0,1,1,0
+"inorganic ion import across plasma membrane",0,1,0,0,0,0,0,0
+"inorganic cation import across plasma membrane",0,1,0,0,0,0,0,0
+"protein localization to membrane",0,1,1,1,0,1,0,1
+"secretion",0,1,0,1,0,1,0,1
+"regulation of anatomical structure size",0,1,0,0,0,1,1,0
+"regulation of clathrin-dependent endocytosis",0,1,0,0,0,1,0,0
+"regulation of dendritic spine morphogenesis",0,1,1,1,1,1,1,0
+"response to organonitrogen compound",0,1,1,1,0,1,1,1
+"neuron projection",0,1,1,1,1,1,1,1
+"somatodendritic compartment",0,1,1,1,1,1,1,1
+"axon",0,1,1,1,1,1,1,1
+"cell projection",0,1,1,1,1,1,1,1
+"plasma membrane bounded cell projection",0,1,1,1,1,1,1,1
+"presynapse",0,1,1,1,0,1,1,1
+"cytoplasm",0,1,1,1,0,1,1,1
+"cell projection part",0,1,1,1,1,1,1,1
+"plasma membrane bounded cell projection part",0,1,1,1,1,1,1,1
+"neuronal cell body",0,1,1,1,1,1,1,1
+"postsynapse",0,1,1,1,1,1,1,1
+"cell body",0,1,1,1,1,1,1,1
+"dendritic tree",0,1,1,1,1,1,1,1
+"dendrite",0,1,1,1,1,1,1,1
+"cytoplasmic vesicle",0,1,1,1,0,1,1,1
+"intracellular vesicle",0,1,1,1,0,1,1,1
+"axon part",0,1,1,1,1,1,1,1
+"vesicle",0,1,1,1,0,1,1,1
+"cytoplasmic part",0,1,1,1,0,1,1,1
+"myelin sheath",0,1,1,1,0,1,1,1
+"exocytic vesicle",0,1,1,1,0,1,1,1
+"synaptic vesicle",0,1,1,1,0,1,1,1
+"whole membrane",0,1,1,1,0,1,1,1
+"bounding membrane of organelle",0,1,1,1,0,1,1,1
+"endomembrane system",0,1,1,1,0,1,1,1
+"main axon",0,1,1,1,0,1,1,1
+"asymmetric synapse",0,1,1,1,1,1,1,1
+"postsynaptic density",0,1,1,1,1,1,1,1
+"cell part",0,1,1,1,0,1,1,1
+"neuron to neuron synapse",0,1,1,1,1,1,1,1
+"cell",0,1,1,1,0,1,1,1
+"postsynaptic specialization",0,1,1,1,1,1,1,1
+"cytoplasmic vesicle part",0,1,1,1,0,1,1,1
+"transport vesicle",0,1,1,1,0,1,1,1
+"transporter complex",0,1,0,0,1,1,1,1
+"transmembrane transporter complex",0,1,0,0,1,1,1,0
+"intracellular",0,1,1,1,0,1,1,1
+"endosome",0,1,1,1,0,1,1,1
+"intracellular part",0,1,1,1,0,1,1,1
+"organelle membrane",0,1,1,1,0,1,1,1
+"exocytic vesicle membrane",0,1,1,1,0,1,1,1
+"synaptic vesicle membrane",0,1,1,1,0,1,1,1
+"Golgi apparatus",0,1,1,1,0,1,1,1
+"cation channel complex",0,1,1,0,1,1,1,1
+"ion channel complex",0,1,0,0,1,1,1,1
+"cytosol",0,1,1,1,0,1,1,1
+"postsynaptic membrane",0,1,1,1,1,1,1,1
+"cytoplasmic vesicle membrane",0,1,1,1,0,1,1,1
+"vesicle membrane",0,1,1,1,0,1,1,1
+"transport vesicle membrane",0,1,1,1,0,1,1,1
+"distal axon",0,1,1,1,1,1,1,1
+"perinuclear region of cytoplasm",0,1,1,1,0,1,1,1
+"endosome membrane",0,1,1,1,0,1,1,1
+"membrane part",0,1,0,0,1,1,0,0
+"microtubule cytoskeleton",0,1,1,1,0,1,1,1
+"Golgi apparatus part",0,1,1,1,0,1,1,1
+"endosomal part",0,1,1,1,0,1,1,1
+"cytoplasmic region",0,1,1,1,0,1,1,1
+"perikaryon",0,1,1,0,0,1,1,1
+"microtubule",0,1,1,1,0,1,1,1
+"plasma membrane protein complex",0,1,0,0,1,1,1,1
+"Golgi membrane",0,1,1,1,0,1,1,1
+"T-tubule",0,1,0,0,0,1,0,0
+"cell cortex",0,1,1,1,0,1,1,1
+"cytoskeleton",0,1,1,1,0,1,1,1
+"organelle",0,1,1,1,0,1,1,1
+"site of polarized growth",0,1,1,1,1,1,1,1
+"growth cone",0,1,1,1,1,1,1,1
+"axolemma",0,1,0,0,0,1,0,0
+"voltage-gated potassium channel complex",0,1,0,0,1,1,1,1
+"neuron spine",0,1,1,1,1,1,1,1
+"dendritic spine",0,1,1,1,1,1,1,1
+"presynaptic membrane",0,1,1,1,0,1,1,1
+"organelle part",0,1,1,1,0,1,1,1
+"presynaptic active zone",0,1,1,1,0,1,1,1
+"membrane protein complex",0,1,1,1,0,1,1,1
+"potassium channel complex",0,1,0,0,1,1,1,1
+"catalytic complex",0,1,1,1,0,1,1,1
+"cell cortex part",0,1,1,1,0,1,1,1
+"clathrin-coated pit",0,1,1,1,0,1,1,1
+"early endosome membrane",0,1,0,1,0,1,1,1
+"neuron projection cytoplasm",0,1,1,1,0,1,1,1
+"neuron projection membrane",0,1,0,0,1,1,1,0
+"recycling endosome",0,1,1,1,0,1,1,0
+"organelle subcompartment",0,1,1,1,0,1,1,1
+"clathrin-coated vesicle",0,1,1,1,0,1,1,1
+"paranode region of axon",0,1,0,1,0,1,0,0
+"intracellular organelle part",0,1,1,1,0,1,1,1
+"cell leading edge",0,1,1,1,1,1,1,1
+"early endosome",0,1,1,1,0,1,1,1
+"cell body membrane",0,1,0,0,0,1,1,0
+"neuronal cell body membrane",0,1,0,0,0,1,1,0
+"sarcolemma",0,1,0,0,0,1,0,1
+"neuron projection terminus",0,1,0,0,0,1,1,1
+"membrane-bounded organelle",0,1,1,1,0,1,1,1
+"trans-Golgi network",0,1,1,1,0,1,1,1
+"secretory vesicle",0,1,0,1,0,1,1,1
+"cell-cell junction",0,1,0,0,0,1,0,0
+"intrinsic component of membrane",0,1,0,0,1,0,0,0
+"protein-containing complex",0,1,1,1,0,1,1,1
+"late endosome",0,1,1,1,0,0,1,1
+"integral component of membrane",0,1,0,0,0,0,0,0
+"intracellular organelle",0,1,1,1,0,1,1,1
+"cortical cytoskeleton",0,1,0,1,0,1,0,0
+"endocytic vesicle",0,1,0,1,0,1,1,1
+"coated vesicle",0,1,1,1,0,1,1,1
+"clathrin-coated vesicle membrane",0,1,0,1,0,1,1,1
+"dendritic shaft",0,1,0,0,0,1,1,1
+"Golgi subcompartment",0,1,1,1,0,1,1,1
+"axon terminus",0,1,0,0,0,1,0,1
+"juxtaparanode region of axon",0,1,1,0,0,1,1,1
+"clathrin vesicle coat",0,1,0,0,0,1,1,1
+"cytoskeletal part",0,1,1,1,0,1,1,1
+"clathrin coat of coated pit",0,1,0,1,0,1,1,1
+"supramolecular complex",0,1,0,0,0,0,0,0
+"ionotropic glutamate receptor complex",0,1,0,0,1,1,1,1
+"transferase complex",0,1,1,1,0,0,1,1
+"supramolecular polymer",0,1,0,0,0,0,0,0
+"supramolecular fiber",0,1,0,0,0,0,0,0
+"cortical actin cytoskeleton",0,1,0,0,0,1,0,0
+"lysosomal membrane",0,1,0,1,0,1,1,1
+"neurotransmitter receptor complex",0,1,0,0,1,1,1,0
+"lytic vacuole membrane",0,1,0,1,0,1,1,1
+"excitatory synapse",0,1,0,0,0,1,0,0
+"Glutamatergic synapse",0,1,1,0,1,1,1,1
+"Synaptic vesicle cycle",0,1,1,1,0,1,0,1
+"Dopaminergic synapse",0,1,1,1,0,1,1,1
+"Adrenergic signaling in cardiomyocytes",0,1,1,1,1,1,0,1
+"Phosphatidylinositol signaling system",0,1,1,0,0,1,1,1
+"Endocrine and other factor-regulated calcium reabsorption",0,1,1,0,0,1,1,0
+"Axon guidance",0,1,1,1,0,1,1,1
+"Calcium signaling pathway",0,1,0,0,1,1,0,1
+"Retrograde endocannabinoid signaling",0,1,1,1,1,1,0,1
+"GABAergic synapse",0,1,1,0,1,1,0,0
+"Cholinergic synapse",0,1,0,0,0,1,0,1
+"Nicotine addiction",0,1,0,0,1,1,0,0
+"Inositol phosphate metabolism",0,1,1,0,0,1,1,1
+"Oxytocin signaling pathway",0,1,1,0,1,1,1,1
+"Circadian entrainment",0,1,0,0,0,1,0,0
+"Aldosterone synthesis and secretion",0,1,0,1,1,1,1,0
+"Morphine addiction",0,1,1,0,1,1,0,1
+"Amphetamine addiction",0,1,0,0,0,1,1,0
+"Proximal tubule bicarbonate reclamation",0,1,0,0,0,0,0,0
+"Sphingolipid signaling pathway",0,1,1,1,0,1,1,1
+"Ras signaling pathway",0,1,0,0,0,1,0,0
+"MAPK signaling pathway",0,1,0,0,0,1,0,0
+"Long-term potentiation",0,1,1,1,0,1,1,1
+"Cardiac muscle contraction",0,1,0,0,0,0,0,0
+"cAMP signaling pathway",0,1,0,0,0,1,0,0
+"cGMP-PKG signaling pathway",0,1,0,0,0,1,0,0
+"ErbB signaling pathway",0,1,0,0,0,1,1,1
+"Serotonergic synapse",0,1,0,0,0,1,0,0
+"Aldosterone-regulated sodium reabsorption",0,1,0,0,0,0,0,0
+"Fc gamma R-mediated phagocytosis",0,1,0,0,0,1,1,1
+"Human papillomavirus infection",0,1,0,0,0,1,0,0
+"Gastric acid secretion",0,1,0,0,1,1,0,0
+"Pancreatic secretion",0,1,0,0,0,0,0,0
+"Phospholipase D signaling pathway",0,1,0,0,0,1,0,0
+"Endocytosis",0,1,1,1,0,1,1,1
+"Transmission across Chemical Synapses",0,1,1,1,1,1,1,1
+"Transport of small molecules",0,1,0,1,0,1,0,0
+"Cardiac conduction",0,1,0,0,1,1,0,0
+"Neurotransmitter receptors and postsynaptic signal transmission",0,1,1,0,1,1,1,1
+"Glutamate Neurotransmitter Release Cycle",0,1,1,1,0,0,0,0
+"Protein-protein interactions at synapses",0,1,1,1,0,1,1,1
+"Membrane Trafficking",0,1,1,1,0,1,1,1
+"Ion channel transport",0,1,0,0,0,0,0,0
+"Neurexins and neuroligins",0,1,1,1,0,1,1,1
+"Ion transport by P-type ATPases",0,1,0,0,0,0,0,0
+"Phase 0 - rapid depolarisation",0,1,0,0,0,1,0,0
+"Muscle contraction",0,1,0,0,0,1,0,0
+"L1CAM interactions",0,1,1,0,0,1,1,1
+"Glutamate binding, activation of AMPA receptors and synaptic plasticity",0,1,1,1,1,1,1,1
+"Trafficking of AMPA receptors",0,1,1,1,1,1,1,1
+"Neurotransmitter release cycle",0,1,0,1,0,0,0,0
+"Clathrin-mediated endocytosis",0,1,1,1,0,1,1,1
+"Voltage gated Potassium channels",0,1,0,0,0,1,0,0
+"Potassium Channels",0,1,0,0,1,1,0,0
+"Vesicle-mediated transport",0,1,1,1,0,1,1,1
+"Interaction between L1 and Ankyrins",0,1,0,0,0,1,0,0
+"Synthesis of IP2, IP, and Ins in the cytosol",0,1,0,0,0,0,0,0
+"Serotonin Neurotransmitter Release Cycle",0,1,0,0,0,0,1,0
+"Presynaptic depolarization and calcium channel opening",0,1,0,0,0,1,0,0
+"Reduction of cytosolic Ca++ levels",0,1,0,0,0,1,0,0
+"COPI-mediated anterograde transport",0,1,1,1,0,0,1,1
+"Neurotoxicity of clostridium toxins",0,1,0,0,0,0,0,0
+"Ion homeostasis",0,1,0,0,0,1,0,0
+"Unblocking of NMDA receptors, glutamate binding and activation",0,1,0,0,0,1,0,0
+"Golgi-to-ER retrograde transport",0,1,1,1,0,0,1,1
+"Signaling by Receptor Tyrosine Kinases",0,1,0,0,0,1,1,1
+"Regulation of insulin secretion",0,1,0,0,1,1,0,0
+"Trafficking of GluR2-containing AMPA receptors",0,1,1,0,0,0,1,0
+"RAB geranylgeranylation",0,1,0,0,0,0,0,1
+"Intra-Golgi and retrograde Golgi-to-ER traffic",0,1,1,1,0,0,1,1
+"Activation of NMDA receptors and postsynaptic events",0,1,0,1,0,1,1,0
+"Calcium Regulation in the Cardiac Cell",0,1,1,1,1,1,1,1
+"Synaptic Vesicle Pathway",0,1,1,1,0,1,1,1
+"Splicing factor NOVA regulated synaptic proteins",0,1,1,0,0,1,1,1
+"Ras Signaling",0,1,0,0,0,1,1,0
+"Ciliary landscape",0,1,1,1,0,0,1,1
+"MAPK Signaling Pathway",0,1,1,0,0,1,0,0
+"Rett syndrome causing genes",0,1,1,0,0,1,1,1
+"Synaptic signaling pathways associated with autism spectrum disorder",0,1,0,0,0,0,1,1
+"Common Pathways Underlying Drug Addiction",0,1,1,1,0,1,1,1
+"Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: ZF5; motif: GSGCGCGR; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Churchill; motif: CGGGNN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: ETF; motif: CCCCGCCCCYN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: ETF; motif: GVGGMGG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F-3; motif: GGCGGGN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: GKLF; motif: NNNRGGNGNGGSN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: BEN; motif: CAGCGRNV; match class: 1",0,1,1,1,0,1,1,1
+"Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: E2F-1; motif: NGGGCGGGARV; match class: 1",0,1,1,1,0,1,1,1
+"Factor: E2F; motif: GGCGSG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Egr-1; motif: GCGCATGCG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: MOVO-B; motif: GNGGGGG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM; match class: 1",0,1,1,1,0,1,1,1
+"Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Kaiso; motif: GCMGGGRGCRGS; match class: 1",0,1,1,1,1,1,1,1
+"Factor: WT1; motif: CGCCCCCNCN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP-2; motif: MKCCCSCNGGCG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp1; motif: NGGGGCGGGGN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp1; motif: GGGGCGGGGC; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Sp1; motif: NNGGGGCGGGGNN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F-3:TBR2; motif: ANGTGYKANGGCGCSTTNNCRNNT; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp1; motif: CCCCGCCCCN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: WT1; motif: GNGGGGGCGGGG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 1",0,1,1,1,1,1,1,1
+"Factor: p300; motif: ACNTCCG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: E2F-1; motif: TTTGGCGCCAAA; match class: 1",0,1,1,1,0,1,1,1
+"Factor: BTEB3; motif: BNRNGGGAGGNGT; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F-4; motif: NNTTCCCGCCNN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: RNF96; motif: BCCCGCRGCC; match class: 1",0,1,1,1,1,1,1,1
+"Factor: EGR; motif: CGCCCCCGCNN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: EGR1; motif: NACGCCCACGCANW; match class: 0",0,1,1,1,0,1,1,1
+"Factor: BTEB2; motif: RGGGNGKGGN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Egr-1; motif: GCGGGGGCGG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: TFAP2A; motif: NGCCCYNNGGGCN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: SP2; motif: GNNGGGGGCGGGGSN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F-4; motif: NTTTCSCGCC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: TR4; motif: ACCCCGS; match class: 1",0,1,1,1,0,1,1,1
+"Factor: CTCF; motif: NCCRSTAGGGGGCGC; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Sp2; motif: NYSGCCCCGCCCCCY; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F-4; motif: GCGGGAAANA; match class: 1",0,1,1,1,0,1,1,1
+"Factor: E2F-1:TBR2; motif: NGGTGNNANGGCGCNNTNNCRNNN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F-1; motif: NNNSSCGCSAANN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: MAZ; motif: GGGGAGGG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Pax-4; motif: NNNNNYCACCCB; match class: 1",0,1,1,1,0,1,1,1
+"Factor: MAZ; motif: NKGGGAGGGGRGGR; match class: 1",0,1,1,1,1,1,1,1
+"Factor: SP1:SP3; motif: CCSCCCCCYCC; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP-2; motif: SNNNCCNCAGGCN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: GKLF; motif: CCTCCYN; match class: 1",0,1,0,1,1,1,1,1
+"Factor: SP1; motif: NCCCCKCCCCC; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP2; motif: GCCYGSGGSN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: SP1; motif: CCCCKCCCCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: RUNX2; motif: NRACCGCAAACCGCAN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: AP-2gamma; motif: GCCYNNGGS; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Sp1; motif: GGNDGGRGGCGGGG; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Egr-1; motif: GCGGGGGCGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: E2F-4; motif: NGGCGGGAARN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: ZNF692; motif: SYNGGSCCCASCCNC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: ZBP89; motif: CCCCKCCCCCNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: RUNX3; motif: NRACCGCAAACCGCAN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: SP1; motif: NRGKGGGCGGGGCN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Egr-1; motif: CCGCCCMCG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: WT1; motif: NNGGGNGGGSGN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Osx; motif: CCNCCCCCNNN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Sp2; motif: TGGGCGCGCCCA; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Sp3; motif: GGGGCGGGGSNN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: GEMIN3; motif: NCWGGRARRGRGNGNG; match class: 1",0,1,0,0,1,1,0,0
+"Factor: RUNX2; motif: WRACCGCANWAACCGCAN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Egr-1; motif: NNNNNGYGKGGGNGGGNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: EGR1; motif: NCNCCGCCCCCGCN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: CKROX; motif: SCCCTCCCC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: EGR1; motif: NGNGKGGGYGGNGS; match class: 0",0,1,1,1,0,1,1,1
+"Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: E2F-3:FOXO6; motif: NAATGACACGCGCCCMC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: EGR1; motif: NCNCCGCCCCCGCN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP-2alpha; motif: GCCNNNRGS; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Egr-1; motif: NGCGTGCGY; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AhR,; motif: NRCGTGNGN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: WT1; motif: NNGGGNGGGSGN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Sp4; motif: SCCCCKCCCCCSN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: CPBP; motif: SNCCCNN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: CPBP; motif: NGGGCGG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp6; motif: WGGGCGG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp2; motif: WGGGCGG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp1; motif: GGGGCGGGGT; match class: 1",0,1,1,1,0,1,1,1
+"Factor: SP1:SP3; motif: CCSCCCCCYCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: ZBP89; motif: CCCCKCCCCCNN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: RREB-1; motif: GGGWCSA; match class: 1",0,1,1,1,0,1,1,1
+"Factor: SP1; motif: GGGGYGGGGNS; match class: 1",0,1,1,1,1,1,1,1
+"Factor: WT1; motif: SMCNCCNSC; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Sp1; motif: GGNDGGRGGCGGGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: SP1; motif: CCCCKCCCCC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: EGR1; motif: NACGCCCACGCANW; match class: 1",0,1,1,1,1,1,1,1
+"Factor: AP-2gamma; motif: GCCYNCRGSN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: AP-2beta; motif: GCNNNGGSCNGVGGGN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: EGR4; motif: NNMCGCCCACGCANNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: NF-E4; motif: CHCCCTCKCCWG; match class: 0",0,1,0,0,1,1,1,1
+"Factor: LKLF; motif: GGGGTGGKSN; match class: 1",0,1,1,1,1,1,0,1
+"Factor: MZF-1; motif: KNGNKAGGGGNAA; match class: 1",0,1,1,1,0,1,1,1
+"Factor: SALL2; motif: GGGTGGG; match class: 1",0,1,0,1,1,1,1,1
+"Factor: WT1; motif: SMCNCCNSC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: LRF; motif: GGGGKYNNB; match class: 1",0,1,0,0,0,1,1,1
+"Factor: HIC1; motif: NSNNNNTGCCCSSNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: HSF4; motif: CTGCMRN; match class: 1",0,1,0,0,0,1,0,0
+"Factor: Sp2; motif: GYCCCGCCYCYNNNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Sp2; motif: GGSNNGGGGGCGGGGCCNGNGS; match class: 0",0,1,1,1,0,1,1,1
+"Factor: CKROX; motif: SCCCTCCCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Kaiso; motif: TCTCGCGAG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Egr-1; motif: WTGCGTGGGCGK; match class: 0",0,1,1,1,0,1,1,1
+"Factor: WT1; motif: GNGGGGGCGGGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: SP1; motif: NRGKGGGCGGGGCN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: CPBP; motif: NGGGCGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Sp2; motif: WGGGCGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Sp6; motif: WGGGCGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Sp1; motif: GGGGCGGGGC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: CHD2; motif: TCTCGCGAG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: CNOT3; motif: GGCCGCGSSS; match class: 0",0,1,1,1,1,1,1,1
+"Factor: SP1; motif: GGGGYGGGGNS; match class: 0",0,1,1,1,0,1,1,1
+"Factor: E2F; motif: TTTSGCGS; match class: 1",0,1,1,1,0,1,1,1
+"Factor: ZBTB7C; motif: GKCCCGGGCKG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: E2F-1; motif: TTGGCGCGRAANNGNM; match class: 1",0,1,1,1,0,1,1,1
+"Factor: KLF17; motif: NGGGCGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: LKLF; motif: NGGGCGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: SP1; motif: NCCCCKCCCCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: CTCF; motif: WGCGCCMYCTAGYGGYN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: RUNX3; motif: NRACCGCANWAACCRCAN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: FPM315; motif: SRGGGAGGAGGN; match class: 0",0,1,0,1,0,1,0,1
+"Factor: KROX; motif: CCCGCCCCCRCCCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: SP2; motif: GGGCGGGAC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: WT1; motif: NGCGGGGGGGTSMMCYN; match class: 1",0,1,1,1,1,1,1,1
+"Factor: ER71:Pax-5; motif: ACCGGAACYACGCWTSANTG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: NRSE; motif: TTYAGCWCCDCGGASAGYRCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: BTEB2; motif: GNAGGGGGNGGGSSNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Slug; motif: SSSNNNKCACCTGN; match class: 0",0,1,0,1,0,1,0,1
+"Factor: E2F-1; motif: NTTTCGCGCS; match class: 0",0,1,1,1,0,1,1,1
+"Factor: EGR1; motif: NGNGKGGGYGGNGS; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Pax-5; motif: BCNNNRNGCANBGNTGNRTAGCSGCHNB; match class: 1",0,1,0,0,0,1,0,1
+"Factor: E2F-1:DP-1; motif: TTTCSCGC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: SP4; motif: NWRGCCACGCCCMCTYN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: GKLF; motif: GCCMCRCCCNNN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp2; motif: NYSGCCCCGCCCCCY; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Sp3; motif: GGGGCGGGGSNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Osx; motif: CCNCCCCCNNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: E2F; motif: TTTCGCGC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp1; motif: GGGGCGGGGT; match class: 0",0,1,1,1,0,1,1,1
+"Factor: ZSCAN18; motif: TRRCGRCGNMCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: FKLF; motif: BGGGNGGVMD; match class: 1",0,1,1,1,1,1,1,1
+"Factor: NGFI-C; motif: WTGCGTGGGYGG; match class: 0",0,1,1,1,0,1,1,1
+"Factor: VDR; motif: GGGKNARNRRGGWSA; match class: 1",0,1,1,0,1,1,1,1
+"Factor: DPF2; motif: NYCACYTCCYCNYYCY; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: ZBP89; motif: YCCYCCCCCM; match class: 0",0,1,0,0,0,1,0,0
+"Factor: EGR-1; motif: TGCGTGGGCGK; match class: 0",0,1,1,1,0,1,1,1
+"Factor: RREB-1; motif: CCCCAAACMMCCCC; match class: 1",0,1,0,0,0,1,0,0
+"Factor: AP-2gamma; motif: GCCYNCRGSN; match class: 0",0,1,0,1,0,1,1,1
+"Factor: GCMa:PEA3; motif: ATRCGGGCGGAAGTR; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp1; motif: CCCCGCCCCN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: CTCF; motif: NCCRSTAGGGGGCGC; match class: 0",0,1,1,1,0,0,1,1
+"Factor: TFII-I; motif: RGAGGKAGG; match class: 0",0,1,0,0,0,0,0,1
+"Factor: TFII-I; motif: RGAGGKAGG; match class: 1",0,1,0,0,1,1,0,0
+"Factor: E2F-1:DP-2; motif: TTTSSCGC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Elk-1; motif: NNNNCCGGAARTNN; match class: 0",0,1,0,1,0,1,1,1
+"Factor: E2F-4:DP-1; motif: TTTSGCGC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Sp2; motif: GGSNNGGGGGCGGGGCCNGNGS; match class: 1",0,1,1,1,1,1,1,1
+"Factor: Egr-2; motif: NTGCGTRGGCGK; match class: 0",0,1,1,1,0,0,1,1
+"Factor: EGR; motif: CGCCCCCGCNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: E2F-1; motif: NKTSSCGC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: MAZ; motif: CCCTCCCYCYN; match class: 0",0,1,0,0,0,1,0,1
+"Factor: Spz1; motif: DNNGGRGGGWWNNNN; match class: 1",0,1,0,0,0,1,1,1
+"Factor: ctcf; motif: CCNCNAGRKGGCRSTN; match class: 1",0,1,0,1,1,1,1,1
+"Factor: Egr; motif: GTGGGSGCRRS; match class: 1",0,1,1,0,0,1,1,1
+"Factor: E2F; motif: NNTTTCGCGCN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: PLAG1; motif: CCCCCKWNNNGGSCCC; match class: 1",0,1,1,1,1,1,1,1
+"Factor: BTEB2; motif: RGGGNGKGGN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: Elk-1:Pax-5; motif: ACCGGAACYACGCWTSANYG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: WT1; motif: NGCGGGGGGGTSMMCYN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: E2F1; motif: NNNNNGCGSSAAAN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: TFAP2C; motif: NGCCCNNRGGCA; match class: 1",0,1,1,1,1,1,1,1
+"Factor: E2F; motif: TTTSGCGSG; match class: 1",0,1,1,1,0,0,1,1
+"Factor: Sp2; motif: GYCCCGCCYCYNNNN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: FPM315; motif: SRGGGAGGAGGN; match class: 1",0,1,0,0,1,1,0,0
+"Factor: AP-2gamma:E2F-8; motif: NTTCCCGCNNSCCCSMGGC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: KLF; motif: GGGNGGGG; match class: 1",0,1,0,0,1,1,0,0
+"Factor: Egr-3; motif: NTGCGTGGGCGK; match class: 0",0,1,1,1,0,1,1,1
+"Factor: HIC1; motif: NNNGGKTGCCCSNNNNNN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: E2F-1; motif: TTTSGCGS; match class: 0",0,1,1,1,0,0,1,1
+"Factor: E2F-1; motif: TTGGCGCGRAANNGNM; match class: 0",0,1,1,1,0,1,1,1
+"Factor: AHR; motif: CACGCN; match class: 1",0,1,1,1,0,0,1,1
+"Factor: NGFI-C; motif: WTGCGTGGGYGG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: SP2; motif: GNNGGGGGCGGGGSN; match class: 0",0,1,1,1,0,1,1,1
+"Factor: ELK1; motif: NACTTCCGSCGGAAGYN; match class: 1",0,1,1,1,0,1,1,1
+"Factor: EGR-1; motif: TGCGTGGGCGK; match class: 1",0,1,1,1,1,1,1,1
+"Factor: FPM315; motif: GGAGGAGGRRGRGGRGGRRGR; match class: 0",0,1,0,0,0,1,0,1
+"Factor: E2F-1; motif: NKTSSCGC; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Pax-5; motif: RRMSWGANWYCTNRAGCGKRACSRYNSM; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Egr-1; motif: WTGCGTGGGCGK; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Egr-1; motif: CCGCCCMCG; match class: 1",0,1,1,1,0,1,1,1
+"Factor: ZNF511; motif: GGRRGRGGCWGNG; match class: 1",0,1,0,0,1,1,0,1
+"Factor: Egr-1; motif: ACCGCCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: BTEB2; motif: GCCCCRCCCH; match class: 1",0,1,1,1,0,1,1,1
+"Factor: E2F-1; motif: TTTSGCGCGMNR; match class: 0",0,1,1,1,0,1,1,1
+"Factor: ER71:SREBP-2; motif: NTSACGTGACGGAARY; match class: 1",0,1,1,1,0,1,1,1
+"Factor: KLF3; motif: CCMCACCCNG; match class: 0",0,1,0,0,0,1,1,1
+"Factor: AP-2alphaA; motif: ANMGCCTNAGGCKNT; match class: 1",0,1,1,1,0,1,1,1
+"Factor: RNF96; motif: BCCCGCRGCC; match class: 0",0,1,1,1,0,1,1,1
+"Factor: ERG; motif: ACCGGAWATCCGGT; match class: 1",0,1,1,1,0,1,1,1
+"Factor: Egr-1; motif: NNNNNGYGKGGGNGGGNN; match class: 1",0,1,0,1,0,1,1,1
+"Factor: LKLF; motif: CNCCACCCS; match class: 1",0,1,0,0,0,1,0,0
+"hsa-miR-329-3p",0,1,1,0,0,0,0,0
+"hsa-miR-8485",0,1,1,0,0,1,0,0
+"hsa-miR-362-3p",0,1,0,0,0,0,0,0
+"cerebral cortex; neuropil[Approved,Medium]",0,1,1,1,0,1,1,0
+"cerebral cortex; neuropil[Approved,High]",0,1,1,1,0,1,0,0
+"hippocampus; neuronal cells[Approved,Medium]",0,1,1,1,0,1,1,0
+"cerebellum; cells in granular layer[Approved,Medium]",0,1,1,1,0,1,1,0
+"colon; peripheral nerve/ganglion[Approved,Medium]",0,1,1,1,0,1,1,0
+"cerebral cortex; neuronal cells[Approved,High]",0,1,1,1,0,0,1,0
+"cerebellum; cells in granular layer[Approved,High]",0,1,1,1,0,0,1,0
+"cerebellum; Purkinje cells[Approved,Medium]",0,1,1,1,0,0,1,0
+"cerebellum; cells in molecular layer[Approved,High]",0,1,1,0,0,0,0,0
+"Dystonia",0,1,1,0,0,0,1,0
+"Myoclonus",0,1,1,0,0,1,1,0
+"Tremor",0,1,1,0,0,1,1,0
+"Rigidity",0,1,1,0,0,1,1,0
+"Epileptic encephalopathy",0,1,1,0,0,1,1,0
+"Dysarthria",0,1,1,0,0,1,1,0
+"Impulsivity",0,1,1,0,0,1,1,0
+"Unsteady gait",0,1,1,0,0,1,1,0
+"Mental deterioration",0,1,1,0,0,1,1,0
+"Dyskinesia",0,1,1,0,0,1,1,0
+"Cerebellar atrophy",0,1,1,0,0,1,1,0
+"Parkinsonism",0,1,1,0,0,1,1,0
+"Difficulty walking",0,1,1,0,0,0,1,0
+"EEG with multifocal slow activity",0,1,1,0,0,1,1,0
+"Hyporeflexia",0,1,1,0,0,1,1,0
+"Spasticity",0,1,1,0,0,1,1,0
+"Status epilepticus",0,1,1,0,0,1,1,0
+"Abnormality of vision",0,1,1,0,0,1,1,0
+"Abnormal myelination",0,1,1,0,0,1,1,0
+"Attention deficit hyperactivity disorder",0,1,1,0,0,1,1,0
+"Ataxia",0,1,1,0,0,0,1,0
+"Distal amyotrophy",0,1,1,0,0,0,1,0
+"Bradykinesia",0,1,1,0,0,1,1,0
+"Babinski sign",0,1,1,0,0,0,1,0
+"Slow progression",0,1,0,0,0,0,0,0
+"Abnormal corpus callosum morphology",0,1,1,0,0,1,1,0
+"Slow saccadic eye movements",0,1,0,0,0,0,0,0
+"Seizures",0,1,1,0,0,1,1,0
+"Inability to walk",0,1,0,0,0,0,1,0
+"Distal muscle weakness",0,1,1,0,0,0,1,0
+"Postural instability",0,1,0,0,0,1,0,0
+"Truncal ataxia",0,1,1,0,0,0,1,0
+"Limb hypertonia",0,1,1,0,0,1,1,0
+"Hypsarrhythmia",0,1,1,0,0,1,1,0
+"Dysmetria",0,1,1,0,0,0,1,0
+"Absent speech",0,1,1,0,0,0,1,0
+"Dementia",0,1,0,0,0,1,1,0
+"Dysphagia",0,1,1,0,0,1,1,0
+"Cerebral atrophy",0,1,1,0,0,0,1,0
+"Choreoathetosis",0,1,1,0,0,0,1,0
+"Aggressive behavior",0,1,1,0,0,1,1,0
+"Global developmental delay",0,1,1,0,0,0,1,0
+"Retinal degeneration",0,1,1,0,0,1,1,0
+"Intellectual disability",0,1,1,0,0,0,1,0
+"Chorea",0,1,1,0,0,0,1,0
+"Developmental regression",0,1,1,0,0,1,1,0
+"Poor head control",0,1,1,0,0,1,1,0
+"Gait ataxia",0,1,1,0,0,1,1,0
+"ubiquitin-like protein transferase activity",0,0,1,1,0,1,1,1
+"heterocyclic compound binding",0,0,1,1,0,0,1,1
+"organic cyclic compound binding",0,0,1,1,0,0,1,1
+"transferase activity, transferring phosphorus-containing groups",0,0,1,1,0,1,1,1
+"ubiquitin-like protein ligase activity",0,0,1,1,0,0,1,1
+"ubiquitin protein ligase activity",0,0,1,1,0,0,1,1
+"protein serine/threonine kinase activity",0,0,1,1,0,1,1,1
+"RNA binding",0,0,1,1,0,0,1,1
+"cation binding",0,0,1,0,0,0,1,1
+"metal ion binding",0,0,1,0,0,0,1,1
+"catalytic activity, acting on RNA",0,0,1,1,0,0,1,1
+"phosphotransferase activity, alcohol group as acceptor",0,0,1,1,0,1,1,1
+"protein C-terminus binding",0,0,1,1,0,1,1,1
+"nucleic acid binding",0,0,1,0,0,0,1,1
+"ligase activity",0,0,1,1,0,0,0,1
+"protein kinase activity",0,0,1,1,1,1,1,1
+"catalytic activity, acting on a tRNA",0,0,1,1,0,0,0,1
+"ligase activity, forming carbon-oxygen bonds",0,0,1,1,0,0,0,1
+"aminoacyl-tRNA ligase activity",0,0,1,1,0,0,0,1
+"histone binding",0,0,1,0,0,0,1,1
+"DNA-dependent ATPase activity",0,0,1,0,0,0,1,1
+"helicase activity",0,0,1,0,0,0,1,1
+"GTPase activity",0,0,1,0,0,0,1,1
+"tau-protein kinase activity",0,0,1,0,0,0,1,1
+"ribonucleoprotein complex binding",0,0,1,1,0,0,1,1
+"glutamate receptor binding",0,0,1,0,0,1,1,1
+"ATP-dependent helicase activity",0,0,1,0,0,0,1,0
+"ubiquitin-like protein ligase binding",0,0,1,1,0,1,1,1
+"magnesium ion binding",0,0,1,1,0,0,0,1
+"ubiquitin protein ligase binding",0,0,1,1,0,1,1,1
+"ribonucleoside binding",0,0,1,1,0,0,1,1
+"ubiquitin-like protein binding",0,0,1,1,0,0,1,1
+"transcription factor binding",0,0,1,1,0,0,1,1
+"purine ribonucleoside binding",0,0,1,1,0,0,1,1
+"GTP binding",0,0,1,1,0,0,1,1
+"purine nucleoside binding",0,0,1,1,0,0,1,1
+"nucleoside binding",0,0,1,1,0,0,1,1
+"tau protein binding",0,0,1,0,0,0,1,1
+"transcription coactivator activity",0,0,1,1,0,0,1,1
+"nuclear receptor transcription coactivator activity",0,0,1,0,0,0,0,0
+"ATP-dependent DNA helicase activity",0,0,1,0,0,0,1,0
+"RNA helicase activity",0,0,1,1,0,0,1,0
+"guanyl ribonucleotide binding",0,0,1,0,0,0,1,1
+"guanyl nucleotide binding",0,0,1,0,0,0,1,1
+"RNA polymerase II-specific DNA-binding transcription factor binding",0,0,1,1,0,0,1,1
+"transcription coregulator activity",0,0,1,1,0,0,1,1
+"peptide-lysine-N-acetyltransferase activity",0,0,1,0,0,0,1,1
+"ubiquitin binding",0,0,1,0,0,0,1,1
+"GABA receptor binding",0,0,1,0,0,0,0,0
+"phosphatase regulator activity",0,0,1,0,0,0,1,0
+"exoribonuclease activity, producing 5'-phosphomonoesters",0,0,1,0,0,0,1,1
+"phosphatidylinositol bisphosphate phosphatase activity",0,0,1,0,0,0,0,0
+"androgen receptor binding",0,0,1,0,0,0,1,1
+"histone acetyltransferase activity",0,0,1,0,0,0,1,1
+"enzyme activator activity",0,0,1,1,0,1,1,1
+"peptide N-acetyltransferase activity",0,0,1,0,0,0,1,1
+"cellular metabolic process",0,0,1,1,0,0,1,1
+"cellular macromolecule metabolic process",0,0,1,1,0,0,1,1
+"protein modification by small protein conjugation or removal",0,0,1,1,0,1,1,1
+"metabolic process",0,0,1,1,0,0,1,1
+"nitrogen compound metabolic process",0,0,1,1,0,0,1,1
+"protein modification by small protein conjugation",0,0,1,1,0,1,1,1
+"primary metabolic process",0,0,1,1,0,0,1,1
+"proteasomal protein catabolic process",0,0,1,1,0,0,1,1
+"protein ubiquitination",0,0,1,1,0,1,1,1
+"cellular nitrogen compound metabolic process",0,0,1,1,0,0,1,1
+"proteasome-mediated ubiquitin-dependent protein catabolic process",0,0,1,1,0,0,1,1
+"establishment of protein localization",0,0,1,1,0,1,1,1
+"ubiquitin-dependent protein catabolic process",0,0,1,1,0,0,1,1
+"modification-dependent macromolecule catabolic process",0,0,1,1,0,0,1,1
+"organic substance metabolic process",0,0,1,1,0,0,1,1
+"modification-dependent protein catabolic process",0,0,1,1,0,0,1,1
+"proteolysis involved in cellular protein catabolic process",0,0,1,1,0,0,1,1
+"cellular protein catabolic process",0,0,1,1,0,0,1,1
+"macromolecule metabolic process",0,0,1,1,0,0,1,1
+"nucleobase-containing compound metabolic process",0,0,1,1,0,0,1,1
+"heterocycle metabolic process",0,0,1,1,0,0,1,1
+"protein transport",0,0,1,1,0,1,1,1
+"peptide transport",0,0,1,1,0,1,1,1
+"cell cycle",0,0,1,1,0,0,1,1
+"RNA processing",0,0,1,1,0,0,1,1
+"intracellular protein transport",0,0,1,1,0,0,1,1
+"nucleic acid metabolic process",0,0,1,1,0,0,1,1
+"cellular aromatic compound metabolic process",0,0,1,1,0,0,1,1
+"protein polyubiquitination",0,0,1,1,0,0,1,1
+"amide transport",0,0,1,1,0,1,1,1
+"cellular protein-containing complex assembly",0,0,1,1,0,0,1,1
+"cellular macromolecule catabolic process",0,0,1,1,0,0,1,1
+"organonitrogen compound metabolic process",0,0,1,1,0,0,1,1
+"cellular response to stress",0,0,1,1,0,0,1,1
+"protein-containing complex subunit organization",0,0,1,1,0,1,1,1
+"protein catabolic process",0,0,1,1,0,0,1,1
+"organic substance biosynthetic process",0,0,1,1,0,0,1,1
+"cellular process",0,0,1,1,0,0,1,1
+"protein metabolic process",0,0,1,1,0,0,1,1
+"cellular biosynthetic process",0,0,1,1,0,0,1,1
+"organic cyclic compound metabolic process",0,0,1,1,0,0,1,1
+"biosynthetic process",0,0,1,1,0,0,1,1
+"chromosome organization",0,0,1,1,0,0,1,1
+"macroautophagy",0,0,1,1,0,0,1,1
+"regulation of cell cycle",0,0,1,1,0,0,1,1
+"mitotic cell cycle",0,0,1,1,0,0,1,1
+"vesicle organization",0,0,1,1,0,0,1,1
+"regulation of cellular catabolic process",0,0,1,1,0,1,1,1
+"gene expression",0,0,1,1,0,0,1,1
+"RNA metabolic process",0,0,1,1,0,0,1,1
+"macromolecule catabolic process",0,0,1,1,0,0,1,1
+"cellular response to DNA damage stimulus",0,0,1,1,0,0,1,1
+"autophagy",0,0,1,1,0,1,1,1
+"process utilizing autophagic mechanism",0,0,1,1,0,1,1,1
+"cellular catabolic process",0,0,1,1,0,0,1,1
+"cellular nitrogen compound biosynthetic process",0,0,1,1,0,0,1,1
+"mRNA processing",0,0,1,1,0,0,1,1
+"cell cycle process",0,0,1,1,0,0,1,1
+"cellular macromolecule biosynthetic process",0,0,1,1,0,0,1,1
+"ribonucleoprotein complex biogenesis",0,0,1,1,0,0,1,1
+"regulation of cellular metabolic process",0,0,1,0,0,0,1,1
+"DNA repair",0,0,1,1,0,0,1,1
+"mitotic cell cycle process",0,0,1,1,0,0,1,1
+"endoplasmic reticulum to Golgi vesicle-mediated transport",0,0,1,1,0,0,1,1
+"protein-containing complex localization",0,0,1,1,0,0,1,1
+"DNA metabolic process",0,0,1,0,0,0,1,1
+"histone modification",0,0,1,1,0,0,1,1
+"post-Golgi vesicle-mediated transport",0,0,1,1,0,0,1,1
+"regulation of intracellular transport",0,0,1,1,0,1,1,1
+"vacuolar transport",0,0,1,1,0,0,1,1
+"organophosphate biosynthetic process",0,0,1,1,0,0,1,1
+"covalent chromatin modification",0,0,1,1,0,0,1,1
+"telomere capping",0,0,1,0,0,0,0,1
+"macromolecule biosynthetic process",0,0,1,1,0,0,1,1
+"catabolic process",0,0,1,1,0,0,1,1
+"ncRNA metabolic process",0,0,1,1,0,0,0,1
+"protein localization to organelle",0,0,1,1,0,0,1,1
+"regulation of macroautophagy",0,0,1,1,0,1,1,1
+"heterocycle biosynthetic process",0,0,1,0,0,0,1,1
+"peptidyl-amino acid modification",0,0,1,1,0,0,1,1
+"regulation of nucleobase-containing compound metabolic process",0,0,1,0,0,0,1,1
+"mitochondrion organization",0,0,1,1,0,0,1,1
+"cellular respiration",0,0,1,1,0,0,0,1
+"organonitrogen compound catabolic process",0,0,1,1,0,0,1,1
+"aromatic compound biosynthetic process",0,0,1,0,0,0,1,1
+"postsynapse organization",0,0,1,1,0,1,1,1
+"mRNA metabolic process",0,0,1,1,0,0,1,1
+"vesicle budding from membrane",0,0,1,1,0,0,1,1
+"nucleobase-containing compound biosynthetic process",0,0,1,0,0,0,1,1
+"peptidyl-lysine modification",0,0,1,0,0,0,1,1
+"regulation of dendritic spine development",0,0,1,0,1,1,1,0
+"RNA splicing",0,0,1,1,0,0,1,1
+"tRNA metabolic process",0,0,1,1,0,0,0,1
+"microtubule-based process",0,0,1,1,0,0,1,1
+"G2/M transition of mitotic cell cycle",0,0,1,0,0,0,1,0
+"regulation of metabolic process",0,0,1,0,0,0,1,1
+"cell cycle G2/M phase transition",0,0,1,0,0,0,1,0
+"organic cyclic compound biosynthetic process",0,0,1,0,0,0,1,1
+"vesicle-mediated transport to the plasma membrane",0,0,1,0,0,0,1,0
+"protein-containing complex disassembly",0,0,1,1,0,0,1,1
+"protein K48-linked ubiquitination",0,0,1,1,0,0,1,1
+"vacuole organization",0,0,1,1,0,0,1,1
+"positive regulation of organelle organization",0,0,1,1,0,1,1,1
+"chromatin organization",0,0,1,0,0,0,1,1
+"regulation of primary metabolic process",0,0,1,0,0,0,1,1
+"dendritic spine organization",0,0,1,1,1,1,1,1
+"phospholipid biosynthetic process",0,0,1,0,0,0,1,1
+"cell cycle phase transition",0,0,1,1,0,0,1,1
+"phosphatidylinositol biosynthetic process",0,0,1,0,0,0,1,1
+"RNA splicing, via transesterification reactions",0,0,1,1,0,0,1,1
+"dendritic spine morphogenesis",0,0,1,1,1,1,1,1
+"cellular component disassembly",0,0,1,1,0,0,1,1
+"mRNA splicing, via spliceosome",0,0,1,1,0,0,1,1
+"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",0,0,1,1,0,0,1,1
+"regulation of RNA metabolic process",0,0,1,0,0,0,1,1
+"regulation of nitrogen compound metabolic process",0,0,1,0,0,0,1,1
+"organelle assembly",0,0,1,1,0,0,1,1
+"mitotic cell cycle phase transition",0,0,1,1,0,0,1,1
+"receptor localization to synapse",0,0,1,0,0,1,1,1
+"regulation of proteolysis involved in cellular protein catabolic process",0,0,1,1,0,0,1,1
+"endosomal transport",0,0,1,1,0,0,1,1
+"regulation of cellular macromolecule biosynthetic process",0,0,1,0,0,0,1,1
+"organelle disassembly",0,0,1,1,0,0,1,1
+"tRNA aminoacylation for protein translation",0,0,1,1,0,0,0,1
+"telomere maintenance",0,0,1,0,0,0,0,1
+"lysosomal transport",0,0,1,1,0,0,1,1
+"regulation of proteasomal protein catabolic process",0,0,1,1,0,0,1,1
+"regulation of cell cycle process",0,0,1,0,0,0,1,1
+"synaptic transmission, GABAergic",0,0,1,0,0,0,1,0
+"organelle localization by membrane tethering",0,0,1,1,0,1,1,1
+"RNA localization",0,0,1,1,0,0,1,1
+"tRNA aminoacylation",0,0,1,1,0,0,0,1
+"amide biosynthetic process",0,0,1,1,0,0,0,1
+"internal protein amino acid acetylation",0,0,1,0,0,0,1,1
+"positive regulation of neurotransmitter secretion",0,0,1,0,0,0,1,0
+"amino acid activation",0,0,1,1,0,0,0,1
+"protein acylation",0,0,1,1,0,0,1,1
+"internal peptidyl-lysine acetylation",0,0,1,0,0,0,1,1
+"regulation of macromolecule biosynthetic process",0,0,1,0,0,0,1,1
+"Golgi organization",0,0,1,1,0,0,1,1
+"establishment of RNA localization",0,0,1,1,0,0,1,1
+"ncRNA processing",0,0,1,1,0,0,0,1
+"regulation of cell cycle G2/M phase transition",0,0,1,0,0,0,1,0
+"regulation of G2/M transition of mitotic cell cycle",0,0,1,0,0,0,0,0
+"glycerophospholipid biosynthetic process",0,0,1,0,0,0,1,1
+"positive regulation of catabolic process",0,0,1,1,0,0,1,1
+"Golgi vesicle budding",0,0,1,1,0,0,1,1
+"organic substance catabolic process",0,0,1,1,0,0,1,1
+"histone acetylation",0,0,1,0,0,0,1,1
+"cytokinesis",0,0,1,0,0,0,1,1
+"peptidyl-lysine acetylation",0,0,1,0,0,0,1,1
+"membrane docking",0,0,1,1,0,1,1,1
+"negative regulation of organelle organization",0,0,1,1,0,0,1,1
+"DNA-templated transcription, elongation",0,0,1,0,0,0,1,1
+"protein acetylation",0,0,1,0,0,0,1,1
+"positive regulation of dendritic spine development",0,0,1,0,0,1,1,0
+"regulation of macromolecule metabolic process",0,0,1,0,0,0,1,1
+"positive regulation of dendritic spine morphogenesis",0,0,1,0,0,1,0,0
+"negative regulation of megakaryocyte differentiation",0,0,1,0,0,0,0,1
+"regulation of microtubule cytoskeleton organization",0,0,1,1,0,0,1,1
+"positive regulation of cellular catabolic process",0,0,1,1,0,1,1,1
+"protein monoubiquitination",0,0,1,1,0,0,1,1
+"peptidyl-serine phosphorylation",0,0,1,1,0,0,1,1
+"regulation of cellular protein catabolic process",0,0,1,1,0,0,1,1
+"COPII-coated vesicle budding",0,0,1,1,0,0,1,1
+"protein modification by small protein removal",0,0,1,1,0,0,1,1
+"antigen processing and presentation of exogenous peptide antigen via MHC class II",0,0,1,1,0,0,1,1
+"microtubule cytoskeleton organization",0,0,1,1,0,0,1,1
+"ribonucleoprotein complex subunit organization",0,0,1,1,0,0,1,1
+"RNA transport",0,0,1,1,0,0,1,1
+"nucleic acid transport",0,0,1,1,0,0,1,1
+"nuclear transport",0,0,1,1,0,0,1,1
+"antigen processing and presentation of peptide antigen via MHC class II",0,0,1,1,0,0,1,1
+"regulation of mitotic cell cycle",0,0,1,1,0,0,1,1
+"telomere organization",0,0,1,0,0,0,0,1
+"post-translational protein modification",0,0,1,1,0,0,1,1
+"double-strand break repair via nonhomologous end joining",0,0,1,0,0,0,0,0
+"nucleic acid-templated transcription",0,0,1,0,0,0,1,1
+"nucleobase-containing compound transport",0,0,1,1,0,0,1,1
+"double-strand break repair",0,0,1,0,0,0,0,0
+"nuclear export",0,0,1,1,0,0,1,1
+"regulation of postsynaptic membrane neurotransmitter receptor levels",0,0,1,0,0,0,1,1
+"peptidyl-serine modification",0,0,1,1,0,0,1,1
+"transcription elongation from RNA polymerase II promoter",0,0,1,0,0,0,0,1
+"DNA damage checkpoint",0,0,1,0,0,0,1,0
+"RNA biosynthetic process",0,0,1,0,0,0,1,1
+"ERAD pathway",0,0,1,1,0,0,1,1
+"symbiont process",0,0,1,1,0,1,1,1
+"ncRNA transcription",0,0,1,1,0,0,1,1
+"nucleocytoplasmic transport",0,0,1,1,0,0,1,1
+"regulation of cellular biosynthetic process",0,0,1,0,0,0,1,1
+"positive regulation of calcium ion-dependent exocytosis",0,0,1,1,0,0,1,0
+"autophagy of mitochondrion",0,0,1,1,0,0,0,1
+"mitochondrion disassembly",0,0,1,1,0,0,0,1
+"transcription, DNA-templated",0,0,1,0,0,0,1,1
+"regulation of microtubule-based process",0,0,1,1,0,0,1,1
+"mitophagy",0,0,1,0,0,0,0,0
+"ribosome biogenesis",0,0,1,1,0,0,0,1
+"glycerophospholipid metabolic process",0,0,1,0,0,0,1,1
+"viral process",0,0,1,1,0,1,1,1
+"non-recombinational repair",0,0,1,0,0,0,0,0
+"transcription by RNA polymerase I",0,0,1,0,0,0,0,1
+"positive regulation of axonogenesis",0,0,1,0,0,0,1,0
+"regulation of organelle assembly",0,0,1,1,0,0,1,1
+"organonitrogen compound biosynthetic process",0,0,1,1,0,0,0,1
+"regulation of telomere maintenance",0,0,1,1,0,0,0,1
+"regulation of chromosome organization",0,0,1,1,0,0,1,1
+"regulation of biosynthetic process",0,0,1,0,0,0,1,1
+"cytoskeleton-dependent cytokinesis",0,0,1,0,0,0,1,0
+"antigen processing and presentation of peptide or polysaccharide antigen via MHC class II",0,0,1,1,0,0,1,1
+"vesicle targeting, to, from or within Golgi",0,0,1,1,0,0,1,1
+"aerobic respiration",0,0,1,1,0,0,0,0
+"respiratory electron transport chain",0,0,1,1,0,0,0,1
+"vesicle targeting",0,0,1,1,0,0,1,1
+"positive regulation of dendrite development",0,0,1,0,0,0,1,1
+"protein autoubiquitination",0,0,1,1,0,0,1,1
+"cellular amide metabolic process",0,0,1,1,0,0,0,1
+"associative learning",0,0,1,0,0,1,1,0
+"regulation of dephosphorylation",0,0,1,0,0,0,1,0
+"actin cytoskeleton organization",0,0,1,0,0,1,1,1
+"regulation of protein stability",0,0,1,1,0,0,0,1
+"neuron-neuron synaptic transmission",0,0,1,0,0,0,0,0
+"endosome to lysosome transport",0,0,1,0,0,0,1,0
+"ATP-dependent chromatin remodeling",0,0,1,0,0,0,0,0
+"vesicle coating",0,0,1,1,0,0,1,1
+"endosome organization",0,0,1,0,0,0,0,0
+"regulation of actin polymerization or depolymerization",0,0,1,0,0,0,1,1
+"DNA-templated transcription, initiation",0,0,1,0,0,0,0,1
+"regulation of cell cycle phase transition",0,0,1,0,0,0,1,1
+"energy derivation by oxidation of organic compounds",0,0,1,1,0,0,0,1
+"cell division",0,0,1,1,0,0,1,1
+"regulation of actin filament length",0,0,1,0,0,0,1,0
+"negative regulation of protein modification process",0,0,1,0,0,0,1,1
+"regulation of nucleic acid-templated transcription",0,0,1,0,0,0,1,0
+"regulation of RNA biosynthetic process",0,0,1,0,0,0,1,0
+"axon extension",0,0,1,1,0,1,1,1
+"regulation of DNA metabolic process",0,0,1,0,0,0,0,0
+"DNA integrity checkpoint",0,0,1,0,0,0,1,0
+"transcription preinitiation complex assembly",0,0,1,1,0,0,1,0
+"ribonucleoprotein complex assembly",0,0,1,1,0,0,1,1
+"regulation of cell size",0,0,1,0,0,0,1,0
+"COPII vesicle coating",0,0,1,1,0,0,1,1
+"vesicle targeting, rough ER to cis-Golgi",0,0,1,1,0,0,1,1
+"microtubule cytoskeleton organization involved in mitosis",0,0,1,0,0,0,0,0
+"positive regulation of neurotransmitter transport",0,0,1,0,0,0,0,0
+"positive regulation of dendrite morphogenesis",0,0,1,0,0,0,1,0
+"organophosphate metabolic process",0,0,1,0,0,0,0,1
+"positive regulation of intracellular transport",0,0,1,1,0,1,1,1
+"regulation of long-term neuronal synaptic plasticity",0,0,1,0,0,1,0,0
+"mitochondrial gene expression",0,0,1,1,0,0,1,1
+"regulation of gene expression",0,0,1,0,0,0,1,0
+"Golgi to plasma membrane transport",0,0,1,0,0,0,0,0
+"ubiquitin-dependent ERAD pathway",0,0,1,1,0,0,1,1
+"regulation of transcription, DNA-templated",0,0,1,0,0,0,1,0
+"protein deubiquitination",0,0,1,1,0,0,0,1
+"regulation of phosphoprotein phosphatase activity",0,0,1,1,0,0,1,1
+"regulation of ubiquitin-dependent protein catabolic process",0,0,1,0,0,0,1,1
+"regulation of actin filament polymerization",0,0,1,0,0,0,0,0
+"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",0,0,1,0,0,0,1,1
+"endoplasmic reticulum organization",0,0,1,0,0,0,0,1
+"glycerolipid biosynthetic process",0,0,1,0,0,0,1,1
+"positive regulation of proteolysis involved in cellular protein catabolic process",0,0,1,0,0,0,1,0
+"protein K63-linked ubiquitination",0,0,1,0,0,0,0,0
+"regulation of synaptic transmission, GABAergic",0,0,1,0,0,0,0,0
+"regulation of cellular protein localization",0,0,1,1,0,1,1,1
+"regulation of axon extension",0,0,1,1,0,1,0,0
+"RNA export from nucleus",0,0,1,1,0,0,1,1
+"ciliary basal body-plasma membrane docking",0,0,1,1,0,0,1,1
+"positive regulation of chromosome organization",0,0,1,1,0,0,1,1
+"intracellular membrane-bounded organelle",0,0,1,1,0,1,1,1
+"nuclear part",0,0,1,1,0,1,1,1
+"nucleoplasm",0,0,1,1,0,1,1,1
+"nuclear lumen",0,0,1,1,0,1,1,1
+"nucleus",0,0,1,1,0,1,1,1
+"membrane-enclosed lumen",0,0,1,1,0,0,1,1
+"organelle lumen",0,0,1,1,0,0,1,1
+"intracellular organelle lumen",0,0,1,1,0,0,1,1
+"non-membrane-bounded organelle",0,0,1,1,0,1,1,1
+"intracellular non-membrane-bounded organelle",0,0,1,1,0,1,1,1
+"nucleoplasm part",0,0,1,1,0,0,1,1
+"nucleolus",0,0,1,1,0,0,1,1
+"nuclear body",0,0,1,1,0,0,1,1
+"envelope",0,0,1,1,0,0,1,1
+"organelle envelope",0,0,1,1,0,0,1,1
+"nuclear chromosome, telomeric region",0,0,1,1,0,0,1,1
+"ubiquitin ligase complex",0,0,1,1,0,0,1,1
+"chromosomal region",0,0,1,1,0,0,1,1
+"chromosome, telomeric region",0,0,1,0,0,0,1,1
+"chromosome",0,0,1,1,0,0,1,1
+"coated membrane",0,0,1,1,0,0,1,1
+"membrane coat",0,0,1,1,0,0,1,1
+"microtubule organizing center",0,0,1,1,0,0,1,1
+"ribonucleoprotein complex",0,0,1,1,0,0,1,1
+"chromosomal part",0,0,1,1,0,0,1,1
+"mitochondrion",0,0,1,1,0,0,1,1
+"centrosome",0,0,1,1,0,0,1,1
+"mitochondrial part",0,0,1,1,0,0,1,1
+"cullin-RING ubiquitin ligase complex",0,0,1,1,0,0,1,1
+"protein acetyltransferase complex",0,0,1,1,0,0,1,1
+"acetyltransferase complex",0,0,1,1,0,0,1,1
+"histone acetyltransferase complex",0,0,1,0,0,0,1,1
+"spindle",0,0,1,1,0,0,1,1
+"transferase complex, transferring phosphorus-containing groups",0,0,1,1,0,0,1,1
+"mitochondrial membrane",0,0,1,1,0,0,0,1
+"mitochondrial envelope",0,0,1,1,0,0,0,1
+"vesicle coat",0,0,1,1,0,1,1,1
+"nuclear envelope",0,0,1,1,0,1,1,1
+"nuclear speck",0,0,1,1,0,0,1,1
+"nuclear chromosome part",0,0,1,0,0,0,1,1
+"midbody",0,0,1,0,0,0,1,1
+"tethering complex",0,0,1,1,0,0,1,1
+"nuclear chromosome",0,0,1,0,0,0,1,1
+"mitochondrial membrane part",0,0,1,1,0,0,0,1
+"ribonucleoprotein granule",0,0,1,0,0,0,1,0
+"methyltransferase complex",0,0,1,0,0,0,1,0
+"mitochondrial outer membrane",0,0,1,1,0,0,1,1
+"AP-type membrane coat adaptor complex",0,0,1,1,0,0,1,1
+"histone methyltransferase complex",0,0,1,0,0,0,1,0
+"DNA-directed RNA polymerase complex",0,0,1,1,0,0,1,1
+"peptidase complex",0,0,1,1,0,0,0,1
+"nuclear DNA-directed RNA polymerase complex",0,0,1,1,0,0,1,1
+"Golgi-associated vesicle",0,0,1,1,0,1,1,1
+"intrinsic component of synaptic vesicle membrane",0,0,1,1,0,1,0,0
+"outer membrane",0,0,1,1,0,0,1,1
+"organelle inner membrane",0,0,1,1,0,0,0,1
+"mitochondrial protein complex",0,0,1,1,0,0,0,1
+"organelle outer membrane",0,0,1,1,0,0,1,1
+"phosphatase complex",0,0,1,1,0,0,1,0
+"protein serine/threonine phosphatase complex",0,0,1,1,0,0,1,0
+"intrinsic component of organelle membrane",0,0,1,1,0,0,1,1
+"HOPS complex",0,0,1,0,0,0,1,0
+"Cul3-RING ubiquitin ligase complex",0,0,1,0,0,0,0,0
+"nuclear membrane",0,0,1,1,0,1,1,1
+"trans-Golgi network membrane",0,0,1,1,0,1,1,1
+"RNA polymerase complex",0,0,1,0,0,0,1,1
+"nuclear outer membrane-endoplasmic reticulum membrane network",0,0,1,1,0,0,1,1
+"mitochondrial inner membrane",0,0,1,1,0,0,0,1
+"endoplasmic reticulum membrane",0,0,1,1,0,0,1,1
+"inner mitochondrial membrane protein complex",0,0,1,1,0,0,0,1
+"proteasome complex",0,0,1,1,0,0,0,1
+"respirasome",0,0,1,1,0,0,0,0
+"nucleolar part",0,0,1,1,0,0,0,0
+"spindle microtubule",0,0,1,0,0,0,0,0
+"H4 histone acetyltransferase complex",0,0,1,0,0,0,0,1
+"cytoplasmic ribonucleoprotein granule",0,0,1,0,0,0,1,0
+"endopeptidase complex",0,0,1,1,0,0,0,1
+"PTW/PP1 phosphatase complex",0,0,1,0,0,0,0,0
+"autophagosome",0,0,1,0,0,0,1,1
+"mitochondrial respirasome",0,0,1,1,0,0,0,0
+"PML body",0,0,1,0,0,0,1,1
+"chromosome, centromeric region",0,0,1,0,0,0,1,0
+"axon cytoplasm",0,0,1,0,0,1,1,0
+"PcG protein complex",0,0,1,0,0,0,0,0
+"site of DNA damage",0,0,1,0,0,0,1,0
+"RNA polymerase II, holoenzyme",0,0,1,0,0,0,1,1
+"retromer complex",0,0,1,0,0,0,1,1
+"microtubule organizing center part",0,0,1,1,0,0,1,1
+"nuclear periphery",0,0,1,0,0,0,1,1
+"fibrillar center",0,0,1,0,0,0,0,0
+"oxidoreductase complex",0,0,1,1,0,0,0,1
+"Ubiquitin mediated proteolysis",0,0,1,1,0,0,1,1
+"Aminoacyl-tRNA biosynthesis",0,0,1,1,0,0,1,1
+"Autophagy - animal",0,0,1,1,0,0,1,1
+"Thermogenesis",0,0,1,1,0,0,1,1
+"Alzheimer disease",0,0,1,1,0,0,0,1
+"Longevity regulating pathway",0,0,1,0,0,0,1,0
+"Huntington disease",0,0,1,1,0,0,0,1
+"Parkinson disease",0,0,1,1,0,0,0,1
+"Vasopressin-regulated water reabsorption",0,0,1,1,0,0,1,0
+"mTOR signaling pathway",0,0,1,0,0,0,0,0
+"Cellular senescence",0,0,1,0,0,0,1,0
+"Metabolic pathways",0,0,1,1,0,0,0,1
+"Oxidative phosphorylation",0,0,1,1,0,0,0,0
+"mRNA surveillance pathway",0,0,1,0,0,0,1,0
+"Gene expression (Transcription)",0,0,1,0,0,0,1,1
+"Antigen processing: Ubiquitination & Proteasome degradation",0,0,1,1,0,0,1,1
+"Post-translational protein modification",0,0,1,1,0,0,1,1
+"RNA Polymerase II Transcription",0,0,1,0,0,0,1,1
+"Metabolism of proteins",0,0,1,1,0,0,1,1
+"Transport to the Golgi and subsequent modification",0,0,1,1,0,0,1,1
+"Cell Cycle",0,0,1,1,0,0,1,1
+"Class I MHC mediated antigen processing & presentation",0,0,1,1,0,0,1,1
+"ER to Golgi Anterograde Transport",0,0,1,1,0,0,1,1
+"HIV Infection",0,0,1,1,0,0,1,1
+"Asparagine N-linked glycosylation",0,0,1,1,0,0,1,1
+"PI Metabolism",0,0,1,0,0,0,1,1
+"Transcriptional Regulation by TP53",0,0,1,1,0,0,1,1
+"Generic Transcription Pathway",0,0,1,0,0,0,1,1
+"Cell Cycle, Mitotic",0,0,1,1,0,0,0,1
+"Mitotic G2-G2/M phases",0,0,1,1,0,0,0,1
+"DNA Repair",0,0,1,0,0,0,1,1
+"Metabolism of RNA",0,0,1,1,0,0,1,1
+"G2/M Transition",0,0,1,1,0,0,0,1
+"tRNA Aminoacylation",0,0,1,1,0,0,0,1
+"Regulation of PLK1 Activity at G2/M Transition",0,0,1,0,0,0,1,0
+"Cell Cycle Checkpoints",0,0,1,1,0,0,0,1
+"M Phase",0,0,1,1,0,0,0,1
+"Regulation of TP53 Activity",0,0,1,0,0,0,1,1
+"Organelle biogenesis and maintenance",0,0,1,1,0,0,1,1
+"SUMOylation of chromatin organization proteins",0,0,1,0,0,0,0,1
+"Loss of Nlp from mitotic centrosomes",0,0,1,0,0,0,0,1
+"Loss of proteins required for interphase microtubule organization from the centrosome",0,0,1,0,0,0,0,1
+"AURKA Activation by TPX2",0,0,1,0,0,0,0,0
+"Intracellular signaling by second messengers",0,0,1,1,0,0,1,1
+"Neddylation",0,0,1,1,0,0,1,1
+"Chromatin modifying enzymes",0,0,1,0,0,0,0,0
+"Chromatin organization",0,0,1,0,0,0,0,0
+"Signaling by Hedgehog",0,0,1,1,0,0,0,1
+"Retrograde transport at the Trans-Golgi-Network",0,0,1,1,0,0,1,1
+"Centrosome maturation",0,0,1,0,0,0,0,1
+"Recruitment of mitotic centrosome proteins and complexes",0,0,1,0,0,0,0,1
+"Processing of Capped Intron-Containing Pre-mRNA",0,0,1,1,0,0,1,1
+"Macroautophagy",0,0,1,0,0,0,0,0
+"Signaling by Rho GTPases",0,0,1,0,0,0,0,1
+"PTEN Regulation",0,0,1,1,0,0,0,1
+"G2/M Checkpoints",0,0,1,0,0,0,0,0
+"Nucleotide Excision Repair",0,0,1,1,0,0,1,1
+"Recruitment of NuMA to mitotic centrosomes",0,0,1,0,0,0,0,0
+"Synthesis of PIPs at the early endosome membrane",0,0,1,0,0,0,1,1
+"Cellular responses to external stimuli",0,0,1,0,0,0,0,1
+"Cytosolic tRNA aminoacylation",0,0,1,1,0,0,0,1
+"Synthesis of PIPs at the Golgi membrane",0,0,1,0,0,0,0,0
+"trans-Golgi Network Vesicle Budding",0,0,1,0,0,0,1,1
+"Synthesis of PIPs at the late endosome membrane",0,0,1,0,0,0,0,0
+"Phospholipid metabolism",0,0,1,0,0,0,1,1
+"COPI-dependent Golgi-to-ER retrograde traffic",0,0,1,0,0,0,0,0
+"SUMOylation of transcription cofactors",0,0,1,0,0,0,0,1
+"Cilium Assembly",0,0,1,1,0,0,1,1
+"Downstream signaling events of B Cell Receptor (BCR)",0,0,1,1,0,0,0,1
+"Rab regulation of trafficking",0,0,1,1,0,0,1,1
+"MHC class II antigen presentation",0,0,1,0,0,0,1,0
+"Global Genome Nucleotide Excision Repair (GG-NER)",0,0,1,0,0,0,1,1
+"RNA Polymerase II Pre-transcription Events",0,0,1,0,0,0,0,0
+"Regulation of TP53 Activity through Phosphorylation",0,0,1,0,0,0,1,0
+"HIV Life Cycle",0,0,1,0,0,0,1,1
+"Switching of origins to a post-replicative state",0,0,1,1,0,0,0,1
+"RHO GTPase Effectors",0,0,1,0,0,0,0,0
+"Nonhomologous End-Joining (NHEJ)",0,0,1,0,0,0,0,0
+"Host Interactions of HIV factors",0,0,1,1,0,0,1,1
+"Signaling by NTRKs",0,0,1,0,0,0,1,1
+"Signaling by NTRK1 (TRKA)",0,0,1,1,0,0,1,1
+"PIP3 activates AKT signaling",0,0,1,1,0,0,0,1
+"mRNA Processing",0,0,1,1,0,0,1,1
+"Insulin Signaling",0,0,1,0,0,0,1,0
+"Angiopoietin Like Protein 8 Regulatory Pathway",0,0,1,0,0,0,1,0
+"Signaling Pathways in Glioblastoma",0,0,1,0,0,0,0,1
+"EGF/EGFR Signaling Pathway",0,0,1,0,0,1,1,1
+"GABA receptor Signaling",0,0,1,0,1,0,1,0
+"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway",0,0,1,1,0,0,1,1
+"DNA IR-damage and cellular response via ATR",0,0,1,0,0,0,1,0
+"Circadian rhythm related genes",0,0,1,0,0,0,0,0
+"Energy Metabolism",0,0,1,0,0,0,0,0
+"Translation inhibitors in chronically activated PDGFRA cells",0,0,1,0,0,0,1,1
+"Sterol Regulatory Element-Binding Proteins (SREBP) signalling",0,0,1,1,0,0,1,0
+"Electron Transport Chain (OXPHOS system in mitochondria)",0,0,1,1,0,0,0,0
+"G Protein Signaling Pathways",0,0,1,0,0,1,1,1
+"DDX1 as a regulatory component of the Drosha microprocessor",0,0,1,0,0,0,0,0
+"Factor: ER81; motif: RCCGGAARYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: TEL1; motif: CNCGGAANNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elk-1; motif: NNNNCCGGAARTNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ETS1; motif: ACCGGAARYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ERG; motif: ACCGGAARTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: GABP-alpha; motif: CTTCCK; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ETV7; motif: NCCGGAANNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: c-ets-2; motif: ACCGGAWRTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: EHF; motif: CSCGGAARTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: meis1:Elf-1; motif: NTGCCGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ELK-1; motif: ACCGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ERG; motif: ACCGGAART; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elk-1:Pax-9; motif: ACCGGAACYACGCWYSANTG; match class: 1",0,0,1,1,0,1,1,1
+"Factor: ATF-3; motif: GGCGCSSNSNGRTSACGTSA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: YY1; motif: NNCGCCATTNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Pax-3; motif: NNNNNNCGTCACGSTYNNNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: FLI1; motif: ACCGGAARTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Erg; motif: ACCGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ETS1; motif: GCCGGAWGTACTTCCGGN; match class: 1",0,0,1,1,0,1,1,1
+"Factor: FLI-1; motif: NAYTTCCGGT; match class: 1",0,0,1,1,0,0,1,1
+"Factor: CREB,; motif: NTGACGTNA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: REX1; motif: AANATGGCKGCN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: nerf; motif: NRRNSCGGAAGNRNNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F-1; motif: NTTSGCGG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elf-1; motif: ACTTCCGGG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: GCGCMTGCGCN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: YGCGCMTGCGC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: YY2; motif: NCCGCCATNTY; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F1; motif: NNNNNGCGSSAAAN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: c-Ets-2; motif: NCCGGAAGTG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: PEA3; motif: RCCGGAAGYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: GABP-alpha; motif: AACCGGAAR; match class: 1",0,0,1,1,0,0,1,1
+"Factor: PEA3; motif: RCCGGAAGYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: GABP-alpha; motif: CACTTCCGG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ETV4; motif: ACCGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Erg; motif: NNACCGGAARTSN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: SP2; motif: GGGCGGGAC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: c-Ets-1; motif: NNNRCCGGAWRYNNNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-1; motif: NTTTCGCGCS; match class: 1",0,0,1,1,0,1,1,1
+"Factor: GABP; motif: CACTTCCGGNNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: c-ets-1; motif: ACCGGAWGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ER71; motif: ACCGGAARYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: c-Ets-1; motif: NNNRCCGGAWRYNNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: GABPalpha; motif: RCCGGAWRYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: GABP-ALPHA; motif: RCCGGAARTNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: A-Myb:Elf-1; motif: NMCCGGAACCGTTA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elk-1; motif: RACCGGAAGTR; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ATF-1; motif: TNACGTCAN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: nerf; motif: NRRNSCGGAAGNRNNNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: GABPA; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ELF2; motif: CCCGGAARYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-4:DP-2; motif: TTTCSCGC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CREB; motif: NNTKACGTCANNNS; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elk-1:OC-2; motif: RCCGGAASCGATCGATNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ATF2; motif: VGTGACGTMACN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ELF1; motif: NCCGGAARTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F; motif: TTTSGCGC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: etv3; motif: ACCGGAAGYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Erm; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Fli-1; motif: ACCGGAAGYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ATF; motif: CNSTGACGTNNNYC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ETV3; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F; motif: TTTSGCGC; match class: 1",0,0,1,1,0,1,1,1
+"Factor: ETV7; motif: NNSCGGAAGTR; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F; motif: TTTSGCGSG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CREB; motif: CNNTGACGTMA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: BEN; motif: CWGCGAYA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ER71; motif: ACCGGAARYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Erm; motif: ACCGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: CGCATGCGCR; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ESE-1; motif: NSMGGAARTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Pax-3; motif: TCGTCACRCTTHM; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elk-1:Pax-1; motif: ACCGGAACTACGCWTSANTG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: GABPalpha_GABPbeta; motif: CTTCCKGY; match class: 0",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F; motif: NKCGCGCSAAAN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: HES-1; motif: GNCACGTGNC; match class: 1",0,0,1,1,0,1,1,1
+"Factor: ELF1; motif: NCCGGAARTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: YGCGCATGCGCN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F; motif: NCSCGCSAAAN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ELF4; motif: NCCGGAARTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ETV5; motif: NCCGGAWGYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ETV4; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Elf-1; motif: AWCCCGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F-1; motif: TTTSGCGS; match class: 1",0,0,1,1,0,1,1,1
+"Factor: Pet-1; motif: ACCGGAWRTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: RREB-1; motif: GGGWCSA; match class: 0",0,0,1,1,0,0,1,1
+"Factor: YY2; motif: NCCGCCATNTY; match class: 1",0,0,1,1,0,0,1,1
+"Factor: SP4; motif: SCCCCGCCCCS; match class: 0",0,0,1,1,0,1,1,1
+"Factor: c-ets-1; motif: ACCGGAWGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CREB; motif: TGACGTMA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F; motif: NNTTTCGCGCN; match class: 1",0,0,1,1,0,1,1,1
+"Factor: PAX5; motif: RNGCGTGACCNN; match class: 1",0,0,1,1,0,1,1,1
+"Factor: BEN; motif: CWGCGAYA; match class: 0",0,0,1,1,0,0,1,1
+"Factor: SP1; motif: RCCMCRCCCMC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CREB; motif: NSTGACGTMANN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ELK1; motif: ACCGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F-1; motif: TTTSGCGCGMNR; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Fli-1; motif: ACCGGAAGYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ELF4; motif: NCCGGAARTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: CNCTGCGCATGCGC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Elf-1; motif: ACTTCCGGG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-4:DP-1; motif: TTTSGCGC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: TEF-3:Elk-1; motif: RMATWCCGGAWGT; match class: 1",0,0,1,1,0,0,1,1
+"Factor: CREM; motif: TGACGTCASYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F-1:DP-1; motif: TTTCSCGC; match class: 0",0,0,1,1,0,1,1,1
+"Factor: Elk-1:HOXB13; motif: ACCGGAAGTNGTAAAN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Erm:HES-7; motif: NCGGANGNNNNNCRCGYG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: BTEB2; motif: GCCCCRCCCH; match class: 0",0,0,1,1,0,0,1,1
+"Factor: FKLF; motif: BGGGNGGVMD; match class: 0",0,0,1,1,0,1,1,1
+"Factor: E2F; motif: NKCGCGCSAAAN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: FLI-1; motif: NAYTTCCGGT; match class: 0",0,0,1,1,0,1,1,1
+"Factor: Kaiso; motif: GNTCTCGCGAGRNNNNGGN; match class: 0",0,0,1,1,0,1,1,1
+"Factor: CREM; motif: TGACGTCASYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: c-Ets-2; motif: NCCGGAAGTG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ELK1; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ERF; motif: ACCGGAARYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: FLI1; motif: ACCGGAARTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CREB; motif: NSTGACGTAANN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: FLI1; motif: ACCGGAAATCCGGT; match class: 1",0,0,1,1,0,1,1,1
+"Factor: CREB1; motif: TKACGTCAYNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: GABPA; motif: ACCGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: WT1; motif: CGCCCCCNCN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ETV6; motif: NSCGGAAGTR; match class: 0",0,0,1,1,0,0,1,1
+"Factor: KLF16; motif: GMCACGCCCCC; match class: 0",0,0,1,1,0,1,1,1
+"Factor: E2F; motif: NCSCGCSAAAN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: PSF; motif: KWATCCGN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CTCF; motif: WGCGCCMYCTAGYGGYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: TEF-3:ER81; motif: ACCGGAAATRCC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Elk-1:HOXA1; motif: ACCGGAAGTAATTA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: HES-1; motif: GSCACGMGMC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CREB; motif: NNGNTGACGTNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: GCGCMTGCGCN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Zfx; motif: SNSCAGGCCKCGSCSS; match class: 1",0,0,1,1,0,1,1,1
+"Factor: DEAF1; motif: NCGNNYTCGGGNRTTTCCGDARNNN; match class: 0",0,0,1,1,0,1,1,1
+"Factor: E2F; motif: TTTSGCGS; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Kid3; motif: CCACN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: AhR:Arnt; motif: GRGKATYGCGTGMCWNSCC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-1; motif: TWSGCGCGAAAAYKR; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F-1; motif: NNNSSCGCSAANN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Erg; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ESE-1; motif: NSMGGAARTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: N-Myc; motif: GSSCACGYGS; match class: 0",0,0,1,1,0,0,1,1
+"Factor: SAP-1a; motif: NACCGGAAGTV; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-3:Prrxl1; motif: SGCGCTAATTNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Sp1; motif: NGGGGCGGGGN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Tax/CREB; motif: GGGGGTTGACGYANA; match class: 0",0,0,1,1,0,0,1,1
+"Factor: c-Ets-1(p54); motif: NCMGGAWGYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: SP1; motif: RCCMCRCCCMC; match class: 1",0,0,1,1,0,1,1,1
+"Factor: YY1; motif: GCCGCCATTTTG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: AP-2alpha; motif: NSCCNCRGGSN; match class: 0",0,0,1,1,0,1,1,1
+"Factor: Elk-1:TBR2; motif: TNRCACCGGAAGN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: SAP-1; motif: ACCGGAAGTNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-3:T-bet; motif: AGGTGTNANGGCGCST; match class: 1",0,0,1,1,0,1,1,1
+"Factor: CREB1; motif: NNNNTGACGTNANNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: MOVO-B; motif: GNGGGGG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: c-Myc:Max; motif: GCCAYGYGSN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: HIF-1alpha; motif: NCACGT; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Elk-1; motif: AACCGGAAGTR; match class: 1",0,0,1,1,0,0,1,1
+"Factor: CREB1; motif: NNNNACGTCANN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: AhR,; motif: NRCGTGNGN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elf-1; motif: NAANCMGGAAGTGN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elf-1; motif: NAANCMGGAAGTGN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Elk-1:SREBP-2; motif: RTCACGTGACCGGAAGN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: YY1; motif: NAANATGGCGNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F-1:DP-2; motif: TTTSSCGC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: FEV; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: XBP-1; motif: WNNGMCACGTC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Kaiso; motif: GNTCTCGCGAGRNNNNGGN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: HES-1; motif: NNCKYGTGNNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ATF; motif: NTGACGTCANYS; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ELF5; motif: ANSMGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: BARHL2; motif: NNTAAAYGNN; match class: 1",0,0,1,0,0,0,1,1
+"Factor: Zfx; motif: SNSCAGGCCKCGSCSS; match class: 0",0,0,1,1,0,1,1,1
+"Factor: Egr-1; motif: NGCGTGCGY; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ATF-1; motif: NNNTGACGTNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: SAP-1; motif: ACCGGAAGTNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ELF1; motif: AACCCGGAAGTR; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ER81; motif: NNNGRCMGGAAGYRNNNNNNNS; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ATF-2; motif: TTACGTAA; match class: 1",0,0,1,1,0,0,1,0
+"Factor: ATF-3; motif: RTKRCGTCANN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: YY1; motif: NNNNAARATGGNNNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-4; motif: NGGCGGGAARN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-4:DP-2; motif: TTTCSCGC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ctcf; motif: CCNCNAGRKGGCRSTN; match class: 0",0,0,1,1,0,1,1,1
+"Factor: E2F-1; motif: NTTSGCGG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Elk-1:T-bet; motif: TCACACCGGAAGNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ELK4; motif: NCRCTTCCGGN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: HIF1; motif: NGTACGTGCNGB; match class: 0",0,0,1,1,0,0,1,1
+"Factor: TFEB; motif: RNCACGTGAC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: GABPalpha; motif: RCCGGAWRYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Pasx-5; motif: GTCACGSTT; match class: 1",0,0,1,1,0,0,0,1
+"Factor: NRF-1; motif: YGCGCMTGCGC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: AhR:Arnt; motif: GRGKATYGCGTGMCWNSCC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ATF4; motif: CVTGACGYMABG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: AP-2; motif: SNNNCCNCAGGCN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ATF-3; motif: SNTGACGYNATN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: AhR; motif: CCYCNRRSTNGCGTGASA; match class: 0",0,0,1,1,0,0,1,1
+"Factor: AP-2; motif: GSCCSCRGGCNRNRNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-6; motif: CNTTTCNT; match class: 0",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: CNCTGCGCATGCGC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elf-1; motif: AWCCCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: USF1; motif: RNCACGTGAY; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ELK-1; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,1,1,1
+"Factor: Sp2; motif: TGGGCGCGCCCA; match class: 0",0,0,1,1,0,0,1,1
+"Factor: FPM315; motif: GGAGGAGGRRGRGGRGGRRGR; match class: 1",0,0,1,1,0,1,1,1
+"Factor: ELK3; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: GABP; motif: VCCGGAAGNGCR; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ATF-2; motif: NNTGACGTCAN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: nerf; motif: AAMCCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CREB1; motif: NNNNACGTCANN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Sp2; motif: AAGGGGCGG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Egr-1; motif: ACCGCCC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elk-1:TBR2; motif: TNRCACCGGAAGN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: SP4; motif: NWRGCCACGCCCMCTYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: YY2; motif: NNCCGCCATTW; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ERG; motif: ACCGGAART; match class: 0",0,0,1,1,0,0,1,1
+"Factor: YY1; motif: NYNKCCATNTT; match class: 0",0,0,1,1,0,0,1,0
+"Factor: ELF1; motif: AACCCGGAAGTR; match class: 0",0,0,1,1,0,0,1,1
+"Factor: YY1; motif: GCCGCCATTTTG; match class: 1",0,0,1,1,0,0,0,1
+"Factor: AhR:Arnt; motif: KNNKNNTYGCGTGCMS; match class: 0",0,0,1,1,0,0,1,1
+"Factor: GCMa:ER81; motif: ATRNGGGCGGAWGKN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ATF-2; motif: NNNTGACGTNAN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: PDEF; motif: MCCGGATNTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: YY1; motif: NAANATGGCGNNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: TFDP1; motif: NSGCGGGAANN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Tax/CREB; motif: GGGGGTTGACGYANA; match class: 1",0,0,1,1,0,0,0,1
+"Factor: Egr-3; motif: NTGCGTGGGCGK; match class: 1",0,0,1,1,0,1,1,1
+"Factor: TFEC; motif: RNCACRTGAY; match class: 1",0,0,1,1,0,0,1,1
+"Factor: USF2; motif: GTCACGTGA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: USF2; motif: NNNGGTCACGTGRYNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: AhR; motif: NNNKNGCGTGNSNNNNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: TEL1; motif: CNCGGAANNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: NRF-1; motif: YGCGCATGCGCN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: MTF-1; motif: TGCGCAC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: TFE3; motif: NNCACGTGAY; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ZNF777; motif: GTCCGYCCCGTCSAACAAT; match class: 1",0,0,1,1,0,0,1,1
+"Factor: MITF; motif: NNNNGTCACGTGACNNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: E2F-4; motif: GCGGGAAANA; match class: 0",0,0,1,1,0,0,1,1
+"Factor: PSF; motif: KWATCCGN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Stra13; motif: NYSTCACGTGABNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: AP-2alpha; motif: NSCCNCRGGSN; match class: 1",0,0,1,1,0,1,1,1
+"Factor: ETV7; motif: NCCGGAANNN; match class: 0",0,0,1,1,0,1,1,1
+"Factor: CREB; motif: NSTGACGTMANN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ATF; motif: CNSTGACGTNNNYC; match class: 0",0,0,1,0,0,0,1,1
+"Factor: Kaiso; motif: NTCTCGCGAGANYTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: AP2; motif: GCCYGSGGSN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: HOXA13; motif: ATAAMA; match class: 0",0,0,1,1,0,0,0,1
+"Factor: GATAD2A; motif: CCTKTG; match class: 0",0,0,1,0,0,0,1,1
+"Factor: CREB; motif: NNGNTGACGTNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: USF; motif: GYCACGTGNC; match class: 0",0,0,1,1,0,0,0,1
+"Factor: CREB1; motif: TGACGTCA; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ZSCAN18; motif: TRRCGRCGNMCC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: HES-1; motif: NNCKYGTGNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: MAZR; motif: NSGGGGGGGGMCN; match class: 0",0,0,1,0,0,0,1,1
+"Factor: Sox-18; motif: CAAWGBB; match class: 0",0,0,1,1,0,0,1,1
+"Factor: DATF1; motif: SNGGRRGCWGNGGG; match class: 0",0,0,1,1,0,1,1,1
+"Factor: YY1; motif: GCCATNTTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: AhR; motif: NTNGCGTGNNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ATF-3; motif: SNTGACGYNATN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Sp1; motif: NNGGGGCGGGGNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Elf5; motif: CSMGGAARNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elk-1:T-bet; motif: TCACACCGGAAGNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: CREB1; motif: NNNNTGACGTNANNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: RUNX3; motif: NRACCGCANWAACCRCAN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Ikaros; motif: TGGGAGN; match class: 0",0,0,1,0,0,0,1,1
+"Factor: USF2; motif: NGGTCACGTGNNSNNNNNN; match class: 1",0,0,1,1,0,0,0,1
+"Factor: SAP1A; motif: NCCGGAARYN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: c-Myc:Max; motif: GCCAYGYGSN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Arnt; motif: NNNNNRTCACGTGAYNNNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: CNOT3; motif: GGCCGCGSSS; match class: 1",0,0,1,1,0,0,1,1
+"Factor: HOXB2:PEA3; motif: ACCGGAAATGRN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: EHF; motif: NACCCGGAAGTA; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ETV1; motif: ACCGGAAGTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: YY1; motif: NNNNAARATGGNNNN; match class: 1",0,0,1,1,0,0,0,1
+"Factor: TFAP2A; motif: YGCCCNNRGGCN; match class: 1",0,0,1,1,1,1,1,1
+"Factor: ZNF557; motif: NCCGCKTCCTGC; match class: 0",0,0,1,0,0,0,1,1
+"Factor: GABP-ALPHA; motif: RCCGGAARTNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: DEC2; motif: SNTCACGTGS; match class: 1",0,0,1,1,0,0,1,1
+"Factor: BTEB2; motif: GNAGGGGGNGGGSSNN; match class: 1",0,0,1,0,0,1,1,1
+"Factor: TEF-3:ER81; motif: ACCGGAAATRCC; match class: 1",0,0,1,1,0,0,1,1
+"Factor: LRF; motif: NGNAGNGGGTYN; match class: 0",0,0,1,1,0,0,0,1
+"Factor: etv3; motif: ACCGGAAGYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: CENPB; motif: CCCGCNTNNNRCGAA; match class: 0",0,0,1,0,0,0,0,1
+"Factor: GABP-alpha; motif: CACTTCCGG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Pax-5; motif: NGTCACGCWTSANTGMNY; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ERF; motif: ACCGGAARYN; match class: 1",0,0,1,1,0,0,0,1
+"Factor: ELF5; motif: ANSMGGAAGTN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ATF-2; motif: NNTGACGTCAN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: C/EBPBETA; motif: KRTTGCGYAAY; match class: 1",0,0,1,0,0,0,0,1
+"Factor: Elk-1; motif: AACCGGAAGTR; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F; motif: TTTCGCGC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: SRY; motif: AACAATNR; match class: 0",0,0,1,1,0,0,0,1
+"Factor: USF2; motif: CASGYG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: MAX; motif: CACGTG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: Elk-1:HOXA3; motif: ACCGGWAATKRNNTNWCNNATTAN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: MECP2; motif: CCGGNNTTWA; match class: 0",0,0,1,0,0,0,0,0
+"Factor: ATF-1; motif: NRTGACGTMAN; match class: 1",0,0,1,1,0,0,0,1
+"Factor: CREB; motif: NSTGACGTAANN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-1; motif: TWSGCGCGAAAAYKR; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Egr-2; motif: NTGCGTRGGCGK; match class: 1",0,0,1,1,0,1,1,1
+"Factor: ELF4; motif: AACCCGGAAGTR; match class: 0",0,0,1,0,0,0,0,0
+"Factor: E2F-3:T-bet; motif: AGGTGTNANGGCGCST; match class: 0",0,0,1,0,0,0,0,1
+"Factor: ZNF692; motif: SYNGGSCCCASCCNC; match class: 0",0,0,1,1,0,0,1,1
+"Factor: E2F-4; motif: NNTTCCCGCCNN; match class: 0",0,0,1,1,0,0,0,0
+"Factor: c-Myc:Max; motif: NNACCACGTGGTNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ETV6; motif: CCGGAASCGGAAGTR; match class: 0",0,0,1,1,0,0,0,1
+"Factor: MAZ; motif: CCCTCCCYCYN; match class: 1",0,0,1,0,0,1,1,1
+"Factor: ATF-1; motif: TNACGTCAN; match class: 0",0,0,1,0,0,0,0,1
+"Factor: ZNF91; motif: NATGGCGGCCGC; match class: 0",0,0,1,0,0,0,0,0
+"Factor: CREB1; motif: TKACGTCAYNN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: RUNX3; motif: NRACCGCAAACCGCAN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: Elk-1:HOXA1; motif: ACCGGAAGTAATTA; match class: 0",0,0,1,0,0,0,0,1
+"Factor: USF2; motif: AAGTCACG; match class: 1",0,0,1,1,0,0,1,1
+"Factor: c-Myc:Max; motif: NNNNNNNCACGTGNNNNNNN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: KLF7; motif: NGGGCGGGGG; match class: 0",0,0,1,0,0,0,1,1
+"Factor: KLF8; motif: NGGGCGGGGG; match class: 0",0,0,1,0,0,0,1,1
+"Factor: ZNF219; motif: CRCCCCCCNCCC; match class: 0",0,0,1,0,0,0,1,0
+"Factor: Net; motif: ACCGGAARTN; match class: 0",0,0,1,1,0,0,1,1
+"Factor: ETS1; motif: ACCGGAARYN; match class: 0",0,0,1,1,0,1,1,1
+"Factor: HNRPUL1; motif: NCNCAGN; match class: 0",0,0,1,0,0,0,0,0
+"Factor: AP-2; motif: MKCCCSCNGGCG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: PMX1; motif: TAATHA; match class: 0",0,0,1,1,0,0,0,1
+"Factor: YY1; motif: CAARATGGCNGC; match class: 0",0,0,1,1,0,0,1,0
+"Factor: ETV5; motif: NCCGGAWGYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ELF2; motif: CCCGGAARYN; match class: 1",0,0,1,1,0,0,1,1
+"Factor: ATF6; motif: TGACGTGG; match class: 0",0,0,1,1,0,0,1,1
+"Factor: HINFP; motif: CNRCGTCCGCNN; match class: 0",0,0,1,1,0,0,1,1
+"hsa-miR-19b-3p",0,0,1,1,0,1,1,0
+"hsa-miR-93-5p",0,0,1,1,0,0,1,0
+"hsa-miR-19a-3p",0,0,1,1,0,0,1,0
+"hsa-miR-17-5p",0,0,1,1,0,0,1,0
+"hsa-miR-615-3p",0,0,1,1,0,0,1,0
+"hsa-let-7b-5p",0,0,1,1,0,0,1,0
+"hsa-miR-16-5p",0,0,1,1,0,0,1,0
+"hsa-miR-92a-3p",0,0,1,1,0,0,1,0
+"hsa-miR-21-5p",0,0,1,1,0,1,1,0
+"hsa-miR-106b-5p",0,0,1,1,0,0,1,0
+"hsa-miR-519d-3p",0,0,1,1,0,0,1,0
+"hsa-miR-484",0,0,1,1,0,0,1,0
+"hsa-miR-20b-5p",0,0,1,1,0,0,1,0
+"hsa-miR-20a-5p",0,0,1,1,0,0,1,0
+"hsa-miR-15b-5p",0,0,1,1,0,0,1,0
+"hsa-miR-30b-5p",0,0,1,0,0,0,1,0
+"hsa-miR-222-3p",0,0,1,1,0,0,1,0
+"hsa-miR-30a-5p",0,0,1,1,0,0,1,0
+"hsa-miR-30c-5p",0,0,1,0,0,0,1,0
+"hsa-miR-23b-3p",0,0,1,1,0,0,1,0
+"hsa-miR-218-5p",0,0,1,1,0,0,1,0
+"hsa-miR-92b-3p",0,0,1,1,0,0,1,0
+"hsa-miR-155-5p",0,0,1,1,0,0,1,0
+"hsa-miR-195-5p",0,0,1,1,0,0,1,0
+"hsa-miR-130b-3p",0,0,1,1,0,0,1,0
+"hsa-miR-15a-5p",0,0,1,1,0,0,1,0
+"hsa-miR-30e-5p",0,0,1,0,0,0,1,0
+"hsa-let-7a-5p",0,0,1,1,0,0,0,0
+"hsa-miR-331-3p",0,0,1,1,0,0,1,0
+"hsa-let-7e-5p",0,0,1,1,0,0,1,0
+"hsa-miR-30d-5p",0,0,1,0,0,0,1,0
+"hsa-miR-32-5p",0,0,1,1,0,0,1,0
+"hsa-miR-651-3p",0,0,1,0,0,0,0,0
+"hsa-miR-877-3p",0,0,1,1,0,0,1,0
+"hsa-miR-424-5p",0,0,1,1,0,0,1,0
+"hsa-miR-183-5p",0,0,1,0,0,0,0,0
+"hsa-miR-106a-5p",0,0,1,0,0,0,1,0
+"hsa-miR-526b-3p",0,0,1,0,0,0,1,0
+"hsa-miR-4789-5p",0,0,1,0,0,0,0,0
+"hsa-miR-4473",0,0,1,0,0,0,0,0
+"hsa-miR-320a",0,0,1,1,0,0,0,0
+"hsa-miR-192-5p",0,0,1,0,0,0,1,0
+"hsa-miR-454-3p",0,0,1,1,0,0,0,0
+"hsa-miR-27a-3p",0,0,1,0,0,0,1,0
+"hsa-let-7c-5p",0,0,1,0,0,0,0,0
+"hsa-miR-4282",0,0,1,0,0,0,1,0
+"hsa-miR-548az-3p",0,0,1,0,0,0,0,0
+"hsa-miR-603",0,0,1,0,0,0,0,0
+"hsa-miR-27b-3p",0,0,1,0,0,0,1,0
+"hsa-miR-190a-3p",0,0,1,0,0,0,1,0
+"hsa-miR-497-5p",0,0,1,0,0,0,1,0
+"hsa-miR-646",0,0,1,0,0,0,1,0
+"hsa-miR-5011-5p",0,0,1,0,0,0,1,0
+"hsa-miR-548f-3p",0,0,1,0,0,0,0,0
+"hsa-miR-4704-5p",0,0,1,0,0,0,0,0
+"hsa-miR-301b-3p",0,0,1,0,0,0,0,0
+"hsa-miR-548ar-3p",0,0,1,0,0,0,0,0
+"hsa-miR-548e-3p",0,0,1,0,0,0,0,0
+"hsa-miR-221-3p",0,0,1,1,0,0,1,0
+"hsa-miR-3666",0,0,1,1,0,0,0,0
+"hsa-miR-193b-3p",0,0,1,1,0,0,0,0
+"hsa-miR-519b-3p",0,0,1,0,0,0,1,0
+"hsa-miR-548a-3p",0,0,1,0,0,0,0,0
+"hsa-miR-503-5p",0,0,1,0,0,0,0,0
+"hsa-miR-6838-5p",0,0,1,0,0,0,1,0
+"hsa-miR-1229-3p",0,0,1,0,0,0,0,0
+"hsa-miR-375",0,0,1,1,0,0,1,0
+"hsa-miR-4295",0,0,1,1,0,0,0,0
+"hsa-miR-302c-3p",0,0,1,1,0,0,0,0
+"hsa-miR-519a-3p",0,0,1,0,0,0,1,0
+"hsa-miR-130a-3p",0,0,1,1,0,0,0,0
+"hsa-miR-548p",0,0,1,0,0,0,1,0
+"hsa-miR-377-3p",0,0,1,0,0,0,0,0
+"hsa-miR-519c-3p",0,0,1,0,0,0,1,0
+"cerebral cortex; neuronal cells[Approved,Medium]",0,0,1,1,0,1,1,0
+"cerebellum; Purkinje cells[Approved,High]",0,0,1,1,0,0,1,0
+"caudate; neuronal cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"epididymis; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"nasopharynx; respiratory epithelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"thyroid gland; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"adrenal gland; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"pancreas; islets of Langerhans[Approved,Medium]",0,0,1,1,0,0,1,0
+"thyroid gland; glandular cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"cerebral cortex; glial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"fallopian tube; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"cerebellum; Purkinje cells[Supported,High]",0,0,1,1,0,0,1,0
+"parathyroid gland; glandular cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"skin 2; epidermal cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"placenta; trophoblastic cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"small intestine; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"cerebellum; cells in molecular layer[Approved,Low]",0,0,1,1,0,0,1,0
+"breast; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"heart muscle; myocytes[Approved,Medium]",0,0,1,1,0,0,1,0
+"esophagus; squamous epithelial cells[Supported,Medium]",0,0,1,1,0,0,0,0
+"parathyroid gland; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"colon; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"appendix; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"smooth muscle; smooth muscle cells[Approved,Low]",0,0,1,1,0,1,1,0
+"gallbladder; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"bronchus; respiratory epithelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"testis; Leydig cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"tonsil; squamous epithelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"pancreas; exocrine glandular cells[Supported,Medium]",0,0,1,1,0,0,0,0
+"vagina; squamous epithelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"hippocampus; neuronal cells[Approved,High]",0,0,1,1,0,0,1,0
+"endometrium 2; glandular cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"caudate; glial cells[Approved,Low]",0,0,1,1,0,0,1,0
+"caudate; neuronal cells[Approved,High]",0,0,1,1,0,0,1,0
+"urinary bladder; urothelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"oral mucosa; squamous epithelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"salivary gland; glandular cells[Supported,Medium]",0,0,1,1,0,0,0,0
+"lymph node; germinal center cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"kidney; cells in tubules[Supported,Medium]",0,0,1,0,0,0,0,0
+"esophagus; squamous epithelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"stomach 2; glandular cells[Supported,Medium]",0,0,1,1,0,0,0,0
+"tonsil; non-germinal center cells[Supported,Medium]",0,0,1,0,0,0,1,0
+"cervix, uterine; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"liver; bile duct cells[Supported,Low]",0,0,1,0,0,0,1,0
+"endometrium 2; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"stomach 1; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"adrenal gland; glandular cells[Approved,High]",0,0,1,1,0,0,1,0
+"cerebral cortex; glial cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"testis; cells in seminiferous ducts[Approved,High]",0,0,1,1,0,0,1,0
+"salivary gland; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"duodenum; glandular cells[Approved,High]",0,0,1,1,0,0,1,0
+"stomach 2; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"soft tissue 2; peripheral nerve[Supported,Low]",0,0,1,0,0,0,0,0
+"ovary; ovarian stroma cells[Approved,Low]",0,0,1,1,0,0,1,0
+"cerebellum; cells in molecular layer[Approved,Medium]",0,0,1,1,0,0,1,0
+"endometrium 1; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"stomach 1; glandular cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"placenta; decidual cells[Supported,High]",0,0,1,1,0,0,1,0
+"hippocampus; glial cells[Approved,Low]",0,0,1,1,0,0,1,0
+"cerebral cortex; glial cells[Approved,Low]",0,0,1,1,0,0,1,0
+"seminal vesicle; glandular cells[Approved,High]",0,0,1,1,0,0,0,0
+"cerebellum; cells in granular layer[Supported,Low]",0,0,1,0,0,0,0,0
+"skeletal muscle; myocytes[Approved,Medium]",0,0,1,1,0,0,1,0
+"skin 1; keratinocytes[Approved,Medium]",0,0,1,1,0,0,0,0
+"seminal vesicle; glandular cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"pancreas; exocrine glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"rectum; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"kidney; cells in glomeruli[Supported,Medium]",0,0,1,0,0,0,0,0
+"urinary bladder; urothelial cells[Approved,High]",0,0,1,1,0,0,1,0
+"cerebral cortex; neuronal cells[Supported,High]",0,0,1,1,0,0,1,0
+"cerebellum; cells in molecular layer[Supported,Medium]",0,0,1,1,0,0,1,0
+"cerebral cortex; neuropil[Supported,Low]",0,0,1,1,0,0,1,0
+"appendix; lymphoid tissue[Approved,Medium]",0,0,1,1,0,0,1,0
+"placenta; decidual cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"ovary; follicle cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"breast; myoepithelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"heart muscle; myocytes[Supported,Medium]",0,0,1,0,0,0,0,0
+"nasopharynx; respiratory epithelial cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"testis; cells in seminiferous ducts[Approved,Medium]",0,0,1,1,0,0,1,0
+"parathyroid gland; glandular cells[Approved,High]",0,0,1,1,0,0,0,0
+"spleen; cells in red pulp[Approved,Low]",0,0,1,1,0,0,1,0
+"appendix; glandular cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"prostate; glandular cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"skin 1; melanocytes[Approved,Medium]",0,0,1,1,0,0,1,0
+"smooth muscle; smooth muscle cells[Supported,Low]",0,0,1,0,0,0,1,0
+"lung; pneumocytes[Approved,Low]",0,0,1,1,0,0,1,0
+"soft tissue 2; adipocytes[Approved,Low]",0,0,1,1,0,0,0,0
+"breast; glandular cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"lung; pneumocytes[Supported,Medium]",0,0,1,1,0,0,1,0
+"caudate; neuronal cells[Supported,High]",0,0,1,0,0,0,1,0
+"endometrium 2; cells in endometrial stroma[Supported,Medium]",0,0,1,0,0,0,0,0
+"gallbladder; glandular cells[Approved,High]",0,0,1,1,0,0,1,0
+"skin 2; epidermal cells[Supported,Medium]",0,0,1,1,0,0,0,0
+"rectum; glandular cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"vagina; squamous epithelial cells[Supported,Medium]",0,0,1,1,0,0,0,0
+"fallopian tube; glandular cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"breast; adipocytes[Supported,Low]",0,0,1,1,0,0,0,0
+"colon; glandular cells[Supported,Medium]",0,0,1,1,0,0,0,0
+"spleen; cells in white pulp[Approved,Low]",0,0,1,1,0,0,1,0
+"rectum; glandular cells[Approved,High]",0,0,1,1,0,0,0,0
+"bronchus; respiratory epithelial cells[Approved,High]",0,0,1,1,0,0,1,0
+"bronchus; respiratory epithelial cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"lymph node; germinal center cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"hippocampus; glial cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"prostate; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"endometrium 2; cells in endometrial stroma[Supported,Low]",0,0,1,1,0,0,1,0
+"placenta; trophoblastic cells[Approved,High]",0,0,1,1,0,0,1,0
+"gallbladder; glandular cells[Supported,Medium]",0,0,1,1,0,0,0,0
+"soft tissue 1; peripheral nerve[Supported,Medium]",0,0,1,0,0,0,0,0
+"soft tissue 1; fibroblasts[Approved,Medium]",0,0,1,1,0,0,0,0
+"epididymis; glandular cells[Supported,High]",0,0,1,0,0,0,1,0
+"lung; pneumocytes[Approved,Medium]",0,0,1,0,0,0,1,0
+"tonsil; germinal center cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"ovary; follicle cells[Approved,High]",0,0,1,0,0,0,1,0
+"seminal vesicle; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"stomach 2; glandular cells[Approved,High]",0,0,1,1,0,0,0,0
+"skin 1; Langerhans[Supported,Medium]",0,0,1,1,0,0,1,0
+"cerebral cortex; endothelial cells[Approved,Low]",0,0,1,1,0,0,1,0
+"hippocampus; neuronal cells[Supported,Medium]",0,0,1,1,0,0,1,0
+"small intestine; glandular cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"duodenum; glandular cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"adrenal gland; glandular cells[Supported,High]",0,0,1,1,0,0,0,0
+"cerebellum; cells in granular layer[Supported,Medium]",0,0,1,1,0,0,1,0
+"kidney; cells in tubules[Approved,Medium]",0,0,1,1,0,0,1,0
+"tonsil; germinal center cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"cerebellum; cells in granular layer[Approved,Low]",0,0,1,1,0,0,1,0
+"endometrium 1; glandular cells[Supported,Medium]",0,0,1,0,0,0,0,0
+"skin 1; keratinocytes[Supported,Medium]",0,0,1,0,0,0,0,0
+"hippocampus; neuronal cells[Supported,High]",0,0,1,1,0,0,1,0
+"liver; hepatocytes[Approved,Medium]",0,0,1,1,0,0,1,0
+"soft tissue 2; adipocytes[Supported,Low]",0,0,1,0,0,0,0,0
+"testis; cells in seminiferous ducts[Supported,Medium]",0,0,1,0,0,0,0,0
+"skeletal muscle; myocytes[Supported,Medium]",0,0,1,0,0,0,0,0
+"colon; peripheral nerve/ganglion[Supported,Medium]",0,0,1,1,0,0,0,0
+"colon; endothelial cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"bone marrow; hematopoietic cells[Approved,Medium]",0,0,1,1,0,0,1,0
+"cervix, uterine; squamous epithelial cells[Approved,Low]",0,0,1,1,0,0,1,0
+"endometrium 2; cells in endometrial stroma[Approved,Low]",0,0,1,0,0,0,0,0
+"lung; macrophages[Supported,Medium]",0,0,1,1,0,0,1,0
+"soft tissue 2; fibroblasts[Supported,Medium]",0,0,1,0,0,0,0,0
+"Hyperreflexia",0,0,1,0,0,0,1,0
+"Generalized hypotonia",0,0,1,0,0,0,1,0
+"Optic atrophy",0,0,1,0,0,0,1,0
+"Delayed speech and language development",0,0,1,0,0,1,1,0
+"Nystagmus",0,0,1,0,0,0,1,0
+"Microcephaly",0,0,1,0,0,0,1,0
+"Hypoplasia of the corpus callosum",0,0,1,0,0,0,1,0
+"EEG abnormality",0,0,1,0,0,0,1,0
+"Progressive cerebellar ataxia",0,0,1,0,0,0,0,0
+"Gait disturbance",0,0,1,0,0,1,1,0
+"Poor speech",0,0,1,0,0,0,1,0
+"Intention tremor",0,0,1,0,0,0,1,0
+"Emotional lability",0,0,1,0,0,0,1,0
+"Spastic tetraplegia",0,0,1,0,0,0,0,0
+"Spastic paraplegia",0,0,1,0,0,0,1,0
+"Progressive",0,0,1,0,0,0,1,0
+"Feeding difficulties",0,0,1,0,0,0,1,0
+"Phenotypic variability",0,0,1,0,0,0,1,0
+"Leukodystrophy",0,0,1,0,0,0,0,0
+"Ventriculomegaly",0,0,1,0,0,0,1,0
+"Depressivity",0,0,1,0,0,1,1,0
+"Gaze-evoked nystagmus",0,0,1,0,0,0,1,0
+"Increased serum lactate",0,0,1,0,0,0,0,0
+"Cafe-au-lait spot",0,0,1,0,0,0,1,0
+"Strabismus",0,0,1,0,0,0,1,0
+"Ptosis",0,0,1,0,0,0,1,0
+"Pigmentary retinopathy",0,0,1,0,0,0,0,0
+"Pointed chin",0,0,1,0,0,0,1,0
+"Encephalopathy",0,0,1,0,0,1,0,0
+"Cerebral cortical atrophy",0,0,1,0,0,1,1,0
+"Spastic dysarthria",0,0,1,0,0,0,0,0
+"Drooling",0,0,1,0,0,0,1,0
+"Decreased activity of the pyruvate dehydrogenase complex",0,0,1,0,0,0,0,0
+"Athetosis",0,0,1,0,0,0,0,0
+"Downslanted palpebral fissures",0,0,1,0,0,0,1,0
+"Intellectual disability, severe",0,0,1,0,0,0,0,0
+"Progressive spastic paraplegia",0,0,1,0,0,0,0,0
+"Areflexia",0,0,1,0,0,0,1,0
+"Spastic gait",0,0,1,0,0,0,1,0
+"Dysdiadochokinesis",0,0,1,0,0,0,0,0
+"Decreased nerve conduction velocity",0,0,1,0,0,0,0,0
+"Frequent falls",0,0,1,0,0,0,1,0
+"Autism",0,0,1,0,0,1,1,0
+"Abnormal lower motor neuron morphology",0,0,1,0,0,0,1,0
+"Pituitary adenoma",0,0,1,0,0,0,1,0
+"Focal impaired awareness seizure",0,0,1,0,0,0,0,0
+"Hypertrophic cardiomyopathy",0,0,1,0,0,0,0,0
+"Anxiety",0,0,1,0,0,1,1,0
+"Dysphasia",0,0,1,0,0,1,1,0
+"Distal sensory impairment",0,0,1,0,0,0,1,0
+"Hyperactivity",0,0,1,0,0,0,0,0
+"Dysgraphia",0,0,1,0,0,1,1,0
+"Abnormal pyramidal sign",0,0,1,0,0,0,1,0
+"Gastroesophageal reflux",0,0,1,0,0,1,1,0
+"Motor delay",0,0,1,0,0,0,0,0
+"Spastic paraparesis",0,0,1,0,0,0,0,0
+"Gliosis",0,0,1,0,0,0,1,0
+"Intellectual disability, profound",0,0,1,0,0,0,0,0
+"Hallucinations",0,0,1,0,0,1,1,0
+"Wide mouth",0,0,1,0,0,0,1,0
+"Absent Achilles reflex",0,0,1,0,0,0,0,0
+"translation initiation factor activity",0,0,0,1,0,0,1,1
+"cadherin binding",0,0,0,1,0,1,0,1
+"ubiquitin conjugating enzyme activity",0,0,0,1,0,0,0,1
+"protein-containing complex binding",0,0,0,1,0,0,1,1
+"transferase activity, transferring acyl groups",0,0,0,1,0,0,0,1
+"SH3 domain binding",0,0,0,1,0,1,1,1
+"ubiquitin-like protein conjugating enzyme activity",0,0,0,1,0,0,0,1
+"electron transfer activity",0,0,0,1,0,0,0,0
+"transferase activity, transferring acyl groups other than amino-acyl groups",0,0,0,1,0,0,0,1
+"translation factor activity, RNA binding",0,0,0,1,0,0,1,0
+"NADH dehydrogenase activity",0,0,0,1,0,0,0,0
+"translation regulator activity, nucleic acid binding",0,0,0,1,0,0,1,0
+"NADH dehydrogenase (quinone) activity",0,0,0,1,0,0,0,0
+"NADH dehydrogenase (ubiquinone) activity",0,0,0,1,0,0,0,0
+"phosphatase binding",0,0,0,1,0,0,1,1
+"modification-dependent protein binding",0,0,0,1,0,0,1,1
+"oxidoreductase activity, acting on NAD(P)H",0,0,0,1,0,0,0,0
+"cell adhesion molecule binding",0,0,0,1,0,1,0,1
+"GDP binding",0,0,0,1,0,0,0,1
+"hydrolase activity, acting on ester bonds",0,0,0,1,0,0,0,0
+"signal sequence binding",0,0,0,1,0,0,0,0
+"coenzyme binding",0,0,0,1,0,0,0,0
+"kinesin binding",0,0,0,1,0,0,0,0
+"prenyltransferase activity",0,0,0,1,0,0,0,0
+"protein transporter activity",0,0,0,1,0,0,0,0
+"chaperone binding",0,0,0,1,0,0,0,1
+"tRNA binding",0,0,0,1,0,0,0,0
+"nucleocytoplasmic carrier activity",0,0,0,1,0,0,0,0
+"enzyme regulator activity",0,0,0,1,0,1,1,1
+"translational termination",0,0,0,1,0,0,0,1
+"mitochondrial translation",0,0,0,1,0,0,0,1
+"cellular protein complex disassembly",0,0,0,1,0,0,1,1
+"regulated exocytosis",0,0,0,1,0,1,1,1
+"mitochondrial translational termination",0,0,0,1,0,0,0,1
+"mitochondrial translational elongation",0,0,0,1,0,0,0,1
+"translational elongation",0,0,0,1,0,0,0,1
+"electron transport chain",0,0,0,1,0,0,0,0
+"mitochondrial ATP synthesis coupled electron transport",0,0,0,1,0,0,0,0
+"generation of precursor metabolites and energy",0,0,0,1,0,0,0,1
+"ATP synthesis coupled electron transport",0,0,0,1,0,0,0,0
+"interspecies interaction between organisms",0,0,0,1,0,1,1,1
+"plasma membrane bounded cell projection assembly",0,0,0,1,0,0,1,1
+"neutrophil degranulation",0,0,0,1,0,0,0,1
+"neutrophil activation involved in immune response",0,0,0,1,0,0,0,1
+"establishment of protein localization to organelle",0,0,0,1,0,0,0,1
+"myeloid cell activation involved in immune response",0,0,0,1,0,0,0,1
+"granulocyte activation",0,0,0,1,0,0,0,1
+"leukocyte degranulation",0,0,0,1,0,0,0,1
+"oxidative phosphorylation",0,0,0,1,0,0,0,0
+"neutrophil activation",0,0,0,1,0,0,0,1
+"protein K11-linked ubiquitination",0,0,0,1,0,0,0,1
+"cilium assembly",0,0,0,1,0,0,1,1
+"peptide metabolic process",0,0,0,1,0,0,0,0
+"peptide biosynthetic process",0,0,0,1,0,0,0,0
+"neutrophil mediated immunity",0,0,0,1,0,0,0,1
+"carbohydrate derivative metabolic process",0,0,0,1,0,0,0,1
+"protein export from nucleus",0,0,0,1,0,0,1,1
+"translation",0,0,0,1,0,0,0,0
+"myeloid leukocyte mediated immunity",0,0,0,1,0,0,0,1
+"cilium organization",0,0,0,1,0,0,1,1
+"small molecule metabolic process",0,0,0,1,0,0,0,1
+"ATP metabolic process",0,0,0,1,0,0,0,0
+"tricarboxylic acid cycle",0,0,0,1,0,0,0,0
+"vesicle docking",0,0,0,1,0,0,0,1
+"liposaccharide metabolic process",0,0,0,1,0,0,0,1
+"protein localization to mitochondrion",0,0,0,1,0,0,0,1
+"exocytic process",0,0,0,1,0,0,1,1
+"positive regulation of exocytosis",0,0,0,1,0,0,1,0
+"mitochondrial electron transport, NADH to ubiquinone",0,0,0,1,0,0,0,0
+"glycolipid metabolic process",0,0,0,1,0,0,0,1
+"DNA-templated transcription, termination",0,0,0,1,0,0,0,1
+"oxidation-reduction process",0,0,0,1,0,0,0,0
+"protein lipidation",0,0,0,1,0,0,0,1
+"regulation of synaptic vesicle recycling",0,0,0,1,0,1,1,0
+"protein import",0,0,0,1,0,0,0,1
+"establishment of protein localization to mitochondrion",0,0,0,1,0,0,0,1
+"positive regulation of cellular component biogenesis",0,0,0,1,0,0,1,1
+"carbohydrate derivative biosynthetic process",0,0,0,1,0,0,0,1
+"rRNA processing",0,0,0,1,0,0,0,1
+"regulation of autophagy of mitochondrion",0,0,0,1,0,0,0,1
+"membrane lipid metabolic process",0,0,0,1,0,0,0,1
+"autophagosome organization",0,0,0,1,0,0,1,1
+"positive regulation of regulated secretory pathway",0,0,0,1,0,0,0,0
+"regulation of intracellular protein transport",0,0,0,1,0,0,0,1
+"protein targeting to mitochondrion",0,0,0,1,0,0,0,1
+"rRNA metabolic process",0,0,0,1,0,0,0,1
+"NADH dehydrogenase complex assembly",0,0,0,1,0,0,0,0
+"mitochondrial respiratory chain complex I assembly",0,0,0,1,0,0,0,0
+"transcription by RNA polymerase III",0,0,0,1,0,0,0,0
+"regulation of mRNA processing",0,0,0,1,0,0,0,1
+"regulation of mitotic cell cycle phase transition",0,0,0,1,0,0,0,1
+"positive regulation of cellular protein localization",0,0,0,1,0,0,1,1
+"regulation of protein localization",0,0,0,1,0,0,0,1
+"mitochondrial respiratory chain complex assembly",0,0,0,1,0,0,0,0
+"histone ubiquitination",0,0,0,1,0,0,1,1
+"regulation of protein dephosphorylation",0,0,0,1,0,0,1,1
+"lipoprotein biosynthetic process",0,0,0,1,0,0,0,1
+"vesicle docking involved in exocytosis",0,0,0,1,0,0,0,1
+"response to endoplasmic reticulum stress",0,0,0,1,0,0,1,1
+"myeloid leukocyte activation",0,0,0,1,0,0,0,0
+"cellular amino acid metabolic process",0,0,0,1,0,0,0,0
+"receptor metabolic process",0,0,0,1,0,1,1,1
+"regulation of mitochondrion organization",0,0,0,1,0,0,0,1
+"carboxylic acid metabolic process",0,0,0,1,0,0,0,0
+"organelle fusion",0,0,0,1,0,0,0,1
+"autophagosome assembly",0,0,0,1,0,0,1,1
+"peptidyl-cysteine modification",0,0,0,1,0,0,0,1
+"regulation of microtubule polymerization or depolymerization",0,0,0,1,0,0,0,1
+"transcription initiation from RNA polymerase I promoter",0,0,0,1,0,0,0,0
+"retrograde transport, endosome to Golgi",0,0,0,1,0,0,1,1
+"regulation of proteasomal ubiquitin-dependent protein catabolic process",0,0,0,1,0,0,1,1
+"regulation of telomere maintenance via telomere lengthening",0,0,0,1,0,0,0,0
+"regulation of mRNA metabolic process",0,0,0,1,0,0,1,1
+"mitochondrial transport",0,0,0,1,0,0,0,1
+"negative regulation of nucleocytoplasmic transport",0,0,0,1,0,0,0,0
+"nucleotide-excision repair",0,0,0,1,0,0,0,1
+"oxoacid metabolic process",0,0,0,1,0,0,0,0
+"positive regulation of mitochondrion organization",0,0,0,1,0,0,0,1
+"positive regulation of protein catabolic process",0,0,0,1,0,0,0,0
+"negative regulation of histone modification",0,0,0,1,0,0,1,0
+"ribose phosphate metabolic process",0,0,0,1,0,0,0,1
+"tRNA processing",0,0,0,1,0,0,0,0
+"transcription-coupled nucleotide-excision repair",0,0,0,1,0,0,0,1
+"C-terminal protein amino acid modification",0,0,0,1,0,0,0,0
+"cerebral cortex development",0,0,0,1,0,1,0,0
+"mitochondrial matrix",0,0,0,1,0,0,0,1
+"vacuole",0,0,0,1,0,1,1,1
+"lysosome",0,0,0,1,0,1,1,1
+"vacuolar part",0,0,0,1,0,0,1,1
+"lytic vacuole",0,0,0,1,0,1,1,1
+"integral component of organelle membrane",0,0,0,1,0,0,1,1
+"vacuolar membrane",0,0,0,1,0,1,1,1
+"endoplasmic reticulum part",0,0,0,1,0,0,0,1
+"organellar ribosome",0,0,0,1,0,0,0,1
+"mitochondrial ribosome",0,0,0,1,0,0,0,1
+"endoplasmic reticulum",0,0,0,1,0,0,0,1
+"coated vesicle membrane",0,0,0,1,0,1,1,1
+"phagocytic vesicle",0,0,0,1,0,0,0,1
+"respiratory chain complex",0,0,0,1,0,0,0,0
+"spliceosomal complex",0,0,0,1,0,0,1,1
+"lamellipodium",0,0,0,1,0,0,1,1
+"proteasome regulatory particle",0,0,0,1,0,0,0,1
+"mitochondrial large ribosomal subunit",0,0,0,1,0,0,0,1
+"organellar large ribosomal subunit",0,0,0,1,0,0,0,1
+"proteasome accessory complex",0,0,0,1,0,0,0,1
+"serine/threonine protein kinase complex",0,0,0,1,0,0,1,1
+"mitochondrial respiratory chain complex I",0,0,0,1,0,0,0,0
+"respiratory chain complex I",0,0,0,1,0,0,0,0
+"NADH dehydrogenase complex",0,0,0,1,0,0,0,0
+"U2-type spliceosomal complex",0,0,0,1,0,0,0,1
+"extracellular organelle",0,0,0,1,0,0,0,1
+"Golgi-associated vesicle membrane",0,0,0,1,0,0,1,1
+"extracellular vesicle",0,0,0,1,0,0,0,1
+"primary lysosome",0,0,0,1,0,0,0,1
+"azurophil granule",0,0,0,1,0,0,0,1
+"extracellular exosome",0,0,0,1,0,0,0,1
+"intrinsic component of mitochondrial membrane",0,0,0,1,0,0,0,0
+"ficolin-1-rich granule lumen",0,0,0,1,0,0,0,1
+"ficolin-1-rich granule",0,0,0,1,0,0,0,1
+"peroxisomal membrane",0,0,0,1,0,0,0,1
+"microbody membrane",0,0,0,1,0,0,0,1
+"organellar small ribosomal subunit",0,0,0,1,0,0,0,1
+"mitochondrial small ribosomal subunit",0,0,0,1,0,0,0,1
+"integral component of mitochondrial membrane",0,0,0,1,0,0,0,0
+"SNARE complex",0,0,0,1,0,0,0,1
+"protein kinase complex",0,0,0,1,0,0,1,1
+"catalytic step 2 spliceosome",0,0,0,1,0,0,1,1
+"precatalytic spliceosome",0,0,0,1,0,0,0,1
+"nuclear pore",0,0,0,1,0,0,1,1
+"clathrin coat",0,0,0,1,0,1,1,1
+"nuclear exosome (RNase complex)",0,0,0,1,0,0,0,0
+"proteasome regulatory particle, base subcomplex",0,0,0,1,0,0,0,0
+"cytosolic proteasome complex",0,0,0,1,0,0,0,0
+"ER to Golgi transport vesicle membrane",0,0,0,1,0,0,0,1
+"U2-type precatalytic spliceosome",0,0,0,1,0,0,0,1
+"secretory granule membrane",0,0,0,1,0,0,0,0
+"Sm-like protein family complex",0,0,0,1,0,0,0,0
+"preribosome",0,0,0,1,0,0,0,1
+"microbody",0,0,0,1,0,0,0,1
+"peroxisome",0,0,0,1,0,0,0,1
+"phagocytic vesicle membrane",0,0,0,1,0,0,0,0
+"COPII-coated ER to Golgi transport vesicle",0,0,0,1,0,0,0,1
+"small nuclear ribonucleoprotein complex",0,0,0,1,0,0,0,0
+"microbody part",0,0,0,1,0,0,0,1
+"peroxisomal part",0,0,0,1,0,0,0,1
+"late endosome membrane",0,0,0,1,0,0,0,1
+"endocytic vesicle membrane",0,0,0,1,0,1,0,0
+"organelle envelope lumen",0,0,0,1,0,0,0,0
+"azurophil granule lumen",0,0,0,1,0,0,0,0
+"secretory granule",0,0,0,1,0,0,0,0
+"Lysosome",0,0,0,1,0,0,1,1
+"Proteasome",0,0,0,1,0,0,0,1
+"Carbon metabolism",0,0,0,1,0,0,0,0
+"Mitophagy - animal",0,0,0,1,0,0,1,1
+"Protein processing in endoplasmic reticulum",0,0,0,1,0,0,1,1
+"Citrate cycle (TCA cycle)",0,0,0,1,0,0,0,1
+"Oocyte meiosis",0,0,0,1,0,0,1,0
+"Non-alcoholic fatty liver disease (NAFLD)",0,0,0,1,0,0,0,0
+"Shigellosis",0,0,0,1,0,0,0,1
+"Other glycan degradation",0,0,0,1,0,0,0,0
+"Spliceosome",0,0,0,1,0,0,1,1
+"Valine, leucine and isoleucine degradation",0,0,0,1,0,0,0,0
+"Fatty acid metabolism",0,0,0,1,0,0,0,0
+"SNARE interactions in vesicular transport",0,0,0,1,0,0,0,1
+"Terpenoid backbone biosynthesis",0,0,0,1,0,0,0,0
+"Autophagy - other",0,0,0,1,0,0,0,1
+"Propanoate metabolism",0,0,0,1,0,0,0,0
+"Sphingolipid metabolism",0,0,0,1,0,0,0,0
+"Vibrio cholerae infection",0,0,0,1,0,0,0,1
+"RNA polymerase",0,0,0,1,0,0,0,0
+"Respiratory electron transport",0,0,0,1,0,0,0,1
+"The citric acid (TCA) cycle and respiratory electron transport",0,0,0,1,0,0,0,1
+"Mitochondrial translation initiation",0,0,0,1,0,0,0,1
+"Mitochondrial translation",0,0,0,1,0,0,0,1
+"CLEC7A (Dectin-1) signaling",0,0,0,1,0,0,0,1
+"Mitochondrial translation termination",0,0,0,1,0,0,0,1
+"Mitochondrial translation elongation",0,0,0,1,0,0,0,1
+"Autodegradation of Cdh1 by Cdh1:APC/C",0,0,0,1,0,0,0,1
+"Regulation of RUNX3 expression and activity",0,0,0,1,0,0,0,1
+"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",0,0,0,1,0,0,0,0
+"Defective CFTR causes cystic fibrosis",0,0,0,1,0,0,0,1
+"Vpu mediated degradation of CD4",0,0,0,1,0,0,0,0
+"Hh mutants that don't undergo autocatalytic processing are degraded by ERAD",0,0,0,1,0,0,0,0
+"Degradation of GLI1 by the proteasome",0,0,0,1,0,0,0,0
+"GLI3 is processed to GLI3R by the proteasome",0,0,0,1,0,0,0,0
+"Regulation of mRNA stability by proteins that bind AU-rich elements",0,0,0,1,0,0,0,1
+"Regulation of ornithine decarboxylase (ODC)",0,0,0,1,0,0,0,0
+"Regulation of Apoptosis",0,0,0,1,0,0,0,0
+"Regulation of RAS by GAPs",0,0,0,1,0,0,0,1
+"FBXL7 down-regulates AURKA during mitotic entry and in early mitosis",0,0,0,1,0,0,0,0
+"SCF-beta-TrCP mediated degradation of Emi1",0,0,0,1,0,0,0,0
+"CDK-mediated phosphorylation and removal of Cdc6",0,0,0,1,0,0,0,1
+"Degradation of DVL",0,0,0,1,0,0,0,1
+"Regulation of APC/C activators between G1/S and early anaphase",0,0,0,1,0,0,0,1
+"NIK-->noncanonical NF-kB signaling",0,0,0,1,0,0,0,0
+"Hh mutants abrogate ligand secretion",0,0,0,1,0,0,0,0
+"Regulation of activated PAK-2p34 by proteasome mediated degradation",0,0,0,1,0,0,0,0
+"APC/C:Cdc20 mediated degradation of Securin",0,0,0,1,0,0,0,1
+"Activation of NF-kappaB in B cells",0,0,0,1,0,0,0,0
+"Regulation of PTEN stability and activity",0,0,0,1,0,0,0,1
+"ABC-family proteins mediated transport",0,0,0,1,0,0,0,1
+"Vif-mediated degradation of APOBEC3G",0,0,0,1,0,0,0,0
+"mRNA Splicing",0,0,0,1,0,0,1,1
+"Degradation of GLI2 by the proteasome",0,0,0,1,0,0,0,0
+"Dectin-1 mediated noncanonical NF-kB signaling",0,0,0,1,0,0,0,0
+"mRNA Splicing - Major Pathway",0,0,0,1,0,0,1,1
+"APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1",0,0,0,1,0,0,0,0
+"Cdc20:Phospho-APC/C mediated degradation of Cyclin A",0,0,0,1,0,0,0,1
+"APC/C-mediated degradation of cell cycle proteins",0,0,0,1,0,0,0,0
+"Regulation of mitotic cell cycle",0,0,0,1,0,0,0,0
+"Degradation of AXIN",0,0,0,1,0,0,0,0
+"Hedgehog 'off' state",0,0,0,1,0,0,0,1
+"Stabilization of p53",0,0,0,1,0,0,0,0
+"CDT1 association with the CDC6:ORC:origin complex",0,0,0,1,0,0,0,0
+"Hedgehog ligand biogenesis",0,0,0,1,0,0,0,0
+"APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint",0,0,0,1,0,0,0,0
+"APC/C:Cdc20 mediated degradation of mitotic proteins",0,0,0,1,0,0,0,0
+"Autodegradation of the E3 ubiquitin ligase COP1",0,0,0,1,0,0,0,0
+"Ubiquitin-dependent degradation of Cyclin D",0,0,0,1,0,0,0,0
+"Negative regulation of NOTCH4 signaling",0,0,0,1,0,0,0,0
+"Synthesis of DNA",0,0,0,1,0,0,0,1
+"SCF(Skp2)-mediated degradation of p27/p21",0,0,0,1,0,0,0,0
+"p53-Dependent G1 DNA Damage Response",0,0,0,1,0,0,0,0
+"p53-Dependent G1/S DNA damage checkpoint",0,0,0,1,0,0,0,0
+"Metabolism of polyamines",0,0,0,1,0,0,0,0
+"COPII-mediated vesicle transport",0,0,0,1,0,0,1,1
+"Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins",0,0,0,1,0,0,0,0
+"p53-Independent G1/S DNA damage checkpoint",0,0,0,1,0,0,0,0
+"Ubiquitin Mediated Degradation of Phosphorylated Cdc25A",0,0,0,1,0,0,0,0
+"p53-Independent DNA Damage Response",0,0,0,1,0,0,0,0
+"RAF/MAP kinase cascade",0,0,0,1,0,0,0,1
+"Metabolism",0,0,0,1,0,0,0,1
+"Cross-presentation of soluble exogenous antigens (endosomes)",0,0,0,1,0,0,0,0
+"ABC transporter disorders",0,0,0,1,0,0,0,0
+"Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha",0,0,0,1,0,0,0,0
+"G1/S DNA Damage Checkpoints",0,0,0,1,0,0,0,0
+"RHO GTPases Activate WASPs and WAVEs",0,0,0,1,0,0,1,1
+"S Phase",0,0,0,1,0,0,0,1
+"Cyclin A:Cdk2-associated events at S phase entry",0,0,0,1,0,0,0,1
+"AUF1 (hnRNP D0) binds and destabilizes mRNA",0,0,0,1,0,0,0,1
+"Complex I biogenesis",0,0,0,1,0,0,0,0
+"Separation of Sister Chromatids",0,0,0,1,0,0,0,0
+"Cellular response to hypoxia",0,0,0,1,0,0,0,0
+"Orc1 removal from chromatin",0,0,0,1,0,0,0,0
+"PCP/CE pathway",0,0,0,1,0,0,0,1
+"C-type lectin receptors (CLRs)",0,0,0,1,0,0,0,0
+"Translation",0,0,0,1,0,0,0,0
+"DNA Replication",0,0,0,1,0,0,0,1
+"Degradation of beta-catenin by the destruction complex",0,0,0,1,0,0,0,0
+"Mitotic Anaphase",0,0,0,1,0,0,0,0
+"MAPK1/MAPK3 signaling",0,0,0,1,0,0,0,1
+"Assembly of the pre-replicative complex",0,0,0,1,0,0,0,0
+"Asymmetric localization of PCP proteins",0,0,0,1,0,0,0,0
+"Mitotic Metaphase and Anaphase",0,0,0,1,0,0,0,0
+"Cyclin E associated events during G1/S transition",0,0,0,1,0,0,0,1
+"Downstream TCR signaling",0,0,0,1,0,0,0,0
+"Regulation of RUNX2 expression and activity",0,0,0,1,0,0,0,0
+"Citric acid cycle (TCA cycle)",0,0,0,1,0,0,0,1
+"Mitochondrial protein import",0,0,0,1,0,0,0,0
+"Interleukin-1 signaling",0,0,0,1,0,0,0,0
+"RAB GEFs exchange GTP for GDP on RABs",0,0,0,1,0,0,1,1
+"Hedgehog 'on' state",0,0,0,1,0,0,0,0
+"UCH proteinases",0,0,0,1,0,0,0,0
+"MAPK family signaling cascades",0,0,0,1,0,0,0,1
+"RAF activation",0,0,0,1,0,0,0,0
+"Protein localization",0,0,0,1,0,0,0,0
+"TCR signaling",0,0,0,1,0,0,0,0
+"Cargo recognition for clathrin-mediated endocytosis",0,0,0,1,0,1,1,1
+"Neutrophil degranulation",0,0,0,1,0,0,0,1
+"Post NMDA receptor activation events",0,0,0,1,0,1,1,0
+"Antigen processing-Cross presentation",0,0,0,1,0,0,0,0
+"G1/S Transition",0,0,0,1,0,0,0,0
+"Infectious disease",0,0,0,1,0,0,0,0
+"Negative regulation of MAPK pathway",0,0,0,1,0,0,0,0
+"Signaling by NOTCH4",0,0,0,1,0,0,0,0
+"Intra-Golgi traffic",0,0,0,1,0,0,0,1
+"Adaptive Immune System",0,0,0,1,0,0,1,1
+"Mitotic G1-G1/S phases",0,0,0,1,0,0,0,0
+"RNA Polymerase III Transcription Initiation From Type 2 Promoter",0,0,0,1,0,0,0,0
+"Pyruvate metabolism and Citric Acid (TCA) cycle",0,0,0,1,0,0,0,1
+"Beta-catenin independent WNT signaling",0,0,0,1,0,1,0,1
+"Interleukin-1 family signaling",0,0,0,1,0,0,0,0
+"Apoptosis",0,0,0,1,0,0,0,0
+"MAPK6/MAPK4 signaling",0,0,0,1,0,0,0,0
+"ER-Phagosome pathway",0,0,0,1,0,0,0,0
+"DARPP-32 events",0,0,0,1,0,0,0,0
+"The role of GTSE1 in G2/M progression after G2 checkpoint",0,0,0,1,0,0,0,0
+"KSRP (KHSRP) binds and destabilizes mRNA",0,0,0,1,0,0,0,0
+"Transcriptional regulation by RUNX3",0,0,0,1,0,0,0,0
+"RNA Polymerase III Transcription Initiation From Type 1 Promoter",0,0,0,1,0,0,0,0
+"DNA Replication Pre-Initiation",0,0,0,1,0,0,0,0
+"Mitotic Prometaphase",0,0,0,1,0,0,0,0
+"Synthesis of active ubiquitin: roles of E1 and E2 enzymes",0,0,0,1,0,0,0,0
+"Metabolism of lipids",0,0,0,1,0,0,0,1
+"MAP2K and MAPK activation",0,0,0,1,0,0,0,0
+"RNA Polymerase III Transcription Initiation",0,0,0,1,0,0,0,0
+"Proteasome Degradation",0,0,0,1,0,0,0,1
+"Mitochondrial complex I assembly model OXPHOS system",0,0,0,1,0,0,0,0
+"TCA Cycle (aka Krebs or citric acid cycle)",0,0,0,1,0,0,0,1
+"Sphingolipid pathway",0,0,0,1,0,0,0,0
+"TYROBP Causal Network",0,0,0,1,0,0,0,1
+"Glycogen Synthesis and Degradation",0,0,0,1,0,0,0,0
+"Genes related to primary cilium development (based on CRISPR)",0,0,0,1,0,0,1,1
+"Parkin-Ubiquitin Proteasomal System pathway",0,0,0,1,0,0,0,1
+"Nonalcoholic fatty liver disease",0,0,0,1,0,0,0,0
+"Factor: KLF17; motif: NGGGCGG; match class: 1",0,0,0,1,0,0,1,1
+"Factor: LKLF; motif: NGGGCGG; match class: 1",0,0,0,1,0,0,1,1
+"Factor: GABP-beta; motif: ASMGGAAGKGN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: Pet-1; motif: ACCGGAWRTN; match class: 1",0,0,0,1,0,0,0,1
+"Factor: ETF; motif: GVGGMGG; match class: 0",0,0,0,1,0,0,1,1
+"Factor: ZNF714; motif: NSGKTGGGCCGM; match class: 0",0,0,0,1,0,0,1,1
+"Factor: HOXB2:Elk-1; motif: TAATKRCCGGAAGTN; match class: 1",0,0,0,1,0,0,1,1
+"Factor: GABP; motif: CACTTCCGGNNN; match class: 1",0,0,0,1,0,0,1,1
+"Factor: TEF-3:Elf-1; motif: RGAATGCGGAAGTN; match class: 1",0,0,0,1,0,0,1,1
+"Factor: NRF-1; motif: CGCATGCGCR; match class: 1",0,0,0,1,0,0,1,1
+"Factor: ATF-3; motif: RTKRCGTCANN; match class: 1",0,0,0,1,0,0,0,1
+"Factor: SAP-1a; motif: NACCGGAAGTV; match class: 1",0,0,0,1,0,0,0,1
+"Factor: GABPalpha_GABPbeta; motif: CTTCCKGY; match class: 1",0,0,0,1,0,0,1,1
+"Factor: ETV3; motif: ACCGGAAGTN; match class: 1",0,0,0,1,0,0,0,1
+"Factor: Elk-1:Pax-1; motif: ACCGGAACTACGCWTSANTG; match class: 0",0,0,0,1,0,0,0,1
+"Factor: E2F-6; motif: RGGCGGGARRN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: KLF16; motif: GMCACGCCCCC; match class: 1",0,0,0,1,0,0,0,1
+"Factor: SP4; motif: SCCCCGCCCCS; match class: 1",0,0,0,1,0,0,0,1
+"Factor: Elk-1; motif: RACCGGAAGTR; match class: 0",0,0,0,1,0,0,1,1
+"Factor: Net; motif: CACTTCCKGK; match class: 0",0,0,0,1,0,0,1,1
+"Factor: ETV7; motif: NNSCGGAAGTR; match class: 1",0,0,0,1,0,0,0,0
+"Factor: Sp4; motif: SCCCCKCCCCCSN; match class: 1",0,0,0,1,1,0,1,1
+"Factor: ELK4; motif: ACCGGAARTN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: LRF; motif: GGGGKYNNB; match class: 0",0,0,0,1,0,0,1,1
+"Factor: GABP; motif: VCCGGAAGNGCR; match class: 1",0,0,0,1,0,0,1,1
+"Factor: PUR1; motif: GGGNCAGNN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: ATF-1; motif: NNNTGACGTNNN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: ERF; motif: ACCGGAAGTR; match class: 0",0,0,0,1,0,0,1,1
+"Factor: HIF-1alpha; motif: NNACGTGNN; match class: 0",0,0,0,1,0,0,0,1
+"Factor: Staf; motif: MNTTCCCAKMATKCMWNGCRA; match class: 0",0,0,0,1,0,0,1,1
+"Factor: LUMAN; motif: CYCAGCYYCY; match class: 0",0,0,0,1,0,0,0,1
+"Factor: ATF-4; motif: KACGTCAKS; match class: 1",0,0,0,1,0,0,0,1
+"Factor: SP3; motif: NCCACGCCCMC; match class: 0",0,0,0,1,0,0,1,1
+"Factor: Pax-6; motif: TTTCACGCWTGANTGMNYN; match class: 1",0,0,0,1,0,0,0,1
+"Factor: CREM; motif: NNTGACGT; match class: 0",0,0,0,1,0,0,1,0
+"Factor: N-Myc; motif: GSSCACGYGS; match class: 1",0,0,0,1,0,0,0,1
+"Factor: YY1; motif: NNCGCCATTNN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: JUND:FRA-1; motif: RTGACGTMAY; match class: 1",0,0,0,1,0,0,0,1
+"Factor: Egr; motif: GTGGGSGCRRS; match class: 0",0,0,0,1,0,1,1,1
+"Factor: CXXC1; motif: KNRNAMCGMWAAMNN; match class: 0",0,0,0,1,0,0,0,0
+"Factor: YY1; motif: GCCGCCATNTTGNNNNNGGNCN; match class: 1",0,0,0,1,0,0,0,0
+"Factor: Zfp206; motif: TGCGCAKGCGC; match class: 0",0,0,0,1,0,0,0,0
+"Factor: ZGPAT; motif: GRGGCWGNGGNG; match class: 0",0,0,0,1,0,0,1,1
+"Factor: AP-2alpha; motif: GCCNNNRGS; match class: 0",0,0,0,1,0,0,1,1
+"Factor: PLAG1; motif: CCCCCKWNNNGGSCCC; match class: 0",0,0,0,1,0,1,0,1
+"Factor: GKLF; motif: GCCMCRCCCNNN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: DEAF1; motif: RNNNRTTCGGGNRTTTCCGGRRNKN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: ZNF333; motif: ATAAT; match class: 0",0,0,0,1,0,0,0,1
+"Factor: Cdx-1; motif: TTTATK; match class: 0",0,0,0,1,0,0,0,1
+"Factor: MAZ; motif: NKGGGAGGGGRGGR; match class: 0",0,0,0,1,0,0,1,1
+"Factor: HIF2A; motif: ACGTGNNN; match class: 0",0,0,0,1,0,0,0,1
+"Factor: ER81; motif: NNNGRCMGGAAGYRNNNNNNNS; match class: 1",0,0,0,1,0,0,0,1
+"Factor: PLAG1; motif: GRGGCNNHNNNRRGGG; match class: 0",0,0,0,1,1,1,0,1
+"Factor: FOXO1A:Elf-1; motif: NAGAAAACCGAANM; match class: 1",0,0,0,1,0,0,1,1
+"Factor: ctcf; motif: NNNCCASYAGRKGGCRSYNN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: ERF:Dlx-3; motif: NNCGGAANNNNNNNATTN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: AP-2gamma; motif: GCCYNNGGS; match class: 0",0,0,0,1,0,0,1,0
+"Factor: AP-2gamma; motif: NTGSCCTGRGGSNN; match class: 0",0,0,0,1,0,0,0,0
+"Factor: CREB; motif: CGTCAN; match class: 0",0,0,0,1,0,0,0,1
+"Factor: Fli-1:Dlx-2; motif: RNCGGAARYAATTA; match class: 1",0,0,0,1,0,0,0,1
+"Factor: Erm:EVX1; motif: NNCGGAAATKR; match class: 0",0,0,0,1,0,0,0,0
+"Factor: STAT1; motif: NNNSANTTCCGGGAANTGNSN; match class: 0",0,0,0,1,0,0,0,1
+"Factor: PARP; motif: TTTCYN; match class: 0",0,0,0,1,0,0,0,0
+"Factor: KLF14; motif: NRCCACGCCCMCYN; match class: 0",0,0,0,1,0,0,0,0
+"Factor: GCMb:E2F-8; motif: ATRNGGGTWANSGCGGGAAA; match class: 0",0,0,0,1,0,1,0,1
+"Factor: Elk-1:TEF; motif: RCCGGAAGTTACGTAAN; match class: 1",0,0,0,1,0,0,0,1
+"Factor: CTCFL; motif: NSGTGGGCGG; match class: 0",0,0,0,1,0,0,1,1
+"Factor: ZXDB; motif: NGGGGTC; match class: 0",0,0,0,1,0,1,0,0
+"Factor: ZXDA; motif: NGGGGTC; match class: 0",0,0,0,1,0,1,0,0
+"Factor: Smad2; motif: AGACAN; match class: 0",0,0,0,1,0,0,0,1
+"Factor: ERF; motif: ACCGGAAGTR; match class: 1",0,0,0,1,0,0,0,0
+"Factor: VDR; motif: GGGKNARNRRGGWSA; match class: 0",0,0,0,1,0,0,0,1
+"Factor: BARHL2; motif: NNTAAAYGNN; match class: 0",0,0,0,1,0,0,0,1
+"Factor: NF-Y; motif: NNNRRCCAATSRGNNN; match class: 0",0,0,0,1,0,0,0,0
+"Factor: C-Myc; motif: NGCCACGTGNN; match class: 1",0,0,0,1,0,0,0,0
+"Factor: Erm:HOXB13; motif: RSCGGAWGTNRTWAA; match class: 0",0,0,0,1,0,0,0,1
+"Factor: USF2; motif: NNNCCACGTGACN; match class: 1",0,0,0,1,0,0,0,0
+"Factor: TFEB; motif: RNCACGTGAC; match class: 1",0,0,0,1,0,0,0,1
+"Factor: Max; motif: NNANCACGTGNTNN; match class: 1",0,0,0,1,0,0,0,0
+"Factor: Fli-1; motif: RCMGGAAGYGNNN; match class: 1",0,0,0,1,0,0,0,1
+"Factor: DPF2; motif: NYCACYTCCYCNYYCY; match class: 0",0,0,0,1,0,0,1,1
+"Factor: meis1:Elf-1; motif: NTGCCGGAAGTN; match class: 0",0,0,0,1,0,0,1,1
+"Factor: USF; motif: NRCCACGTGASN; match class: 1",0,0,0,1,0,0,0,1
+"Factor: USF1; motif: NNNNGTCACGTGGN; match class: 1",0,0,0,1,0,0,0,0
+"Factor: USF; motif: NNRYCACGTGRYNN; match class: 1",0,0,0,1,0,0,0,0
+"hsa-miR-186-5p",0,0,0,1,0,0,1,0
+"hsa-miR-548j-3p",0,0,0,1,0,0,0,0
+"hsa-miR-548ae-3p",0,0,0,1,0,0,0,0
+"hsa-miR-548aj-3p",0,0,0,1,0,0,0,0
+"hsa-miR-548aq-3p",0,0,0,1,0,0,0,0
+"hsa-miR-548x-3p",0,0,0,1,0,0,0,0
+"hsa-miR-10a-5p",0,0,0,1,0,0,0,0
+"hsa-miR-548am-3p",0,0,0,1,0,0,0,0
+"hsa-miR-548ah-3p",0,0,0,1,0,0,0,0
+"hsa-miR-1296-5p",0,0,0,1,0,0,0,0
+"hsa-miR-196a-5p",0,0,0,1,0,0,0,0
+"hsa-miR-580-3p",0,0,0,1,0,0,0,0
+"hsa-miR-149-5p",0,0,0,1,0,0,0,0
+"hsa-miR-548d-3p",0,0,0,1,0,0,0,0
+"hsa-miR-520c-3p",0,0,0,1,0,0,0,0
+"hsa-miR-324-5p",0,0,0,1,0,0,0,0
+"skeletal muscle; myocytes[Approved,Low]",0,0,0,1,0,0,0,0
+"colon; endothelial cells[Approved,Low]",0,0,0,1,0,0,1,0
+"skin 1; Langerhans[Approved,Medium]",0,0,0,1,0,0,0,0
+"lung; macrophages[Approved,Medium]",0,0,0,1,0,0,1,0
+"tonsil; non-germinal center cells[Approved,Medium]",0,0,0,1,0,0,1,0
+"soft tissue 2; peripheral nerve[Approved,Low]",0,0,0,1,0,0,0,0
+"pancreas; islets of Langerhans[Supported,Medium]",0,0,0,1,0,0,0,0
+"soft tissue 2; fibroblasts[Approved,Medium]",0,0,0,1,0,0,0,0
+"lymph node; non-germinal center cells[Approved,Medium]",0,0,0,1,0,0,0,0
+"tonsil; germinal center cells[Approved,Low]",0,0,0,1,0,0,0,0
+"stomach 1; glandular cells[Approved,High]",0,0,0,1,0,0,0,0
+"liver; bile duct cells[Approved,Low]",0,0,0,1,0,0,1,0
+"spleen; cells in red pulp[Supported,Medium]",0,0,0,1,0,0,1,0
+"adrenal gland; glandular cells[Supported,Medium]",0,0,0,1,0,0,0,0
+"hippocampus; glial cells[Approved,Medium]",0,0,0,1,0,0,0,0
+"caudate; glial cells[Approved,Medium]",0,0,0,1,0,0,0,0
+"pancreas; islets of Langerhans[Approved,Low]",0,0,0,1,0,0,1,0
+"soft tissue 1; adipocytes[Approved,Low]",0,0,0,1,0,0,0,0
+"cerebral cortex; neuropil[Supported,Medium]",0,0,0,1,0,0,0,0
+"breast; adipocytes[Approved,Low]",0,0,0,1,0,0,0,0
+"skin 1; keratinocytes[Approved,Low]",0,0,0,1,0,0,1,0
+"cervix, uterine; glandular cells[Supported,Medium]",0,0,0,1,0,0,0,0
+"liver; hepatocytes[Approved,Low]",0,0,0,1,0,0,0,0
+"kidney; cells in tubules[Approved,High]",0,0,0,1,0,0,0,0
+"ovary; follicle cells[Approved,Medium]",0,0,0,1,0,0,1,0
+"cervix, uterine; glandular cells[Approved,Low]",0,0,0,1,0,0,1,0
+"spleen; cells in white pulp[Approved,Medium]",0,0,0,1,0,0,0,0
+"skin 1; melanocytes[Approved,Low]",0,0,0,1,0,0,1,0
+"liver; bile duct cells[Supported,Medium]",0,0,0,1,0,0,0,0
+"kidney; cells in glomeruli[Approved,Low]",0,0,0,1,0,0,1,0
+"tonsil; non-germinal center cells[Approved,High]",0,0,0,1,0,0,1,0
+"skin 1; fibroblasts[Approved,Medium]",0,0,0,1,0,0,0,0
+"endometrium 1; cells in endometrial stroma[Approved,Medium]",0,0,0,1,0,0,0,0
+"smooth muscle; smooth muscle cells[Approved,Medium]",0,0,0,1,0,0,0,0
+"pancreas; exocrine glandular cells[Approved,High]",0,0,0,1,0,0,0,0
+"vagina; squamous epithelial cells[Approved,Low]",0,0,0,1,0,0,0,0
+"cerebral cortex; neuropil[Approved,Low]",0,0,0,1,0,0,0,0
+"liver; hepatocytes[Supported,Medium]",0,0,0,1,0,0,0,0
+"lymph node; germinal center cells[Approved,Low]",0,0,0,1,0,0,0,0
+"caudate; glial cells[Supported,Low]",0,0,0,1,0,0,0,0
+"caudate; neuronal cells[Supported,Medium]",0,0,0,1,0,0,0,0
+"caudate; glial cells[Supported,Medium]",0,0,0,1,0,0,0,0
+"rectum; glandular cells[Supported,High]",0,0,0,1,0,0,0,0
+"testis; Leydig cells[Approved,High]",0,0,0,1,0,0,0,0
+"seminal vesicle; glandular cells[Approved,Low]",0,0,0,1,0,0,0,0
+"testis; Leydig cells[Supported,Medium]",0,0,0,1,0,0,0,0
+"ovary; ovarian stroma cells[Supported,Medium]",0,0,0,1,0,0,1,0
+"prostate; glandular cells[Approved,Low]",0,0,0,1,0,0,0,0
+"soft tissue 1; peripheral nerve[Supported,Low]",0,0,0,1,0,0,0,0
+"skin 1; melanocytes[Supported,Medium]",0,0,0,1,0,0,0,0
+"lymph node; non-germinal center cells[Approved,Low]",0,0,0,1,0,0,1,0
+"colon; peripheral nerve/ganglion[Approved,Low]",0,0,0,1,0,0,0,0
+"kidney; cells in glomeruli[Approved,Medium]",0,0,0,1,0,0,1,0
+"appendix; lymphoid tissue[Supported,Medium]",0,0,0,1,0,0,0,0
+"appendix; lymphoid tissue[Approved,Low]",0,0,0,1,0,0,0,0
+"endometrium 2; cells in endometrial stroma[Approved,Medium]",0,0,0,1,0,0,0,0
+"endometrium 1; glandular cells[Approved,High]",0,0,0,1,0,0,0,0
+"hippocampus; neuronal cells[Approved,Low]",0,0,0,1,0,0,0,0
+"cervix, uterine; squamous epithelial cells[Approved,Medium]",0,0,0,1,0,0,0,0
+"soft tissue 1; peripheral nerve[Approved,Low]",0,0,0,1,0,0,0,0
+"soft tissue 1; peripheral nerve[Approved,Medium]",0,0,0,1,0,0,1,0
+"endometrium 1; glandular cells[Approved,Low]",0,0,0,1,0,0,0,0
+"seminal vesicle; glandular cells[Supported,High]",0,0,0,1,0,0,0,0
+"nasopharynx; respiratory epithelial cells[Supported,High]",0,0,0,1,0,0,0,0
+"fallopian tube; glandular cells[Approved,High]",0,0,0,1,0,0,1,0
+"cerebral cortex; endothelial cells[Supported,Medium]",0,0,0,1,0,0,0,0
+"lymph node; non-germinal center cells[Approved,High]",0,0,0,1,0,0,1,0
+"epididymis; glandular cells[Approved,High]",0,0,0,1,0,0,0,0
+"calmodulin-dependent protein kinase activity",0,0,0,0,1,0,0,0
+"molecular function regulator",0,0,0,0,1,0,0,0
+"Rho GTPase binding",0,0,0,0,1,0,1,1
+"benzodiazepine receptor activity",0,0,0,0,1,0,0,0
+"GABA-gated chloride ion channel activity",0,0,0,0,1,0,0,0
+"high-affinity glutamate transmembrane transporter activity",0,0,0,0,1,0,0,0
+"glutamate:sodium symporter activity",0,0,0,0,1,0,0,0
+"postsynaptic neurotransmitter receptor activity",0,0,0,0,1,0,0,0
+"regulation of glutamate receptor signaling pathway",0,0,0,0,1,0,0,0
+"regulation of multicellular organismal process",0,0,0,0,1,1,0,0
+"regulation of neurotransmitter receptor activity",0,0,0,0,1,0,0,0
+"system process",0,0,0,0,1,0,0,0
+"signal transduction",0,0,0,0,1,1,0,0
+"cellular response to stimulus",0,0,0,0,1,1,0,0
+"nervous system process",0,0,0,0,1,0,0,0
+"multicellular organismal process",0,0,0,0,1,0,0,0
+"amino acid import across plasma membrane",0,0,0,0,1,0,0,0
+"amino acid import",0,0,0,0,1,0,0,0
+"regulation of AMPA receptor activity",0,0,0,0,1,0,0,0
+"response to stimulus",0,0,0,0,1,1,0,0
+"positive regulation of cell differentiation",0,0,0,0,1,1,0,0
+"protein phosphorylation",0,0,0,0,1,1,1,1
+"leading edge membrane",0,0,0,0,1,1,1,1
+"dendrite membrane",0,0,0,0,1,1,0,0
+"receptor complex",0,0,0,0,1,1,0,0
+"postsynaptic specialization membrane",0,0,0,0,1,1,1,0
+"postsynaptic density membrane",0,0,0,0,1,1,0,0
+"cell projection membrane",0,0,0,0,1,0,0,0
+"Insulin secretion",0,0,0,0,1,1,0,0
+"Gap junction",0,0,0,0,1,0,0,1
+"Salivary secretion",0,0,0,0,1,0,0,0
+"Rho GTPase cycle",0,0,0,0,1,0,0,1
+"Factor: NF-KAPPAB1; motif: NGGKRNTTYCCCN; match class: 1",0,0,0,0,1,0,0,0
+"Factor: NF-kappaB; motif: GGGGATYCCC; match class: 1",0,0,0,0,1,1,0,0
+"Factor: HIC1; motif: NNNGGKTGCCCSNNNNNN; match class: 1",0,0,0,0,1,0,0,0
+"Factor: Zic3; motif: NGGGKGGTC; match class: 1",0,0,0,0,1,1,0,0
+"Factor: PLAG1; motif: GRGGCNNHNNNRRGGG; match class: 1",0,0,0,0,1,0,0,0
+"urinary bladder; urothelial cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"kidney; cells in tubules[Approved,Not detected]",0,0,0,0,1,0,0,0
+"placenta; decidual cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"nasopharynx; respiratory epithelial cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"skin 1; keratinocytes[Approved,Not detected]",0,0,0,0,1,0,0,0
+"spleen; cells in white pulp[Approved,Not detected]",0,0,0,0,1,0,0,0
+"rectum; glandular cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"oral mucosa; squamous epithelial cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"gallbladder; glandular cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"placenta; trophoblastic cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"testis; Leydig cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"endometrium 2; glandular cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"endometrium 1; glandular cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"tonsil; squamous epithelial cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"bone marrow; hematopoietic cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"heart muscle; myocytes[Approved,Not detected]",0,0,0,0,1,0,0,0
+"breast; glandular cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"tonsil; germinal center cells[Approved,Not detected]",0,0,0,0,1,0,0,0
+"identical protein binding",0,0,0,0,0,1,0,0
+"ligand-gated cation channel activity",0,0,0,0,0,1,0,0
+"calcium channel activity",0,0,0,0,0,1,0,0
+"phosphatidylinositol phosphate binding",0,0,0,0,0,1,1,1
+"voltage-gated calcium channel activity",0,0,0,0,0,1,0,0
+"phosphoric diester hydrolase activity",0,0,0,0,0,1,0,0
+"high voltage-gated calcium channel activity",0,0,0,0,0,1,0,0
+"ion channel binding",0,0,0,0,0,1,0,1
+"ligand-gated calcium channel activity",0,0,0,0,0,1,0,0
+"regulation of cellular process",0,0,0,0,0,1,1,0
+"biological regulation",0,0,0,0,0,1,0,0
+"positive regulation of cellular process",0,0,0,0,0,1,1,1
+"regulation of biological process",0,0,0,0,0,1,0,0
+"positive regulation of biological process",0,0,0,0,0,1,1,1
+"positive regulation of molecular function",0,0,0,0,0,1,1,1
+"regulation of molecular function",0,0,0,0,0,1,0,0
+"cell surface receptor signaling pathway",0,0,0,0,0,1,0,0
+"regulation of cation channel activity",0,0,0,0,0,1,0,0
+"positive regulation of catalytic activity",0,0,0,0,0,1,1,1
+"regulation of hydrolase activity",0,0,0,0,0,1,0,0
+"pallium development",0,0,0,0,0,1,0,0
+"regulation of response to stimulus",0,0,0,0,0,1,0,0
+"oligodendrocyte differentiation",0,0,0,0,0,1,0,0
+"positive regulation of multicellular organismal process",0,0,0,0,0,1,0,0
+"memory",0,0,0,0,0,1,1,0
+"cell adhesion",0,0,0,0,0,1,0,0
+"biological adhesion",0,0,0,0,0,1,0,0
+"cellular response to chemical stimulus",0,0,0,0,0,1,0,0
+"regulation of signal transduction",0,0,0,0,0,1,0,0
+"response to organic substance",0,0,0,0,0,1,0,0
+"cellular response to organic substance",0,0,0,0,0,1,0,0
+"protein localization to postsynaptic membrane",0,0,0,0,0,1,1,0
+"positive regulation of signaling",0,0,0,0,0,1,0,0
+"peptidyl-threonine modification",0,0,0,0,0,1,1,1
+"regulation of synaptic vesicle endocytosis",0,0,0,0,0,1,0,0
+"regulation of intracellular signal transduction",0,0,0,0,0,1,0,1
+"positive regulation of autophagy",0,0,0,0,0,1,1,1
+"protein autophosphorylation",0,0,0,0,0,1,1,1
+"regulation of calcium ion transmembrane transport",0,0,0,0,0,1,0,0
+"hippocampus development",0,0,0,0,0,1,0,0
+"cell surface receptor signaling pathway involved in cell-cell signaling",0,0,0,0,0,1,0,0
+"walking behavior",0,0,0,0,0,1,1,0
+"membrane depolarization during action potential",0,0,0,0,0,1,0,0
+"chemotaxis",0,0,0,0,0,1,0,0
+"positive regulation of cell communication",0,0,0,0,0,1,0,0
+"peptidyl-threonine phosphorylation",0,0,0,0,0,1,1,1
+"regulation of protein modification process",0,0,0,0,0,1,0,1
+"taxis",0,0,0,0,0,1,0,0
+"positive regulation of hydrolase activity",0,0,0,0,0,1,0,1
+"non-canonical Wnt signaling pathway",0,0,0,0,0,1,0,0
+"regulation of actin cytoskeleton organization",0,0,0,0,0,1,0,0
+"regulation of actin filament-based process",0,0,0,0,0,1,0,0
+"forebrain cell migration",0,0,0,0,0,1,0,0
+"regulation of secretion",0,0,0,0,0,1,0,0
+"antigen processing and presentation",0,0,0,0,0,1,1,0
+"maintenance of location",0,0,0,0,0,1,0,0
+"regulation of viral genome replication",0,0,0,0,0,1,0,0
+"endocytosis",0,0,0,0,0,1,0,0
+"positive regulation of protein binding",0,0,0,0,0,1,0,0
+"metal ion homeostasis",0,0,0,0,0,1,0,0
+"positive regulation of developmental process",0,0,0,0,0,1,0,0
+"antigen processing and presentation of peptide antigen",0,0,0,0,0,1,1,0
+"cerebellum development",0,0,0,0,0,1,1,1
+"regulation of system process",0,0,0,0,0,1,0,0
+"limbic system development",0,0,0,0,0,1,0,0
+"regulation of viral life cycle",0,0,0,0,0,1,0,0
+"homeostatic process",0,0,0,0,0,1,0,0
+"metencephalon development",0,0,0,0,0,1,0,1
+"divalent inorganic cation homeostasis",0,0,0,0,0,1,0,0
+"response to abiotic stimulus",0,0,0,0,0,1,0,0
+"cellular response to nitrogen compound",0,0,0,0,0,1,0,0
+"cellular response to organonitrogen compound",0,0,0,0,0,1,0,0
+"regulation of voltage-gated calcium channel activity",0,0,0,0,0,1,0,0
+"regulation of actin filament organization",0,0,0,0,0,1,0,0
+"regulation of secretion by cell",0,0,0,0,0,1,0,0
+"long-term memory",0,0,0,0,0,1,0,0
+"regulation of protein binding",0,0,0,0,0,1,0,0
+"cell communication by electrical coupling",0,0,0,0,0,1,0,0
+"regulation of anatomical structure morphogenesis",0,0,0,0,0,1,0,0
+"regulation of receptor-mediated endocytosis",0,0,0,0,0,1,0,0
+"inorganic ion homeostasis",0,0,0,0,0,1,0,0
+"calcium ion transmembrane import into cytosol",0,0,0,0,0,1,0,0
+"synaptic vesicle priming",0,0,0,0,0,1,0,1
+"axo-dendritic transport",0,0,0,0,0,1,1,0
+"central nervous system neuron differentiation",0,0,0,0,0,1,0,0
+"regulation of Ras protein signal transduction",0,0,0,0,0,1,0,1
+"apoptotic process",0,0,0,0,0,1,0,0
+"transmembrane receptor protein tyrosine kinase signaling pathway",0,0,0,0,0,1,0,0
+"recycling endosome membrane",0,0,0,0,0,1,0,0
+"calcium channel complex",0,0,0,0,0,1,0,0
+"anchoring junction",0,0,0,0,0,1,0,1
+"adherens junction",0,0,0,0,0,1,0,1
+"axon initial segment",0,0,0,0,0,1,0,1
+"voltage-gated calcium channel complex",0,0,0,0,0,1,0,0
+"MHC protein complex",0,0,0,0,0,1,0,0
+"cell-cell adherens junction",0,0,0,0,0,1,0,0
+"AMPA glutamate receptor complex",0,0,0,0,0,1,0,0
+"actin cytoskeleton",0,0,0,0,0,1,0,0
+"axon hillock",0,0,0,0,0,1,0,0
+"MHC class I protein complex",0,0,0,0,0,1,0,0
+"node of Ranvier",0,0,0,0,0,1,0,0
+"I band",0,0,0,0,0,1,0,0
+"Z disc",0,0,0,0,0,1,0,0
+"dendrite cytoplasm",0,0,0,0,0,1,0,1
+"cytoplasmic side of membrane",0,0,0,0,0,1,0,0
+"membrane microdomain",0,0,0,0,0,1,0,1
+"membrane raft",0,0,0,0,0,1,0,1
+"cytoplasmic side of plasma membrane",0,0,0,0,0,1,0,0
+"Human immunodeficiency virus 1 infection",0,0,0,0,0,1,0,0
+"GnRH signaling pathway",0,0,0,0,0,1,0,0
+"Chagas disease (American trypanosomiasis)",0,0,0,0,0,1,0,0
+"Inflammatory mediator regulation of TRP channels",0,0,0,0,0,1,0,0
+"Apelin signaling pathway",0,0,0,0,0,1,0,0
+"Relaxin signaling pathway",0,0,0,0,0,1,0,0
+"Choline metabolism in cancer",0,0,0,0,0,1,0,0
+"Renin secretion",0,0,0,0,0,1,0,0
+"Type II diabetes mellitus",0,0,0,0,0,1,0,0
+"Bacterial invasion of epithelial cells",0,0,0,0,0,1,1,1
+"Tight junction",0,0,0,0,0,1,0,0
+"Interferon Signaling",0,0,0,0,0,1,0,0
+"Integration of energy metabolism",0,0,0,0,0,1,0,1
+"Opioid Signalling",0,0,0,0,0,1,0,1
+"Activation of kainate receptors upon glutamate binding",0,0,0,0,0,1,0,0
+"GABA receptor activation",0,0,0,0,0,1,0,0
+"G-protein mediated events",0,0,0,0,0,1,0,1
+"VEGFA-VEGFR2 Pathway",0,0,0,0,0,1,0,1
+"Ras activation upon Ca2+ influx through NMDA receptor",0,0,0,0,0,1,0,0
+"WNT5A-dependent internalization of FZD4",0,0,0,0,0,1,0,0
+"Synthesis of IP3 and IP4 in the cytosol",0,0,0,0,0,1,0,0
+"Interferon gamma signaling",0,0,0,0,0,1,0,0
+"PLC beta mediated events",0,0,0,0,0,1,0,1
+"Platelet homeostasis",0,0,0,0,0,1,0,0
+"Myometrial Relaxation and Contraction Pathways",0,0,0,0,0,1,0,0
+"Pathways Regulating Hippo Signaling",0,0,0,0,0,1,0,0
+"ErbB Signaling Pathway",0,0,0,0,0,1,0,1
+"Glial Cell Differentiation",0,0,0,0,0,1,0,0
+"Regulation of Actin Cytoskeleton",0,0,0,0,0,1,0,0
+"Ebola Virus Pathway on Host",0,0,0,0,0,1,0,0
+"Corticotropin-releasing hormone signaling pathway",0,0,0,0,0,1,0,0
+"Factor: ERG; motif: ACCGGAARTN; match class: 0",0,0,0,0,0,1,0,0
+"Factor: LUMAN; motif: CYCAGCYYCY; match class: 1",0,0,0,0,0,1,0,0
+"Factor: LKLF; motif: CNCCACCCS; match class: 0",0,0,0,0,0,1,1,1
+"Factor: PUR1; motif: GGGNCAGNN; match class: 1",0,0,0,0,0,1,0,0
+"Factor: AP-2gamma:HES-7; motif: NNCACGYGNNNNNNSCCNNNGGS; match class: 1",0,0,0,0,0,1,0,1
+"Factor: REST; motif: NNNNGGNGCTGTCCATGGTGCT; match class: 0",0,0,0,0,0,1,0,0
+"Factor: MZF-1; motif: KNGNKAGGGGNAA; match class: 0",0,0,0,0,0,1,0,0
+"Factor: ZBP89; motif: YCCYCCCCCM; match class: 1",0,0,0,0,0,1,0,0
+"Factor: ZGPAT; motif: GRGGCWGNGGNG; match class: 1",0,0,0,0,0,1,0,0
+"Factor: REST; motif: TTCAGCACCAYGGACAGCKCCN; match class: 0",0,0,0,0,0,1,0,0
+"Factor: MAZ; motif: GGGGAGGG; match class: 0",0,0,0,0,0,1,0,1
+"Factor: LRF; motif: NGKGGGTSNCN; match class: 1",0,0,0,0,0,1,0,0
+"Factor: NRSE; motif: TTYAGCWCCDCGGASAGYRCC; match class: 1",0,0,0,0,0,1,0,0
+"hsa-miR-574-5p",0,0,0,0,0,1,0,0
+"Memory impairment",0,0,0,0,0,1,1,0
+"Agnosia",0,0,0,0,0,1,1,0
+"Apathy",0,0,0,0,0,1,1,0
+"Benign neoplasm of the central nervous system",0,0,0,0,0,1,0,0
+"Personality changes",0,0,0,0,0,1,1,0
+"Disinhibition",0,0,0,0,0,1,1,0
+"Generalized tonic-clonic seizures",0,0,0,0,0,1,0,0
+"Agitation",0,0,0,0,0,1,1,0
+"Autosomal dominant inheritance",0,0,0,0,0,1,0,0
+"Adult onset",0,0,0,0,0,1,1,0
+"Deposits immunoreactive to beta-amyloid protein",0,0,0,0,0,1,0,0
+"Lewy bodies",0,0,0,0,0,1,0,0
+"Neurofibrillary tangles",0,0,0,0,0,1,0,0
+"Resting tremor",0,0,0,0,0,1,1,0
+"translation regulator activity",0,0,0,0,0,0,1,0
+"chromatin binding",0,0,0,0,0,0,1,1
+"protein N-terminus binding",0,0,0,0,0,0,1,1
+"DNA-binding transcription factor binding",0,0,0,0,0,0,1,1
+"methylation-dependent protein binding",0,0,0,0,0,0,1,0
+"methylated histone binding",0,0,0,0,0,0,1,0
+"exonuclease activity",0,0,0,0,0,0,1,0
+"protein phosphatase binding",0,0,0,0,0,0,1,1
+"acetyltransferase activity",0,0,0,0,0,0,1,1
+"phosphoprotein binding",0,0,0,0,0,0,1,1
+"3'-5' exonuclease activity",0,0,0,0,0,0,1,0
+"double-stranded RNA binding",0,0,0,0,0,0,1,0
+"3'-5'-exoribonuclease activity",0,0,0,0,0,0,1,0
+"exoribonuclease activity",0,0,0,0,0,0,1,0
+"N-acetyltransferase activity",0,0,0,0,0,0,1,1
+"p53 binding",0,0,0,0,0,0,1,1
+"PDZ domain binding",0,0,0,0,0,0,1,0
+"1-phosphatidylinositol binding",0,0,0,0,0,0,1,0
+"exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters",0,0,0,0,0,0,1,0
+"cytidylyltransferase activity",0,0,0,0,0,0,1,0
+"protein phosphatase regulator activity",0,0,0,0,0,0,1,0
+"microtubule-based movement",0,0,0,0,0,0,1,1
+"ribonucleoprotein complex export from nucleus",0,0,0,0,0,0,1,0
+"ribonucleoprotein complex localization",0,0,0,0,0,0,1,0
+"mRNA-containing ribonucleoprotein complex export from nucleus",0,0,0,0,0,0,1,0
+"mRNA export from nucleus",0,0,0,0,0,0,1,0
+"mRNA 3'-end processing",0,0,0,0,0,0,1,0
+"long-term synaptic potentiation",0,0,0,0,0,0,1,0
+"mRNA transport",0,0,0,0,0,0,1,1
+"lysosome organization",0,0,0,0,0,0,1,0
+"lytic vacuole organization",0,0,0,0,0,0,1,0
+"startle response",0,0,0,0,0,0,1,0
+"positive regulation of viral process",0,0,0,0,0,0,1,0
+"maintenance of protein location in cell",0,0,0,0,0,0,1,1
+"positive regulation of ubiquitin-dependent protein catabolic process",0,0,0,0,0,0,1,0
+"response to calcium ion",0,0,0,0,0,0,1,0
+"cell cycle checkpoint",0,0,0,0,0,0,1,0
+"establishment of cell polarity",0,0,0,0,0,0,1,1
+"regulation of extent of cell growth",0,0,0,0,0,0,1,0
+"transcription by RNA polymerase II",0,0,0,0,0,0,1,0
+"positive regulation of proteasomal protein catabolic process",0,0,0,0,0,0,1,0
+"positive regulation of GTPase activity",0,0,0,0,0,0,1,1
+"positive regulation of nucleobase-containing compound metabolic process",0,0,0,0,0,0,1,0
+"antigen processing and presentation of exogenous peptide antigen",0,0,0,0,0,0,1,0
+"microtubule organizing center organization",0,0,0,0,0,0,1,0
+"regulation of cell projection assembly",0,0,0,0,0,0,1,1
+"negative regulation of microtubule polymerization or depolymerization",0,0,0,0,0,0,1,1
+"regulation of vacuole organization",0,0,0,0,0,0,1,1
+"modulation of excitatory postsynaptic potential",0,0,0,0,0,0,1,0
+"ephrin receptor signaling pathway",0,0,0,0,0,0,1,1
+"positive regulation of cell growth",0,0,0,0,0,0,1,0
+"response to nitrogen compound",0,0,0,0,0,0,1,1
+"regulation of cilium assembly",0,0,0,0,0,0,1,1
+"regulation of plasma membrane bounded cell projection assembly",0,0,0,0,0,0,1,1
+"positive regulation of organelle assembly",0,0,0,0,0,0,1,0
+"positive regulation of macromolecule biosynthetic process",0,0,0,0,0,0,1,0
+"regulation of autophagosome assembly",0,0,0,0,0,0,1,0
+"positive regulation of proteasomal ubiquitin-dependent protein catabolic process",0,0,0,0,0,0,1,0
+"protein transport along microtubule",0,0,0,0,0,0,1,1
+"microtubule-based protein transport",0,0,0,0,0,0,1,1
+"negative regulation of phosphatase activity",0,0,0,0,0,0,1,0
+"postsynaptic density organization",0,0,0,0,0,0,1,0
+"postsynaptic specialization organization",0,0,0,0,0,0,1,0
+"negative regulation of cellular process",0,0,0,0,0,0,1,1
+"antigen processing and presentation of exogenous antigen",0,0,0,0,0,0,1,0
+"cytoplasmic microtubule organization",0,0,0,0,0,0,1,1
+"microtubule depolymerization",0,0,0,0,0,0,1,0
+"protein localization to microtubule cytoskeleton",0,0,0,0,0,0,1,0
+"regulation of protein modification by small protein conjugation or removal",0,0,0,0,0,0,1,1
+"phosphatidylinositol metabolic process",0,0,0,0,0,0,1,1
+"centrosome cycle",0,0,0,0,0,0,1,0
+"SWI/SNF superfamily-type complex",0,0,0,0,0,0,1,1
+"ATPase complex",0,0,0,0,0,0,1,1
+"nuclear matrix",0,0,0,0,0,0,1,1
+"plasma membrane bounded cell projection cytoplasm",0,0,0,0,0,0,1,1
+"chromatin",0,0,0,0,0,0,1,1
+"trans-Golgi network transport vesicle",0,0,0,0,0,0,1,0
+"cell cortex region",0,0,0,0,0,0,1,1
+"nBAF complex",0,0,0,0,0,0,1,0
+"spindle pole",0,0,0,0,0,0,1,1
+"nuclear transcriptional repressor complex",0,0,0,0,0,0,1,0
+"centriole",0,0,0,0,0,0,1,1
+"endoplasmic reticulum quality control compartment",0,0,0,0,0,0,1,0
+"cilium",0,0,0,0,0,0,1,1
+"clathrin adaptor complex",0,0,0,0,0,0,1,1
+"AP-2 adaptor complex",0,0,0,0,0,0,1,1
+"kinetochore",0,0,0,0,0,0,1,0
+"transcriptional repressor complex",0,0,0,0,0,0,1,0
+"endoplasmic reticulum subcompartment",0,0,0,0,0,0,1,0
+"phagophore assembly site",0,0,0,0,0,0,1,1
+"Cul4-RING E3 ubiquitin ligase complex",0,0,0,0,0,0,1,0
+"intrinsic component of synaptic membrane",0,0,0,0,0,0,1,0
+"site of double-strand break",0,0,0,0,0,0,1,0
+"Neurotrophin signaling pathway",0,0,0,0,0,0,1,1
+"Herpes simplex virus 1 infection",0,0,0,0,0,0,1,0
+"RNA degradation",0,0,0,0,0,0,1,1
+"Basal transcription factors",0,0,0,0,0,0,1,0
+"Insulin signaling pathway",0,0,0,0,0,0,1,1
+"SUMOylation of DNA damage response and repair proteins",0,0,0,0,0,0,1,1
+"Transport of Mature Transcript to Cytoplasm",0,0,0,0,0,0,1,0
+"Diseases of signal transduction",0,0,0,0,0,0,1,1
+"Anchoring of the basal body to the plasma membrane",0,0,0,0,0,0,1,1
+"SUMOylation",0,0,0,0,0,0,1,1
+"Transport of Mature mRNA derived from an Intron-Containing Transcript",0,0,0,0,0,0,1,0
+"SUMO E3 ligases SUMOylate target proteins",0,0,0,0,0,0,1,1
+"Transport of Mature mRNAs Derived from Intronless Transcripts",0,0,0,0,0,0,1,0
+"Transport of the SLBP Dependant Mature mRNA",0,0,0,0,0,0,1,0
+"EPH-Ephrin signaling",0,0,0,0,0,0,1,1
+"CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling",0,0,0,0,0,0,1,0
+"Transport of Mature mRNA Derived from an Intronless Transcript",0,0,0,0,0,0,1,0
+"Late Phase of HIV Life Cycle",0,0,0,0,0,0,1,1
+"Transport of the SLBP independent Mature mRNA",0,0,0,0,0,0,1,0
+"Synthesis of PIPs at the plasma membrane",0,0,0,0,0,0,1,0
+"SUMOylation of ubiquitinylation proteins",0,0,0,0,0,0,1,0
+"EPHB-mediated forward signaling",0,0,0,0,0,0,1,1
+"DAG and IP3 signaling",0,0,0,0,0,0,1,1
+"RNA Polymerase II Transcription Termination",0,0,0,0,0,0,1,0
+"Lysosome Vesicle Biogenesis",0,0,0,0,0,0,1,0
+"Association of TriC/CCT with target proteins during biosynthesis",0,0,0,0,0,0,1,0
+"Formation of Incision Complex in GG-NER",0,0,0,0,0,0,1,1
+"Dopamine Neurotransmitter Release Cycle",0,0,0,0,0,0,1,0
+"SUMOylation of SUMOylation proteins",0,0,0,0,0,0,1,0
+"Interactions of Vpr with host cellular proteins",0,0,0,0,0,0,1,0
+"Oncogenic MAPK signaling",0,0,0,0,0,0,1,1
+"Androgen receptor signaling pathway",0,0,0,0,0,0,1,1
+"B Cell Receptor Signaling Pathway",0,0,0,0,0,0,1,1
+"Interferon type I signaling pathways",0,0,0,0,0,0,1,1
+"Translation Factors",0,0,0,0,0,0,1,0
+"Eukaryotic Transcription Initiation",0,0,0,0,0,0,1,1
+"G13 Signaling Pathway",0,0,0,0,0,0,1,0
+"Microglia Pathogen Phagocytosis Pathway",0,0,0,0,0,0,1,0
+"Factor: RFX1; motif: NNGTNRCNATRGYAACNN; match class: 1",0,0,0,0,0,0,1,1
+"Factor: AhR; motif: NTNGCGTGNNN; match class: 1",0,0,0,0,0,0,1,1
+"Factor: IRF-4; motif: NCGAAACCGAAACYA; match class: 0",0,0,0,0,0,0,1,1
+"Factor: ATF6; motif: TGACGTGG; match class: 1",0,0,0,0,0,0,1,1
+"Factor: ZNF555; motif: GAGCHGGCCC; match class: 0",0,0,0,0,0,0,1,0
+"Factor: E2F-6; motif: CNTTTCNT; match class: 1",0,0,0,0,0,0,1,0
+"Factor: AP-2gamma:HES-7; motif: NNCACGYGNNNNNNSCCNNNGGS; match class: 0",0,0,0,0,0,0,1,1
+"Factor: RFX4; motif: NGTWRCCATGGYWACN; match class: 1",0,0,0,0,0,0,1,0
+"Factor: AhR:Arnt; motif: KNNKNNTYGCGTGCMS; match class: 1",0,0,0,0,0,0,1,1
+"Factor: LKLF; motif: GGGGTGGKSN; match class: 0",0,0,0,0,0,0,1,0
+"Factor: GATA-1; motif: SNNGATNNNN; match class: 0",0,0,0,0,0,0,1,1
+"Factor: ZNF253; motif: KKGCARMMGM; match class: 0",0,0,0,0,0,0,1,1
+"Factor: Tel-2; motif: YTACTTCCTG; match class: 0",0,0,0,0,0,0,1,1
+"Factor: EHF; motif: CSCGGAARTN; match class: 0",0,0,0,0,0,0,1,1
+"Factor: USF2; motif: AAGTCACG; match class: 0",0,0,0,0,0,0,1,1
+"Factor: ZIC4; motif: GRCCCCCCGCNGNGN; match class: 0",0,0,0,0,0,0,1,1
+"Factor: ATF; motif: NTGACGTCANYS; match class: 0",0,0,0,0,0,0,1,1
+"Factor: ELK1; motif: NACTTCCGSCGGAAGYN; match class: 0",0,0,0,0,0,0,1,1
+"Factor: LRF; motif: NGNAGNGGGTYN; match class: 1",0,0,0,0,0,0,1,1
+"Factor: HSFY1; motif: TTTCGAACG; match class: 0",0,0,0,0,0,0,1,0
+"Factor: ZBTB7C; motif: GKCCCGGGCKG; match class: 1",0,0,0,0,0,0,1,1
+"Factor: c-Myb; motif: NCNRNNGRCNGTTGGKGG; match class: 1",0,0,0,0,0,0,1,0
+"Factor: USF2; motif: NGGTCACGTGNNSNNNNNN; match class: 0",0,0,0,0,0,0,1,0
+"Factor: YY1; motif: GCCGCCATNTTGNNNNNGGNCN; match class: 0",0,0,0,0,0,0,1,0
+"hsa-miR-103a-3p",0,0,0,0,0,0,1,0
+"hsa-miR-200c-3p",0,0,0,0,0,0,1,0
+"hsa-miR-429",0,0,0,0,0,0,1,0
+"hsa-miR-505-3p",0,0,0,0,0,0,1,0
+"hsa-miR-361-5p",0,0,0,0,0,0,1,0
+"hsa-miR-1277-5p",0,0,0,0,0,0,1,0
+"hsa-miR-26a-5p",0,0,0,0,0,0,1,0
+"hsa-miR-200b-3p",0,0,0,0,0,0,1,0
+"hsa-miR-545-3p",0,0,0,0,0,0,1,0
+"hsa-miR-1185-2-3p",0,0,0,0,0,0,1,0
+"hsa-miR-590-3p",0,0,0,0,0,0,1,0
+"hsa-miR-101-3p",0,0,0,0,0,0,1,0
+"hsa-miR-1185-1-3p",0,0,0,0,0,0,1,0
+"hsa-miR-409-5p",0,0,0,0,0,0,1,0
+"hsa-miR-561-3p",0,0,0,0,0,0,1,0
+"hsa-miR-1468-3p",0,0,0,0,0,0,1,0
+"hsa-miR-548e-5p",0,0,0,0,0,0,1,0
+"hsa-miR-205-5p",0,0,0,0,0,0,1,0
+"hsa-miR-5689",0,0,0,0,0,0,1,0
+"hsa-miR-107",0,0,0,0,0,0,1,0
+"hsa-miR-181a-5p",0,0,0,0,0,0,1,0
+"hsa-miR-513c-3p",0,0,0,0,0,0,1,0
+"hsa-miR-548ah-5p",0,0,0,0,0,0,1,0
+"hsa-miR-181c-5p",0,0,0,0,0,0,1,0
+"hsa-miR-548aj-5p",0,0,0,0,0,0,1,0
+"hsa-miR-548g-5p",0,0,0,0,0,0,1,0
+"hsa-miR-548x-5p",0,0,0,0,0,0,1,0
+"hsa-miR-3606-3p",0,0,0,0,0,0,1,0
+"hsa-miR-3609",0,0,0,0,0,0,1,0
+"hsa-miR-4666a-5p",0,0,0,0,0,0,1,0
+"hsa-miR-513a-3p",0,0,0,0,0,0,1,0
+"lymph node; germinal center cells[Approved,High]",0,0,0,0,0,0,1,0
+"tonsil; germinal center cells[Approved,High]",0,0,0,0,0,0,1,0
+"skin 1; Langerhans[Approved,Low]",0,0,0,0,0,0,1,0
+"soft tissue 1; fibroblasts[Supported,Medium]",0,0,0,0,0,0,1,0
+"skin 1; fibroblasts[Approved,Low]",0,0,0,0,0,0,1,0
+"skin 2; epidermal cells[Approved,Low]",0,0,0,0,0,0,1,0
+"endometrium 1; cells in endometrial stroma[Approved,Low]",0,0,0,0,0,0,1,0
+"RNA polymerase II complex, chromatin structure modifying",0,0,0,0,0,0,1,0
+"NUMAC complex (nucleosomal methylation activator complex)",0,0,0,0,0,0,1,0
+"Oculomotor apraxia",0,0,0,0,0,0,1,0
+"Fasciculations",0,0,0,0,0,0,1,0
+"Limb ataxia",0,0,0,0,0,0,1,0
+"Frontotemporal dementia",0,0,0,0,0,0,1,0
+"Delusions",0,0,0,0,0,0,1,0
+"Open mouth",0,0,0,0,0,0,1,0
+"High forehead",0,0,0,0,0,0,1,0
+"Dyslexia",0,0,0,0,0,0,1,0
+"Smooth philtrum",0,0,0,0,0,0,1,0
+"Amyotrophic lateral sclerosis",0,0,0,0,0,0,1,0
+"Global brain atrophy",0,0,0,0,0,0,1,0
+"Epicanthus",0,0,0,0,0,0,1,0
+"Perseveration",0,0,0,0,0,0,1,0
+"Stereotypy",0,0,0,0,0,0,1,0
+"Deeply set eye",0,0,0,0,0,0,1,0
+"Sleep disturbance",0,0,0,0,0,0,1,0
+"Language impairment",0,0,0,0,0,0,1,0
+"Feeding difficulties in infancy",0,0,0,0,0,0,1,0
+"Abnormality of extrapyramidal motor function",0,0,0,0,0,0,1,0
+"Apraxia",0,0,0,0,0,0,1,0
+"Abnormal upper motor neuron morphology",0,0,0,0,0,0,1,0
+"Degeneration of the lateral corticospinal tracts",0,0,0,0,0,0,1,0
+"Hypertonia",0,0,0,0,0,0,1,0
+"Psychosis",0,0,0,0,0,0,1,0
+"Abnormality of the cerebral white matter",0,0,0,0,0,0,1,0
+"Brain atrophy",0,0,0,0,0,0,1,0
+"Full cheeks",0,0,0,0,0,0,1,0
+"Skeletal muscle atrophy",0,0,0,0,0,0,1,0
+"Urinary tract neoplasm",0,0,0,0,0,0,1,0
+"Lack of insight",0,0,0,0,0,0,1,0
+"Cardiac diverticulum",0,0,0,0,0,0,1,0
+"Restrictive behavior",0,0,0,0,0,0,1,0
+"Thick eyebrow",0,0,0,0,0,0,1,0
+"S-acyltransferase activity",0,0,0,0,0,0,0,1
+"GTPase activating protein binding",0,0,0,0,0,0,0,1
+"beta-tubulin binding",0,0,0,0,0,0,0,1
+"nuclear hormone receptor binding",0,0,0,0,0,0,0,1
+"palmitoyltransferase activity",0,0,0,0,0,0,0,1
+"protein kinase A catalytic subunit binding",0,0,0,0,0,0,0,1
+"protein-cysteine S-palmitoyltransferase activity",0,0,0,0,0,0,0,1
+"protein-cysteine S-acyltransferase activity",0,0,0,0,0,0,0,1
+"alpha-tubulin binding",0,0,0,0,0,0,0,1
+"Rab guanyl-nucleotide exchange factor activity",0,0,0,0,0,0,0,1
+"unfolded protein binding",0,0,0,0,0,0,0,1
+"AU-rich element binding",0,0,0,0,0,0,0,1
+"Rho guanyl-nucleotide exchange factor activity",0,0,0,0,0,0,0,1
+"N-acyltransferase activity",0,0,0,0,0,0,0,1
+"regulation of RNA splicing",0,0,0,0,0,0,0,1
+"phospholipid metabolic process",0,0,0,0,0,0,0,1
+"protein folding",0,0,0,0,0,0,0,1
+"maintenance of protein localization in organelle",0,0,0,0,0,0,0,1
+"regulation of mRNA splicing, via spliceosome",0,0,0,0,0,0,0,1
+"positive regulation of macroautophagy",0,0,0,0,0,0,0,1
+"maintenance of protein location",0,0,0,0,0,0,0,1
+"glycerolipid metabolic process",0,0,0,0,0,0,0,1
+"intraciliary transport",0,0,0,0,0,0,0,1
+"response to topologically incorrect protein",0,0,0,0,0,0,0,1
+"positive regulation of cellular metabolic process",0,0,0,0,0,0,0,1
+"alternative mRNA splicing, via spliceosome",0,0,0,0,0,0,0,1
+"chromatin remodeling",0,0,0,0,0,0,0,1
+"ERBB signaling pathway",0,0,0,0,0,0,0,1
+"signal transduction by p53 class mediator",0,0,0,0,0,0,0,1
+"spliceosomal complex assembly",0,0,0,0,0,0,0,1
+"regulation of protein metabolic process",0,0,0,0,0,0,0,1
+"positive regulation of metabolic process",0,0,0,0,0,0,0,1
+"maintenance of location in cell",0,0,0,0,0,0,0,1
+"clathrin coat assembly",0,0,0,0,0,0,0,1
+"substantia nigra development",0,0,0,0,0,0,0,1
+"regulation of Golgi organization",0,0,0,0,0,0,0,1
+"nucleobase-containing small molecule metabolic process",0,0,0,0,0,0,0,1
+"ribonucleotide metabolic process",0,0,0,0,0,0,0,1
+"regulation of cellular protein metabolic process",0,0,0,0,0,0,0,1
+"protein stabilization",0,0,0,0,0,0,0,1
+"regulation of alternative mRNA splicing, via spliceosome",0,0,0,0,0,0,0,1
+"intraciliary transport involved in cilium assembly",0,0,0,0,0,0,0,1
+"anatomical structure homeostasis",0,0,0,0,0,0,0,1
+"apoptotic signaling pathway",0,0,0,0,0,0,0,1
+"regulation of protein complex disassembly",0,0,0,0,0,0,0,1
+"regulation of transferase activity",0,0,0,0,0,0,0,1
+"purine ribonucleotide metabolic process",0,0,0,0,0,0,0,1
+"cellular lipid metabolic process",0,0,0,0,0,0,0,1
+"RNA-dependent DNA biosynthetic process",0,0,0,0,0,0,0,1
+"negative regulation of phosphorus metabolic process",0,0,0,0,0,0,0,1
+"negative regulation of phosphate metabolic process",0,0,0,0,0,0,0,1
+"lipid biosynthetic process",0,0,0,0,0,0,0,1
+"positive regulation of intracellular protein transport",0,0,0,0,0,0,0,1
+"positive regulation of nitrogen compound metabolic process",0,0,0,0,0,0,0,1
+"amyloid precursor protein metabolic process",0,0,0,0,0,0,0,1
+"regulation of cellular response to stress",0,0,0,0,0,0,0,1
+"positive regulation of macromolecule metabolic process",0,0,0,0,0,0,0,1
+"Rab protein signal transduction",0,0,0,0,0,0,0,1
+"negative regulation of cellular metabolic process",0,0,0,0,0,0,0,1
+"nucleoside bisphosphate biosynthetic process",0,0,0,0,0,0,0,1
+"purine nucleoside bisphosphate biosynthetic process",0,0,0,0,0,0,0,1
+"ribonucleoside bisphosphate biosynthetic process",0,0,0,0,0,0,0,1
+"protein localization to nucleus",0,0,0,0,0,0,0,1
+"regulation of protein ubiquitination",0,0,0,0,0,0,0,1
+"receptor catabolic process",0,0,0,0,0,0,0,1
+"telomere maintenance via telomerase",0,0,0,0,0,0,0,1
+"response to unfolded protein",0,0,0,0,0,0,0,1
+"import into nucleus",0,0,0,0,0,0,0,1
+"protein targeting",0,0,0,0,0,0,0,1
+"regulation of protein kinase activity",0,0,0,0,0,0,0,1
+"endoplasmic reticulum tubular network organization",0,0,0,0,0,0,0,1
+"cell growth",0,0,0,0,0,0,0,1
+"purine-containing compound biosynthetic process",0,0,0,0,0,0,0,1
+"endoplasmic reticulum-Golgi intermediate compartment",0,0,0,0,0,0,0,1
+"ciliary basal body",0,0,0,0,0,0,0,1
+"90S preribosome",0,0,0,0,0,0,0,1
+"integral component of endoplasmic reticulum membrane",0,0,0,0,0,0,0,1
+"intraciliary transport particle B",0,0,0,0,0,0,0,1
+"focal adhesion",0,0,0,0,0,0,0,1
+"cell-substrate adherens junction",0,0,0,0,0,0,0,1
+"cell-substrate junction",0,0,0,0,0,0,0,1
+"ciliary part",0,0,0,0,0,0,0,1
+"intrinsic component of endoplasmic reticulum membrane",0,0,0,0,0,0,0,1
+"Golgi stack",0,0,0,0,0,0,0,1
+"SAGA-type complex",0,0,0,0,0,0,0,1
+"mediator complex",0,0,0,0,0,0,0,1
+"aminoacyl-tRNA synthetase multienzyme complex",0,0,0,0,0,0,0,1
+"intraciliary transport particle",0,0,0,0,0,0,0,1
+"ruffle",0,0,0,0,0,0,0,1
+"ciliary tip",0,0,0,0,0,0,0,1
+"small-subunit processome",0,0,0,0,0,0,0,1
+"cytoplasmic dynein complex",0,0,0,0,0,0,0,1
+"endoplasmic reticulum-Golgi intermediate compartment membrane",0,0,0,0,0,0,0,1
+"pigment granule",0,0,0,0,0,0,0,1
+"melanosome",0,0,0,0,0,0,0,1
+"histone deacetylase complex",0,0,0,0,0,0,0,1
+"COPI-coated vesicle",0,0,0,0,0,0,0,1
+"integral component of Golgi membrane",0,0,0,0,0,0,0,1
+"Long-term depression",0,0,0,0,0,0,0,1
+"Thyroid hormone signaling pathway",0,0,0,0,0,0,0,1
+"EGFR tyrosine kinase inhibitor resistance",0,0,0,0,0,0,0,1
+"Nucleotide excision repair",0,0,0,0,0,0,0,1
+"Adherens junction",0,0,0,0,0,0,0,1
+"Cell cycle",0,0,0,0,0,0,0,1
+"Peroxisome",0,0,0,0,0,0,0,1
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,0,0,0,1
+"Colorectal cancer",0,0,0,0,0,0,0,1
+"FoxO signaling pathway",0,0,0,0,0,0,0,1
+"Renal cell carcinoma",0,0,0,0,0,0,0,1
+"Amino sugar and nucleotide sugar metabolism",0,0,0,0,0,0,0,1
+"Cargo trafficking to the periciliary membrane",0,0,0,0,0,0,0,1
+"Transcription-Coupled Nucleotide Excision Repair (TC-NER)",0,0,0,0,0,0,0,1
+"mRNA Capping",0,0,0,0,0,0,0,1
+"p75 NTR receptor-mediated signalling",0,0,0,0,0,0,0,1
+"FGFR2 alternative splicing",0,0,0,0,0,0,0,1
+"RNA Pol II CTD phosphorylation and interaction with CE during HIV infection",0,0,0,0,0,0,0,1
+"RNA Pol II CTD phosphorylation and interaction with CE",0,0,0,0,0,0,0,1
+"Formation of TC-NER Pre-Incision Complex",0,0,0,0,0,0,0,1
+"Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)",0,0,0,0,0,0,0,1
+"mRNA Splicing - Minor Pathway",0,0,0,0,0,0,0,1
+"Signaling by VEGF",0,0,0,0,0,0,0,1
+"RNA Polymerase II Transcription Initiation",0,0,0,0,0,0,0,1
+"RNA Polymerase II Transcription Initiation And Promoter Clearance",0,0,0,0,0,0,0,1
+"RNA Polymerase II Transcription Pre-Initiation And Promoter Opening",0,0,0,0,0,0,0,1
+"RNA Polymerase II HIV Promoter Escape",0,0,0,0,0,0,0,1
+"HIV Transcription Initiation",0,0,0,0,0,0,0,1
+"RNA Polymerase II Promoter Escape",0,0,0,0,0,0,0,1
+"Signaling by TGF-beta Receptor Complex",0,0,0,0,0,0,0,1
+"Deadenylation-dependent mRNA decay",0,0,0,0,0,0,0,1
+"PPARA activates gene expression",0,0,0,0,0,0,0,1
+"Signaling by FGFR in disease",0,0,0,0,0,0,0,1
+"Base Excision Repair",0,0,0,0,0,0,0,1
+"DNA Damage Recognition in GG-NER",0,0,0,0,0,0,0,1
+"Resolution of Abasic Sites (AP sites)",0,0,0,0,0,0,0,1
+"Viral Messenger RNA Synthesis",0,0,0,0,0,0,0,1
+"Signaling of Hepatocyte Growth Factor Receptor",0,0,0,0,0,0,0,1
+"Human Thyroid Stimulating Hormone (TSH) signaling pathway",0,0,0,0,0,0,0,1
+"MET in type 1 papillary renal cell carcinoma",0,0,0,0,0,0,0,1
+"PDGF Pathway",0,0,0,0,0,0,0,1
+"Kit receptor signaling pathway",0,0,0,0,0,0,0,1
+"Leptin signaling pathway",0,0,0,0,0,0,0,1
+"Factor: TFAP2A; motif: NGCCYSAGGCN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: RFX1; motif: NNGTNRCNATRGYAACNN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: Sall1; motif: NAKKCGKAAAKG; match class: 0",0,0,0,0,0,0,0,1
+"Factor: Elk-1:ETV7; motif: ANSCGGACGGATDTCCGGNT; match class: 1",0,0,0,0,0,0,0,1
+"Factor: Sp3; motif: ASMCTTGGGSRGGG; match class: 1",0,0,0,0,0,0,0,1
+"Factor: Kaiso; motif: NTCTCGCGAGANYTN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: Sox-4; motif: AACAAA; match class: 0",0,0,0,0,0,0,0,1
+"Factor: ATF2; motif: VGTGACGTMACN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: SREBP-2; motif: NNGYCACNNSMN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: rfx3:SRF; motif: TRGCAACNNNNNCCNWATANGGN; match class: 1",0,0,0,0,0,0,0,1
+"Factor: ZNF511; motif: GGRRGRGGCWGNG; match class: 0",0,0,0,0,0,0,0,1
+"Factor: BTEB3; motif: BNRNGGGAGGNGT; match class: 0",0,0,0,0,0,0,0,1
+"Factor: Tel-2; motif: YTACTTCCTG; match class: 1",0,0,0,0,0,0,0,1
+"Factor: KLF; motif: GGGNGGGG; match class: 0",0,0,0,0,0,0,0,1
+"Factor: CREB; motif: NNTKACGTCANNNS; match class: 0",0,0,0,0,0,0,0,1
+"Factor: LRF; motif: NGKGGGTSNCN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: CREB; motif: CNNTGACGTMA; match class: 0",0,0,0,0,0,0,0,1
+"Factor: FLI-1; motif: CMGGAWGTSAN; match class: 1",0,0,0,0,0,0,0,1
+"Factor: NHLH1; motif: CGCAGCTGCK; match class: 1",0,0,0,0,0,0,0,1
+"Factor: ATF-1; motif: CYYTGACGTCA; match class: 0",0,0,0,0,0,0,0,1
+"Factor: ZNF195; motif: NGGAGAAGCCGW; match class: 0",0,0,0,0,0,0,0,1
+"Factor: Sp3; motif: ASMCTTGGGSRGGG; match class: 0",0,0,0,0,0,0,0,1
+"Factor: USF1; motif: NNCAYGTGACC; match class: 1",0,0,0,0,0,0,0,1
+"Factor: SATB1; motif: NTTTAT; match class: 0",0,0,0,0,0,0,0,1
+"Factor: CTCF; motif: NNNGCCASCAGRKGGCRSNN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: KLF15; motif: GAGNNGGGGNGTDG; match class: 0",0,0,0,0,0,0,0,1
+"Factor: SP8; motif: RCCACGCCCMCY; match class: 0",0,0,0,0,0,0,0,1
+"Factor: YY1; motif: NYNKCCATNTT; match class: 1",0,0,0,0,0,0,0,1
+"Factor: CREB; motif: TGACGTMA; match class: 0",0,0,0,0,0,0,0,1
+"Factor: Erm:TBR2; motif: NNGTGNKANNNNNNNNTNNCRSCGGAWGN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: CTCF; motif: YNRCCASYAGRKGGCRSYN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: ING4; motif: CCACCA; match class: 0",0,0,0,0,0,0,0,1
+"Factor: ZNF3; motif: NGGGCCAACCGM; match class: 0",0,0,0,0,0,0,0,1
+"Factor: GEMIN3; motif: NCWGGRARRGRGNGNG; match class: 0",0,0,0,0,0,0,0,1
+"Factor: NFKAPPAB; motif: NNGGGANTTCCCN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: MECP2; motif: CCGGSNNNANNAWWT; match class: 0",0,0,0,0,0,0,0,1
+"Factor: HDAC1; motif: KGCARGGTC; match class: 1",0,0,0,0,0,0,0,1
+"Factor: GCMa:Elf-1; motif: NNCGGAARTGCKGGT; match class: 0",0,0,0,0,0,0,0,1
+"Factor: RUNX2; motif: WAACCGCAA; match class: 0",0,0,0,0,0,0,0,1
+"Factor: AHR; motif: CACGCN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: TFEA; motif: GYCASVTGACYN; match class: 1",0,0,0,0,0,0,0,1
+"Factor: A-Myb:OC-2; motif: YAACGGTTATCGATY; match class: 0",0,0,0,0,0,0,0,1
+"Factor: Erg; motif: NNACCGGAARTSN; match class: 0",0,0,0,0,0,0,0,1
+"Factor: USF; motif: GYCACGTGNC; match class: 1",0,0,0,0,0,0,0,1
+"Factor: ZFP90; motif: NSGTTKGGCMGM; match class: 0",0,0,0,0,0,0,0,1
+"Factor: ZNF777; motif: GTCCGYCCCGTCSAACAAT; match class: 0",0,0,0,0,0,0,0,1
+"Factor: ATF-4; motif: NNTKRCRTCANS; match class: 1",0,0,0,0,0,0,0,1
+"Factor: AhR; motif: NNNKNGCGTGNSNNNNN; match class: 1",0,0,0,0,0,0,0,1
+"Factor: ZNF835; motif: NCGRGKGAAMCC; match class: 0",0,0,0,0,0,0,0,1
+"0",0,0,0,0,0,0,0,1
