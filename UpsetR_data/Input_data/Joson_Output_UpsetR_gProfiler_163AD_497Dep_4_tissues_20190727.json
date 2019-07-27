@@ -1,7 +1,7 @@
 {
 	"file": "https://github.com/Miaozhen/Depression_Ataxia-Dystonia/UpsetR_data/Input_data/UpsetR_gProfiler_163AD_497Dep_4_tissues_20190727.csv",
 	"name": "UpsetR_gProfiler_163AD_497Dep_4_tissues_20190727",
-	"header": "term_name","CB_163AD","CTX_163AD","BG_163AD","HIP_163AD","CB_497Dep","CTX_497Dep","BG_497Dep","HIP_497Dep"
+	"header": "term_name", "CB_163AD", "CTX_163AD", "BG_163AD", "HIP_163AD", "CB_497Dep", "CTX_497Dep", "BG_497Dep", "HIP_497Dep"
 	"separator": " ",
 	"skip": 0,
 	"meta": [
