@@ -1,0 +1,16 @@
+{
+	"file": "https://github.com/Miaozhen/Depression_Ataxia-Dystonia/UpsetR_data/Input_data/UpsetR_gProfiler_163AD_497Dep_4_tissues_20190727.csv",
+	"name": "UpsetR_gProfiler_163AD_497Dep_4_tissues_20190727",
+	"header": "term_name","CB_163AD","CTX_163AD","BG_163AD","HIP_163AD","CB_497Dep","CTX_497Dep","BG_497Dep","HIP_497Dep"
+	"separator": " ",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 3 }
+	],
+	"author": "Miaozhen",
+    "description": "UpsetR_gProfiler_163AD_497Dep_4_tissues",
+    "source": "https://github.com/Miaozhen/Depression_Ataxia-Dystonia/UpsetR_data/"
+}
